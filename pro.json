@@ -28,7 +28,7 @@
             "name": "🌈免费接口，请勿贩售 公众号：宝盒没宝",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/29_022812_drpy.js",
+            "ext": "./lib/douban.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
