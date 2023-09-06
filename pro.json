@@ -664,15 +664,28 @@
             "ext": "91.108.56.145:80","jar":"./jar/muj.jar"
         },
         {
-            "key": "csp_CandyMuj_kuaimao",
-            "name": "🔞快猫",
-            "type": 3,
-            "api": "csp_CandyMuj_kuaimao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "91.108.56.145:80","jar":"./jar/muj.jar"
-        },
+      "key": "红袖",
+      "name": "🔞红袖资源",
+      "type": 1,
+      "api": "https://hongxiuzy.com/api.php/provide/vod/",
+       "playUrl": "",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "categories": [
+            "国产裸聊",
+                "抖音视频",
+                "SM调教",
+                "自拍偷拍",
+                "欧美无码",
+                "无码专区",
+                "极品探花",
+                "美女主播",
+                "内地传媒",
+                "国产精品"
+                
+            ]
+    },
  {"key": "直转点", "name": "🔞㊙️点播","type": 3,"api":"http://lgz.hk3.20212021.ml.cdn.cloudflare.net/直转点.js","ext":"http://lgz.hk3.20212021.ml.cdn.cloudflare.net/直转点.txt"}, 
  {"key":"csp_Alist1_lhg","name":"🔞罗汉果","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"changeable":1,"ext":"https://dpaste.com/7CML6KWYG.txt","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/lh.jar"}, 
  {"key":"csp_md","name":"🔞女优大合集","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/3313/mao/madou.json","jar":"./jar/xb.jar"}, 
