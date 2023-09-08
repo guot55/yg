@@ -42,6 +42,23 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./h/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"
+    },{
+      "key": "野兔资源",
+      "name": "🐇野兔4K",
+      "type": 1,
+      "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
+      "categories": [
+        "无敌4K资源",
+        "电影",
+        "动漫动画",
+        "国产剧",
+        "日韩剧",
+        "泰剧",
+        "欧美剧",
+        "纪录片"
+      ],
+      "searchable": 1,
+      "quickSearch": 1
     },
 {"key":"csp_XBPQTVB影视","name":"☁️极速云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./h/tvbyun.json","jar":"./jar/xBPQ_1106.jar"},
         {"key":"乐猪影视","name":"🐖乐猪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./h/lezhu.json"},
