@@ -821,7 +821,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "91.108.56.145:443","jar":"./jar/muj.jar"
-        },
+        },{"key":"csp_CandyMuj_iwant","name":"💖iwant","type":3,"api":"csp_CandyMuj_iwant","click":".vjs-big-play-button","searchable":1,"quickSearch":1,"filterable":0, "ext": "91.108.56.145:443","jar":"./jar/muj.jar"},
         {
       "key": "红袖",
       "name": "🔞红袖资源",
