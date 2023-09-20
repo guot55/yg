@@ -42,7 +42,33 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./h/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"
-    },
+    },{
+        "key": "suoni",
+        "name": "🛸索尼",
+        "type": 3,
+        "api": "./js/caiji.js",
+        "ext": {
+          "url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+          "categories": [
+            "动作片",
+            "喜剧片",
+            "爱情片",
+            "科幻片",
+            "恐怖片",
+            "剧情片",
+            "战争片",
+            "国产剧",
+            "欧美剧",
+            "韩剧",
+            "日剧",
+            "港剧",
+            "台剧",
+            "海外剧",
+            "大陆综艺",
+            "国产动漫"
+          ]
+        }
+      },
 {"key":"csp_XBPQTVB影视","name":"☁️极速云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./h/tvbyun.json","jar":"./jar/xBPQ_1106.jar"},
         {"key":"乐猪影视","name":"🐖乐猪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./h/lezhu.json"},
 	{"key":"达达龟","name":"🐢哒哒龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./h/dadagui.json"},
