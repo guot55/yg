@@ -148,7 +148,7 @@
       "changeable": 1,
       "ext": "https://www.6080yy3.com/","jar": "https://jihulab.com/ygbh1/box/-/raw/main/JAR/fan.jar"
     },  
-
+{"key":"drpy_js_追剧猫","name":"🐱追剧猫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/rjm.js"},
 {"key":"csp_XBPQTVB影视","name":"☁️极速云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./h/tvbyun.json","jar":"./jar/xBPQ_1106.jar"},
         {"key":"乐猪影视","name":"🐖乐猪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./h/lezhu.json"},
 	{"key":"达达龟","name":"🐢哒哒龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./h/dadagui.json"},
