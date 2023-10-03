@@ -35,16 +35,16 @@
         },{"key":"好趣网","name":"📺电视直播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e5%a5%bd%e8%b6%a3%e7%bd%91.js"},
           {
       "key": "csp_农民",
-      "name": "✈️速度流畅",
+      "name": "🍎小苹果",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./h/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"
+      "ext": "./h/nmys2.json"
     },{
             "key": "索尼",
-            "name": "索尼",
+            "name": "🎗索尼影视",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
             "playUrl": "",
