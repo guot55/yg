@@ -918,16 +918,16 @@
  {"key":"csp_JavDb","name":"🧲🔞JavDb","type":3,"api":"csp_JavDb","searchable":0,"quickSearch":1,"filterable":1,"jar": "./jar/javbus.jpg"},
 {"key": "csp_jiujiuzhobo","name":"🔞久久直播","type": 3, "api": "csp_xBPQ","searchable": 0,"quickSearch": 0, "filterable": 0, "ext":"./h/99zb.json","jar":"./jar/xb.jar"}, 
 {"key":"csp_jy","name":"🔞聚优直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/jy.json","jar":"./jar/xb.jar"},
-  {
-            "key": "csp_CandyMuj_fuliji",
-            "name": "🔞福利姬",
-            "type": 3,
-            "api": "csp_CandyMuj_fuliji",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "91.108.56.145:443","jar":"./jar/muj.jar"
-        },{"key":"csp_CandyMuj_iwant","name":"💖iwant","type":3,"api":"csp_CandyMuj_iwant","click":".vjs-big-play-button","searchable":1,"quickSearch":1,"filterable":0, "ext": "91.108.56.145:443","jar":"./jar/muj.jar"},
+ {
+      "key": "csp_土豪",
+      "name": "🔞土豪影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./h/土豪.json"
+    },
         {
       "key": "红袖",
       "name": "🔞红袖资源",
