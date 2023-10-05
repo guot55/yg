@@ -33,7 +33,7 @@
             "quickSearch": 0,
             "filterable": 0
         },{"key":"好趣网","name":"📺电视直播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e5%a5%bd%e8%b6%a3%e7%bd%91.js"},
-         {"key":"drpy_js_荐片","name":"🧲荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"}, {
+         {"key":"drpy_js_荐片","name":"🧲荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"},{"key":"js_v2-yj","name":"🌙宝盒专享","type":3,"api":"./lib/drpy2.min.js","ext":"./js/bhzx.js"}, {
       "key": "csp_农民",
       "name": "🍎小苹果",
       "type": 3,
