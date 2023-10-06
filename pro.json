@@ -918,7 +918,10 @@
  {"key":"csp_JavDb","name":"🧲🔞JavDb","type":3,"api":"csp_JavDb","searchable":0,"quickSearch":1,"filterable":1,"jar": "./jar/javbus.jpg"},
 {"key": "csp_jiujiuzhobo","name":"🔞久久直播","type": 3, "api": "csp_xBPQ","searchable": 0,"quickSearch": 0, "filterable": 0, "ext":"./h/天天直播.json","jar":"./jar/xb.jar"}, 
 {"key":"csp_jy","name":"🔞聚优直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/聚优直播0.json","jar":"./jar/xb.jar"},
- {
+ {"key":"csp_xBPQ_香蕉AV","name":"🔞天天综合","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/天天综合.json","jar":"./jar/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉资","name":"🔞天天中文字幕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/天天中文字幕.json","jar":"./jar/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉超","name":"🔞天天国产传媒","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/天天国产传媒.json","jar":"./jar/Yoursmile2.jar"},
+	{
       "key": "csp_土豪",
       "name": "🔞土豪影视",
       "type": 3,
