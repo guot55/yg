@@ -129,6 +129,135 @@
       "filterable": 1,
       "ext": "./h/free.json"
     },{
+      "key": "csp_Mp4Mov",
+      "name": "🧲Mp4电影",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "./JAR/XYQ1.jar"
+    },
+    {
+      "key": "csp_New6v",
+      "name": "🧲新6V",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.xb6v.com","jar": "./JAR/XYQ1.jar"
+    },
+    {
+      "key": "csp_SeedHub",
+      "name": "🧲SeedHub",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "./JAR/XYQ1.jar"
+    },
+    {
+      "key": "csp_KubaCL",
+      "name": "🧲酷吧电影",
+      "type": 3,
+      "api": "csp_KubaCL",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "./JAR/XYQ1.jar"
+    },
+    {
+      "key": "csp_MeijuTT",
+      "name": "🧲美剧天堂",
+      "type": 3,
+      "api": "csp_MeijuTT",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "./JAR/XYQ1.jar"
+    },
+    {
+      "key": "csp_MeijuMi",
+      "name": "🧲美剧迷",
+      "type": 3,
+      "api": "csp_MeijuMi",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "./JAR/XYQ1.jar"
+    },
+    {
+      "key": "csp_BLSGod",
+      "name": "🧲80S影视",
+      "type": 3,
+      "api": "csp_BLSGod",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "./JAR/XYQ1.jar"
+    },
+    {
+      "key": "csp_Xunlei8",
+      "name": "🧲迅雷吧",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "./JAR/XYQ1.jar"
+    },
+    
+    {
+      "key": "csp_XYQHiker_极影网",
+      "name": "🧲极影网",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./h/极影网.json","jar": "./JAR/XYQ1.jar"
+    },
+    {
+      "key": "csp_XYQHiker_高清MP4",
+      "name": "🧲高清MP4",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./h/高清MP4.json","jar": "./JAR/XYQ1.jar"
+    },
+    {
+      "key": "csp_XYQHiker_蚂蚁4K",
+      "name": "🧲蚂蚁4K",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./h/蚂蚁4K.json","jar": "./JAR/XYQ1.jar"
+    },
+    {
+      "key": "csp_XYQHiker_哔嘀影视",
+      "name": "🧲哔嘀影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./h/哔嘀影视.json","jar": "./JAR/XYQ1.jar"
+    },
+    {
+      "key": "csp_XYQHiker_磁力熊",
+      "name": "🧲磁力熊",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./h/磁力熊.json","jar": "./JAR/XYQ1.jar"
+    },{
       "key": "AppYs_南瓜",
       "name": "🎇南瓜影视",
       "type": 3,
