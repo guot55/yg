@@ -120,30 +120,6 @@
         "海外剧"
       ]
     },{
-      "key": "小猫",
-      "name": "🐱小猫影视",
-      "type": 1,
-      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "欧美剧",
-        "韩剧",
-        "悬疑片",
-        "喜剧片",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "犯罪片",
-        "记录片"
-      ],
-      "playUrl":"json:http://27.124.4.42:4567/jhjson/ceshi.php?url="
-    },{
       "key":"drpy_js_两个BT",
       "name":"⚽4K视界",
       "type":3,"api":"./lib/drpy2.min.js",
