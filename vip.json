@@ -1,41 +1,5 @@
-{
 
 
-
-
-"spider":"./jar/vip.jar",
-
-"lives":[
-
-
-    
-{
-      "name": "live",
-      "url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/pro.txt",
-      "type": 0,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-    },    
-    {"group":"redirect",
-    "channels":[{
-    "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2d1b3Q1NC95Z2JoL3Jhdy9icmFuY2gvbWFzdGVyL3pCL3Byby50eHQ="]}]
-    }],
-"sites":[
-{"key": "csp_XBPQ_6V",
-  "name": "🌈VIP专享",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext":"./h/6Vip.json"},{
-            "key": "索尼",
-            "name": "🌍VIP专享2K",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
