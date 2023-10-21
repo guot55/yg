@@ -43,6 +43,15 @@
       "filterable": 1,
       "ext": "./h/nmys2.json"
     },{
+      "key": "csp_好戏",
+      "name": "🌹好戏开场",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./h/好戏.json"
+    },{
       "key": "AppYs_南瓜",
       "name": "🍚VIP专享1080P-A",
       "type": 3,
