@@ -1084,7 +1084,35 @@
             ]
     },
  {"key": "直转点", "name": "🔞㊙️点播","type": 3,"api":"http://lgz.hk3.20212021.ml.cdn.cloudflare.net/直转点.js","ext":"http://lgz.hk3.20212021.ml.cdn.cloudflare.net/直转点.txt"}, 
- {"key":"csp_Alist1_lhg","name":"🔞罗汉果","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"changeable":1,"ext":"https://dpaste.com/7CML6KWYG.txt","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/lh.jar"}, 
+{
+      "key": "AList",
+      "name": "🔞❤罗汉果专用",
+      "type": 3,"style":{ "type":"rect", "ratio":1.485 },
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {     
+  "vodPic": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180504/82b2eff6f5bf489e9b4a90fbe9fc7e84.jpeg",
+        "drives": [
+{
+      "name": "ECVE",
+      "server": "https://pan.ecve.cn"
+    },
+    {
+      "name": "觸光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "星梦",
+      "server": "https://pan.bashroot.top"
+    },
+          {
+            "name": "罗汉果AV",
+            "server": "https://lala-ofbip.run.goorm.site"
+          }
+        ]
+      }
+    },
  {"key":"csp_md","name":"🔞女优大合集","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/3313/mao/madou.json","jar":"./jar/xb.jar"}, 
  
  {
