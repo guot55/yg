@@ -148,6 +148,160 @@
       "filterable": 1,
       "ext": "./h/free.json"
     },{
+    "key":"csp_XBPQ_duoju",
+    "name":"🍹多剧影院",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"免嗅\":\"1\",
+    \"演员\":\"主演：&&</div>\",
+    \"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",
+    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
+    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
+    \"线路标题\":\"<span>&&</small>\",
+    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
+    \"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$34#综艺$3#动漫$4\",
+    \"分类url\":\"https://duoju.vip/vodshow/{cateId}--------{catePg}---.html\"}"},
+    //
+
+ {
+    "key":"csp_XBPQ_pingguo",
+    "name":"🍹青苹果影院",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"免嗅\":\"1\",
+    \"演员\":\"主演：&&</div>\",
+    \"简介\":\"class=\\\"module-info-introduction-content&&</div>\",
+    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
+    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
+    \"线路标题\":\"<span>&&</small>\",
+    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
+    \"分类\":\"电影$1#电视剧$2#国产剧$22#港剧$26#美剧$23#综艺$3#动漫$4\",
+    \"分类url\":\"https://www.miushuo.com/vodshow/{cateId}--------{catePg}---.html\"}"},
+    //
+
+  {
+    "key":"csp_XBPQ_六度",
+    "name":"🍹六度影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
+    \"线路数组\":\"data-toggle&&</li>\",
+    \"线路标题\":\">&&/a>\",
+    \"播放链接\":\"href=\\\'&&\\\'\",
+    \"播放标题\":\">&&\",
+    \"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",
+    \"分类\":\"电影$1#电视剧$2#综艺$4#动漫$3\",
+    \"分类url\":\"https://6d.zzdacou.com/whole/{cateId}_______0_addtime_{catePg}.html\"}"},
+    //
+
+{
+    "key":"csp_XBPQ_aikan",
+    "name":"🍹爱看影院",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"主演\":\"主演：&&</div>\",
+    \"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",
+    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
+    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
+    \"线路标题\":\"<span>&&</small>\",
+    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
+    \"分类\":\"电影$1#电视剧$2#国产剧$42#港剧$49#综艺$3#动漫$4\",
+    \"分类url\":\"https://www.3wyy.com/vodshow/{cateId}--------{catePg}---.html\"}"},
+{
+    "key":"csp_XBPQ_dudu30",
+    "name":"🍹嘟嘟影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"请求头\":\"手机\",
+    \"简介\":\"介绍：&&</span>\",
+    \"副标题\":\"class=\\\"other\\\">&&</p>\",
+    \"线路数组\":\"playerico ico-Azhan&&/li>\",
+    \"线路标题\":\"</i>&&<\",
+   
+    \"分类\":\"电影$1#电视剧$2#国产剧$12#港剧$21#综艺$31#动漫$26\",
+    \"分类url\":\"http://www.dudu30.com/?m=vod-type-id-{cateId}-pg-{catePg}.html\"}"},
+    //
+
+ {
+    "key":"csp_XBPQ_xinshijue",
+    "name":"🍹新视觉影视网",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"免嗅\":\"1\",
+    \"主演\":\"主演：&&</div>\",
+    \"简介\":\"class=\\\"video-info-item video-info-content vod_content\\\"&&</div>\",
+    \"数组\":\"class=\\\"module-item-pic&&</div>\",
+    \"副标题\":\"class=\\\"module-item-text\\\">&&</div>\",
+    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
+    \"线路标题\":\"<span>&&</small>\",
+    \"播放数组\":\"class=\\\"scroll-content&&</div>\",
+    \"分类\":\"电影$1#电视剧$2#国产剧$42#港台剧$49#综艺$3#动漫$4\",
+    \"分类url\":\"https://www.6080yy3.com/vodshow/{cateId}--------{catePg}---.html\"}"},
+    //
+ {
+    "key":"csp_XBPQ_subai",
+    "name":"🍹素白白影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"免嗅\":\"0\",
+     \"主演\":\"主演:&&</div>\",
+    \"播放数组\":\"class=\\\"paly_list_btn&&</div>\",
+    \"副标题\":\"class=\\\"jidi\\\">&&</span>\",
+    \"简介\":\"class=\\\"yp_context\\\"*<p>&&</div>\",
+    \"分类\":\"电影$new-movie#电视剧$tv-drama#国产剧$domestic-drama#香港经典电影$hongkong-movie\",
+    \"分类url\":\"https://www.subaibaiys.com/{cateId}/page/{catePg}\"}"},
+    //
+   
+     
+   
+    {
+    "key":"csp_XBPQ_大师兄影院",
+    "name":"🍹大师兄影院",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+     \"主演\":\"主演:&&</div>\",
+    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
+    \"简介\":\"module-blocklist scroll-boxscroll-box-ymodule-player-list\\\"&&</span>\",
+    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
+    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
+    \"线路标题\":\"<span>&&</small>\",
+    \"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$14#综艺$3#动漫$4\",
+    \"分类url\":\"https://dsxys.pro/vodshow/{cateId}--------{catePg}---.html\"}"},
+    //
+   
+    {
       "key": "csp_Mp4Mov",
       "name": "🧲Mp4电影",
       "type": 3,
