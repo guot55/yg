@@ -120,7 +120,16 @@
         "体育赛事",
         "海外剧"
       ]
-    }, {"key":"csp_WoGG","name":"📀阿里玩偶4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/f.jar"}, {
+    },  {
+      "key": "Wogg",
+      "name": "🅱️玩偶哥哥|T追剧",
+      "type": 3,
+      "api": "csp_XPathAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./a/玩偶哥哥.json","jar": "./jar/4k.jar"
+    },{
       "key": "csp_骚火",
       "name": "✨骚火影视",
       "type": 3,
@@ -489,15 +498,65 @@
       "filterable": 1,
       "ext": "./a/哔哩经典.json"
     },
-    {
-      "key": "py_cctv_企鹅",
-      "name": "📺体育｜直播",
+     {
+      "key": "PanSearch",
+      "name": "🔍阿里|网盘搜",
       "type": 3,
-      "api": "py_cctv_full",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "csp_PanSearch",
+      "searchable": 1,
       "filterable": 1,
-      "ext": "./a/py_企鹅体育.py"
+      "changeable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvbox/0802a572-be01-456f-b82a-3533ed6f743d/token.txt","jar": "./jar/4k.jar"
+    },
+    {
+      "key": "PanSou",
+      "name": "🔍阿里|盘搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvbox/0802a572-be01-456f-b82a-3533ed6f743d/token.txt","jar": "./jar/4k.jar"
+    },
+    {
+      "key": "UpYun",
+      "name": "🔍阿里|优盘搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvbox/0802a572-be01-456f-b82a-3533ed6f743d/token.txt","jar": "./jar/4k.jar"
+    },
+    {
+      "key": "YiSou",
+      "name": "🔍阿里|易搜搜",
+      "type": 3,
+      "api": "csp_YiSou",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$satoken=abfceef7-ca8f-40b6-afd8-5c11fab10336","jar": "./jar/4k.jar"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "🔍阿里|找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvbox/0802a572-be01-456f-b82a-3533ed6f743d/token.txt","jar": "./jar/4k.jar"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "🔍阿里|小纸条",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvbox/0802a572-be01-456f-b82a-3533ed6f743d/token.txt","jar": "./jar/4k.jar"
     },
     {
       "key": "mtv_xp_动漫巴士",
