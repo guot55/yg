@@ -121,14 +121,14 @@
         "海外剧"
       ]
     },  {
-      "key": "Wogg",
-      "name": "🅱️玩偶哥哥|T追剧",
+      "key": "玩偶哥哥",
+      "name": "👽玩偶哥哥4K",
       "type": 3,
-      "api": "csp_XPathAli",
+      "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./a/玩偶哥哥.json","jar": "./jar/4k.jar"
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/8984308d-d7df-4fcf-8b00-f31bd37ac3a0/token.txt","jar": "./jar/f.jar"
     },{
       "key": "csp_骚火",
       "name": "✨骚火影视",
@@ -506,7 +506,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/0802a572-be01-456f-b82a-3533ed6f743d/token.txt","jar": "./jar/4k.jar"
+      "ext": "http://127.0.0.1:9978/file/tvbox/0802a572-be01-456f-b82a-3533ed6f743d/token.txt","jar": "./jar/f.jar"
     },
     {
       "key": "PanSou",
@@ -516,7 +516,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/0802a572-be01-456f-b82a-3533ed6f743d/token.txt","jar": "./jar/4k.jar"
+      "ext": "http://127.0.0.1:9978/file/tvbox/0802a572-be01-456f-b82a-3533ed6f743d/token.txt","jar": "./jar/f.jar"
     },
     {
       "key": "UpYun",
@@ -526,7 +526,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/0802a572-be01-456f-b82a-3533ed6f743d/token.txt","jar": "./jar/4k.jar"
+      "ext": "http://127.0.0.1:9978/file/tvbox/0802a572-be01-456f-b82a-3533ed6f743d/token.txt","jar": "./jar/f.jar"
     },
     {
       "key": "YiSou",
@@ -536,7 +536,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$satoken=abfceef7-ca8f-40b6-afd8-5c11fab10336","jar": "./jar/4k.jar"
+      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$satoken=abfceef7-ca8f-40b6-afd8-5c11fab10336","jar": "./jar/f.jar"
     },
     {
       "key": "Zhaozy",
@@ -546,7 +546,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/0802a572-be01-456f-b82a-3533ed6f743d/token.txt","jar": "./jar/4k.jar"
+      "ext": "http://127.0.0.1:9978/file/tvbox/0802a572-be01-456f-b82a-3533ed6f743d/token.txt","jar": "./jar/f.jar"
     },
     {
       "key": "Gitcafe",
@@ -556,7 +556,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/0802a572-be01-456f-b82a-3533ed6f743d/token.txt","jar": "./jar/4k.jar"
+      "ext": "http://127.0.0.1:9978/file/tvbox/0802a572-be01-456f-b82a-3533ed6f743d/token.txt","jar": "./jar/f.jar"
     },
     {
       "key": "mtv_xp_动漫巴士",
