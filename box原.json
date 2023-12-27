@@ -206,7 +206,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/星辰影视.json"
+      "ext": "./a/星辰影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_TVB",
@@ -226,7 +226,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/农民影视.json"
+      "ext": "./a/农民影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_xBPQ_奇优",
@@ -236,7 +236,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/奇优影视.json"
+      "ext": "./a/奇优影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_疯狗",
@@ -286,7 +286,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/超前B站.json"
+      "ext": "./a/超前B站.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_热播",
@@ -296,7 +296,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/热播之家.json"
+      "ext": "./a/热播之家.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_玖摇",
@@ -306,7 +306,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/91影视.json"
+      "ext": "./a/91影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_不卡",
@@ -336,7 +336,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/大师兄影视.json"
+      "ext": "./a/大师兄影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_xBPQ_视觉",
@@ -356,7 +356,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/圣城影视.json"
+      "ext": "./a/圣城影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_好戏",
@@ -366,7 +366,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/好戏影视.json"
+      "ext": "./a/好戏影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_七月",
@@ -376,7 +376,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/七月影视.json"
+      "ext": "./a/七月影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_佳能",
@@ -386,7 +386,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/348影视.json"
+      "ext": "./a/348影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_土豪",
@@ -396,7 +396,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/土豪影视.json"
+      "ext": "./a/土豪影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_觅知",
@@ -406,7 +406,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/觅知影视.json"
+      "ext": "./a/觅知影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_达龟",
@@ -416,7 +416,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/达达龟影视.json"
+      "ext": "./a/达达龟影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_七年",
@@ -426,7 +426,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/七年影视.json"
+      "ext": "./a/七年影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_黑狐",
@@ -446,7 +446,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/苹果影视.json"
+      "ext": "./a/苹果影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_米爱",
@@ -456,7 +456,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/米爱影视.json","jar": "./jar/4K.jar"
+      "ext": "./a/米爱影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_低端",
@@ -466,7 +466,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/低端影视.json"
+      "ext": "./a/低端影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_非凡",
