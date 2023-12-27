@@ -389,16 +389,6 @@
       "ext": "./a/348影视.json","jar": "./jar/4k.jar"
     },
     {
-      "key": "csp_土豪",
-      "name": "💚土豪影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./a/土豪影视.json","jar": "./jar/4k.jar"
-    },
-    {
       "key": "csp_觅知",
       "name": "🔆觅知影视",
       "type": 3,
