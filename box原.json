@@ -456,7 +456,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/米爱影视.json"
+      "ext": "./a/米爱影视.json","jar": "./jar/4K.jar"
     },
     {
       "key": "csp_低端",
