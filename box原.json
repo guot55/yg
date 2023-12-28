@@ -11,7 +11,7 @@
     
 {
       "name": "live",
-      "url": "https://codeberg.org/ygbh8888/BH/raw/branch/main/ZB/ZB.txt",
+      "url": "./h/zb.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -20,7 +20,7 @@
     {"group":"redirect",
     "channels":[{
     "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcveWdiaDg4ODgvQkgvcmF3L2JyYW5jaC9tYWluL1pCL1pCLnR4dA=="]}]
+    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vZ3VvdDU0L1lHQkg3NzcvcmF3L21haW4vaC96Yi50eHQ="]}]
     }],
 "sites":[
 {
