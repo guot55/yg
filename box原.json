@@ -36,7 +36,7 @@
          
 		{
 			"key": "酷狗",
-			"name": "酷狗",
+			"name": "🎵酷狗音乐",
 			"type": 3,
 			"api": "csp_Kugou",
 			"searchable": 1,
@@ -54,7 +54,7 @@
       "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
     },{
 			"key": "996影院",
-			"name": "996影院",
+			"name": "🚥996影院",
 			"type": 3,
 			"api": "csp_Cs1369",
 			"searchable": 1,
