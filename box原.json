@@ -137,6 +137,16 @@
         "海外剧"
       ]
     },  {
+      "key": "鑫鑫影视",
+      "name": "🥇鑫鑫影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+    },
+ {
       "key": "玩偶哥哥",
       "name": "👽玩偶哥哥4K",
       "type": 3,
