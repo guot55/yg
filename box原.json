@@ -27,37 +27,7 @@
         }
       ]
     }],
-"sites":[{"key":"Wogg","name":"玩偶哥哥|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
-		{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
-		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
-		{"key":"Pan99","name":"盘99|网盘","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1","jar": "./pg.jar"},
-		{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$null$$$1","jar": "./pg.jar"},
-		{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar": "./pg.jar"},
-		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$null$$$1","jar": "./pg.jar"},
-		{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$null$$$1","jar": "./pg.jar"},
-		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.libvio.vip$$$null","jar": "./pg.jar"},
-		{"key":"PanSearch","name":"PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
-		{"key":"易搜","name":"易搜|网盘","type":3,"api":"csp_YiSo","timeout":30, "ext":"./lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294","jar": "./pg.jar"},
-		{"key":"盘搜","name":"盘搜|阿里","type":3,"api":"csp_PanSou","timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
-		{"key":"Funletu","name":"趣盘搜|夸克","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
-		{"key":"QuarkPanso","name":"夸克盘搜|夸克","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
-		{"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","jar": "./pg.jar"},
-		{"key":"DaPanSo","name":"大盘搜|网盘","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://dapanso.com$$$null","jar": "./pg.jar"},
-		{"key":"Qianfan","name":"千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$QianFanID=","jar": "./pg.jar"},
-		{"key":"YunSo","name":"小云搜索|网盘","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
-		{"key":"YunPanOne","name":"云盘资源|网盘","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
-		{
-			"key": "NanGua",
-			"name": "南瓜|弹幕",
-			"type": 3,
-			"api": "csp_NanGua",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "null$$$1","jar": "./pg.jar"
-		},
-		{"key":"Dovx", "name": "阿里|Dovx", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json" ,"jar": "./pg.jar"},
-		{"key":"Gitcafe", "name": "阿里|小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar" },
-		{"key":"找資源", "name":"阿里|找資源", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json$$$user$$$pass","jar": "./pg.jar" },
+"sites":[
 {
             "key": "js豆瓣1",
             "name": "🌈免费接口，请勿贩售 公众号：宝盒没宝",
@@ -181,16 +151,7 @@
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
- {
-      "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥4K",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/8984308d-d7df-4fcf-8b00-f31bd37ac3a0/token.txt","jar": "./jar/f.jar"
-    },{
+ {"key":"Wogg","name":"🌍玩偶4k|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},{
       "key": "csp_骚火",
       "name": "✨骚火影视",
       "type": 3,
@@ -259,6 +220,36 @@
       "filterable": 1,
       "ext": "./a/蛋蛋影视.json"
     },
+    {"key":"影视车","name":"⚽影视车4K|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
+		{"key":"Wobg","name":"🎀玩偶表哥4K|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
+		{"key":"Pan99","name":"🍅盘99 4K|网盘","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1","jar": "./pg.jar"},
+		{"key":"Hdhive","name":"🍊影巢4K|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$null$$$1","jar": "./pg.jar"},
+		{"key":"Ppxzy","name":"🌽皮皮虾4K|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar": "./pg.jar"},
+		{"key":"校长影视","name":"🍉校长4K|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$null$$$1","jar": "./pg.jar"},
+		{"key":"团长资源","name":"🍑团长4K|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$null$$$1","jar": "./pg.jar"},
+		{"key":"Libvio","name":"🍓LIBVIO4K|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.libvio.vip$$$null","jar": "./pg.jar"},
+		{"key":"PanSearch","name":"🚀PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
+		{"key":"易搜","name":"⛅易搜|网盘","type":3,"api":"csp_YiSo","timeout":30, "ext":"./lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294","jar": "./pg.jar"},
+		{"key":"盘搜","name":"☁盘搜|阿里","type":3,"api":"csp_PanSou","timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
+		{"key":"Funletu","name":"🧻趣盘搜|夸克","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
+		{"key":"QuarkPanso","name":"⛈夸克盘搜|夸克","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
+		{"key":"Panta","name":"🚦盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","jar": "./pg.jar"},
+		{"key":"DaPanSo","name":"🚌大盘搜|网盘","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://dapanso.com$$$null","jar": "./pg.jar"},
+		{"key":"Qianfan","name":"🚍千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$QianFanID=","jar": "./pg.jar"},
+		{"key":"YunSo","name":"🚖小云搜索|网盘","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
+		{"key":"YunPanOne","name":"🚕云盘资源|网盘","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
+		{
+			"key": "NanGua",
+			"name": "南瓜|弹幕",
+			"type": 3,
+			"api": "csp_NanGua",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "null$$$1","jar": "./pg.jar"
+		},
+		{"key":"Dovx", "name": "🥮阿里|Dovx", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json" ,"jar": "./pg.jar"},
+		{"key":"Gitcafe", "name": "🥙阿里|小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar" },
+		{"key":"找資源", "name":"🧁阿里|找資源", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json$$$user$$$pass","jar": "./pg.jar" },
     {
       "key": "csp_星辰",
       "name": "🎯星辰影视",
