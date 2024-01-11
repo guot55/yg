@@ -38,6 +38,13 @@
             "quickSearch": 0,
             "filterable": 0
         },{"key":"好趣网","name":"📺电视直播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e5%a5%bd%e8%b6%a3%e7%bd%91.js"},
+        {
+      "key": "影探",
+      "name": " 🕵️┃影探┃影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/yt.js"
+    },
          {"key": "ytvip","name": "🕵️宝盒VIP-4K","type": 3,"api": "csp_AppYsV2","ext": "http://wvvipcms.lyyytv.cn/api.php/app/","searchable": 1,"changeable": 1},
 		{
 			"key": "酷狗",
