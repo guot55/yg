@@ -53,7 +53,7 @@
 			"api": "csp_Kugou",
 			"searchable": 1,
 			"changeable": 0,"jar": "./jar/pg.jar"
-		},{"key": "1080资源","name": "1080测试","type": 1,"api": "https://api.1080zyku.com/inc/api.php?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 }, 
+		},
          {"key":"drpy_js_荐片","name":"🧲荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"},{"key":"畅梦","name":"💯宝盒秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},{
       "key": "AppYs_南瓜",
       "name": "🍚宝盒专享1080P-A",
