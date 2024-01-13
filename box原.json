@@ -50,7 +50,7 @@
 				"ratio": 1
 			},
 			"ext":"./lib/tokenm.json"
-		},
+		},{"key":"Wogg","name":"🌍玩偶4k|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
         {
             "key" : "drpy_jsyt",
             "name" : "影探4K",
@@ -179,8 +179,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },
- {"key":"Wogg","name":"🌍玩偶4k|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},{
+    },{
+			"key": "快帆",
+			"name": "⛵快帆",
+			"type": 1,
+			"api": "https://api.kuaifan.tv/api.php/provide/vod",
+			"searchable": 1,
+			"changeable": 1
+		},
+ {
       "key": "csp_骚火",
       "name": "✨骚火影视",
       "type": 3,
