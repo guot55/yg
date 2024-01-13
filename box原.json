@@ -179,14 +179,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },{
-			"key": "快帆",
-			"name": "⛵快帆",
-			"type": 1,
-			"api": "https://api.kuaifan.tv/api.php/provide/vod",
-			"searchable": 1,
-			"changeable": 1
-		},
+    },
  {
       "key": "csp_骚火",
       "name": "✨骚火影视",
