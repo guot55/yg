@@ -45,15 +45,16 @@
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/yt.js"
         },
-         {
-            "key": "ZYJK", 
-            "name": "🌟宝盒自用极速", 
-            "type": 1, 
-            "api": "http://film.benmx.com/api.php/tvbox", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1
-        },
+       {
+      "key": "csp_圣城",
+      "name": "🔰圣城影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/圣城影视.json","jar": "./jar/4k.jar"
+    },
 		{
 			"key": "酷狗",
 			"name": "🎵酷狗音乐",
@@ -414,16 +415,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./a/新视觉影视.json"
-    },
-    {
-      "key": "csp_圣城",
-      "name": "🔰圣城影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./a/圣城影视.json","jar": "./jar/4k.jar"
     },
     {
       "key": "csp_好戏",
@@ -849,7 +840,15 @@
     \"分类\":\"电影$1#电视剧$2#国产剧$12#港剧$21#综艺$31#动漫$26\",
     \"分类url\":\"http://www.dudu30.com/?m=vod-type-id-{cateId}-pg-{catePg}.html\"}"},
     //
-
+{
+            "key": "ZYJK", 
+            "name": "🌟宝盒极速", 
+            "type": 1, 
+            "api": "http://film.benmx.com/api.php/tvbox", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1
+        },
  {
     "key":"csp_XBPQ_xinshijue",
     "name":"🍹新视觉影视网",
