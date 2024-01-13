@@ -53,7 +53,7 @@
 		},{"key":"Wogg","name":"🌍玩偶4k|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
         {
             "key" : "drpy_jsyt",
-            "name" : "影探4K",
+            "name" : "⛵宝盒4K",
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/yt.js"
