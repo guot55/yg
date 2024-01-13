@@ -45,7 +45,15 @@
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/yt.js"
         },
-         {"key": "ytvip","name": "🕵️宝盒VIP-4K","type": 3,"api": "csp_AppYsV2","ext": "http://wvvipcms.lyyytv.cn/api.php/app/","searchable": 1,"changeable": 1},
+         {
+            "key": "ZYJK", 
+            "name": "🌟宝盒自用极速", 
+            "type": 1, 
+            "api": "http://film.benmx.com/api.php/tvbox", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1
+        },
 		{
 			"key": "酷狗",
 			"name": "🎵酷狗音乐",
