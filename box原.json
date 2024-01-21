@@ -37,13 +37,14 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
-        },{ 
-   "key": "直播转点播", 
-   "name": "🐼电视直播1", 
-   "type": 3, 
-   "api": "./lib/zbdd2.js", 
-   "ext": "./js/zb.js" 
-  },
+        },{
+                        "key": "直播转点播",
+                        "name": "🐼┃电视┃直播",
+                        "type": 3,
+                        "searchable": 0,
+                        "api": "./lib/live2vod.js",
+                        "ext": "./js/zb.js"
+                },
         {"key":"好趣网","name":"📺电视直播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e5%a5%bd%e8%b6%a3%e7%bd%91.js"},
        {
 			"key": "网盘配置",
