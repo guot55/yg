@@ -260,8 +260,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./a/蛋蛋影视.json"
-    },
-    {"key":"影视车","name":"⚽影视车4K|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
+    },{"key":"88Pan","name":"88网盘|网盘","type":3,"api":"csp_EightEight","timeout":30, "ext":"./lib/tokenm.json$$$https://662688.xyz","jar": "./pg.jar"},
+   {"key":"混合盘","name":"混合盘|网盘","type":3,"api":"csp_HunHePan","timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
+		{"key":"秒搜","name":"秒搜|网盘","type":3,"api":"csp_MiaoSou","timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
+   {"key":"影视车","name":"⚽影视车4K|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
 		{"key":"Wobg","name":"🎀玩偶表哥4K|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
 		{"key":"Pan99","name":"🍅盘99 4K|网盘","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1","jar": "./pg.jar"},
 		{"key":"Hdhive","name":"🍊影巢4K|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$null$$$1","jar": "./pg.jar"},
@@ -279,15 +281,7 @@
 		{"key":"Qianfan","name":"🚍千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$QianFanID=","jar": "./pg.jar"},
 		{"key":"YunSo","name":"🚖小云搜索|网盘","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
 		{"key":"YunPanOne","name":"🚕云盘资源|网盘","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar"},
-		{
-			"key": "NanGua",
-			"name": "南瓜|弹幕",
-			"type": 3,
-			"api": "csp_NanGua",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "null$$$1","jar": "./pg.jar"
-		},
+		
 		{"key":"Dovx", "name": "🥮阿里|Dovx", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json" ,"jar": "./pg.jar"},
 		{"key":"Gitcafe", "name": "🥙阿里|小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json","jar": "./pg.jar" },
 		{"key":"找資源", "name":"🧁阿里|找資源", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable": 0, "timeout":30, "ext":"./lib/tokenm.json$$$user$$$pass","jar": "./pg.jar" },
