@@ -61,7 +61,15 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/yt.js"
-        },
+        },{
+   "key": "安博",
+   "name": "🍋安博T4",
+   "type": 4,
+   "api": "https://ali.唐.hz.cz/site/ub1818",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
        {
       "key": "csp_圣城",
       "name": "🔰圣城影视",
