@@ -121,13 +121,6 @@
       "quickSearch": 1,
       "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
     },{
-			"key": "996影院",
-			"name": "🚥996影院",
-			"type": 3,
-			"api": "csp_Cs1369",
-			"searchable": 1,
-			"changeable": 1,"jar": "./jar/pg.jar"
-		},{
             "key": "索尼",
             "name": "🌸宝盒VIP专享1080P-B",
             "type": 1,
