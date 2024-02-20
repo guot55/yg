@@ -54,7 +54,7 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		,"jar": "./pg.jar"
-		},{"key":"Wogg","name":"🌍玩偶4k|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
+		}, {"key":"drpy_js_荐片","name":"🧲荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"}, {"key":"畅梦","name":"💯宝盒秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},{"key":"Wogg","name":"🌍玩偶4k|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
         {
             "key" : "drpy_jsyt",
             "name" : "⛵宝盒4K",
@@ -125,7 +125,7 @@
 			"searchable": 1,
 			"changeable": 0,"jar": "./jar/pg.jar"
 		},
-         {"key":"drpy_js_荐片","name":"🧲荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"},{"key":"畅梦","name":"💯宝盒秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},{
+       {
       "key": "AppYs_南瓜",
       "name": "🍚宝盒专享1080P-A",
       "type": 3,
