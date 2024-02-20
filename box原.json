@@ -62,6 +62,15 @@
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/yt.js"
         },{
+      "key": "bulei",
+      "name": "布蕾Tv4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://tv.bl4k.xyz/api.php/app/"
+    },{
    "key": "安博",
    "name": "🍋安博T4",
    "type": 4,
