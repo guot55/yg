@@ -63,7 +63,7 @@
             "ext" : "./js/yt.js"
         },{
       "key": "bulei",
-      "name": "布蕾Tv4K",
+      "name": "📜布蕾Tv4K",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -71,14 +71,14 @@
       "filterable": 1,
       "ext": "http://tv.bl4k.xyz/api.php/app/"
     },{
-   "key": "安博",
-   "name": "🍋安博T4",
-   "type": 4,
-   "api": "https://ali.唐.hz.cz/site/ub1818",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },{
+   "key": "安博",
+   "name": "🍋安博T4",
+   "type": 4,
+   "api": "https://ali.唐.hz.cz/site/ub1818",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },{
                 "key": "小胡",
                 "name": "👒小胡4K",
                 "type": 3,
