@@ -69,7 +69,22 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
-  },
+  },{
+                "key": "小胡",
+                "name": "👒小胡4K",
+                "type": 3,
+                "api": "./js/caiji.js",
+                "ext": {
+                    "url": "http://xh.xzam.cn/api.php/provide/vod/",
+                    "categories": [
+                        "电影",
+                        "国剧",
+                        "美剧",
+                        "韩剧",
+                        "动漫"
+                    ]
+                }
+            },
        {
       "key": "csp_圣城",
       "name": "🔰圣城影视",
