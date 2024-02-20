@@ -71,6 +71,12 @@
       "filterable": 1,
       "ext": "http://tv.bl4k.xyz/api.php/app/"
     },{
+      "key": "蜜果视界",
+      "name": "🍊蜜果4K",
+      "api": "csp_AppYs",
+      "type": 3,
+      "ext": "https://miguo.pro/api.php/v1.vod"
+    },{
    "key": "安博",
    "name": "🍋安博T4",
    "type": 4,
