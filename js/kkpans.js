@@ -32,7 +32,6 @@ var rule = {
 	lazy:'',
 	limit:6,
 	推荐:'',
-	一级:'',
 	一级:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 let d = [];
@@ -60,11 +59,11 @@ pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
 let d = pdfa(html, 'div.viewthread div.message a[href^="https://pan.quark.cn/s/"]');
 let index = 1;
-if (d.length>1){
+if (false && d.length>1){
 	TABS.push("選擇右側綫路");
 }
 d.forEach(function(it) {
-	TABS.push("夸克雲盤" + index);
+	TABS.push("夸克網盤" + index);
 	index = index + 1;
 });
 log('meijumi TABS >>>>>>>>>>>>>>>>>>' + TABS);
@@ -75,12 +74,12 @@ LISTS=[];
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 let d = pdfa(html, 'div.viewthread div.message a[href^="https://pan.quark.cn/s/"]');
 let index = 1;
-if (d.length>1){
+if (false && d.length>1){
 	LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
 }
 d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
-	if (false){
+	if (true){
 		if (d.length==1){
 			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&confirm=0&url=" + encodeURIComponent(burl);
 		}else{

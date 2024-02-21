@@ -1,12 +1,15 @@
 var rule = {
 	title:'美剧迷[磁]',
-	host:'https://www.meijumi.net',
-	homeUrl:'/',
-	url: '/fyclass/page/fypage/?',
+	//host:'https://www.meijumi.net',
+	//homeUrl:'/',
+	//url: '/fyclass/page/fypage/?',
+	host:'http://127.0.0.1:10078',
+	homeUrl:'/p/0/s/https://www.meijumi.net/',
+	url: '/p/0/s/https://www.meijumi.net/fyclass/page/fypage/?',
 	filter_url:'{{fl.class}}',
 	filter:{
 	},
-	searchUrl: '/?s=**',
+	searchUrl: '/p/0/s/https://www.meijumi.net/?s=**',
 	searchable:2,
 	quickSearch:0,
 	filterable:0,
@@ -36,43 +39,47 @@ let html = request(input);
 let items;
 items = pdfa(html, 'main#main div.hd ul li:has(>a>img)');
 items.forEach(it => {
+	let burl = rule.homeUrl.replace("https://www.meijumi.net/","") + pd(it, 'a&&href').replace(rule.host, "https://www.meijumi.net");
 	d.push({
 		title: pdfh(it, 'li&&Text'),
 		desc: '',
 		pic_url: pd(it, 'img&&src', HOST),
-		url: pdfh(it, 'a&&href')
+		url: burl
 	});
 });
 items = pdfa(html, 'main#main div.hd div.huandeng span:has(>a>img)');
 if (typeof items !== "undefined") {
 	items.forEach(it => {
+		let burl = rule.homeUrl.replace("https://www.meijumi.net/","") + pd(it, 'a&&href').replace(rule.host, "https://www.meijumi.net");
 		d.push({
 			title: pdfh(it, 'span&&Text'),
 			desc: '',
 			pic_url: pd(it, 'img&&src', HOST),
-			url: pdfh(it, 'a&&href')
+			url: burl
 		});
 	});
 }
 items = pdfa(html, 'main#main div#pingbi_gg div:has(>div>a>img)');
 if (typeof items !== "undefined") {
 	items.forEach(it => {
+		let burl = rule.homeUrl.replace("https://www.meijumi.net/","") + pd(it, 'a&&href').replace(rule.host, "https://www.meijumi.net");
 		d.push({
 			title: pdfh(it, 'a&&title'),
 			desc: pdfh(it, 'div&&span b&&Text'),
 			pic_url: pd(it, 'img&&src', HOST),
-			url: pdfh(it, 'a&&href')
+			url: burl
 		});
 	});
 }
 items = pdfa(html, 'main#main div#pingbi_gg div:has(>header>div>a)');
 if (typeof items !== "undefined") {
 	items.forEach(it => {
+		let burl = rule.homeUrl.replace("https://www.meijumi.net/","") + pd(it, 'header a&&href').replace(rule.host, "https://www.meijumi.net");
 		d.push({
 			title: pdfh(it, 'header a&&Text'),
 			desc: pdfh(it, 'header&&div span&&Text'),
 			pic_url: pd(it, 'figure img&&src', HOST),
-			url: pdfh(it, 'header a&&href')
+			url: burl
 		});
 	});
 }
@@ -86,11 +93,12 @@ if (MY_CATE !== "news" ){
 	let html = request(input);
 	let list = pdfa(html, 'div#post_list_box article');
 	list.forEach(it => {
+		let burl = rule.homeUrl.replace("https://www.meijumi.net/","") + pd(it, 'header a&&href').replace(rule.host, "https://www.meijumi.net");
 		d.push({
 			title: pdfh(it, 'header a&&Text'),
 			desc: pdfh(it, 'div.entry-content span:eq(1)&&Text'),
 			pic_url: pd(it, 'figure img&&src', HOST),
-			url: pdfh(it, 'header a&&href')
+			url: burl
 		});
 	})
 }else{
@@ -98,11 +106,12 @@ if (MY_CATE !== "news" ){
 	let html = request(input);
 	let list = pdfa(html, 'article ol&&li');
 	list.forEach(it => {
+		let burl = rule.homeUrl.replace("https://www.meijumi.net/","") + pd(it, 'a&&href').replace(rule.host, "https://www.meijumi.net");
 		d.push({
 			title: pdfh(it, 'a&&Text'),
 			desc: pdfh(it, 'li&&span:eq(3)&&Text') + ' / 更新' + pdfh(it, 'li&&span:eq(1)&&Text'),
 			pic_url: '',
-			url: pdfh(it, 'a&&href')
+			url: burl
 		});
 	})
 }
@@ -143,7 +152,7 @@ d.forEach(function(it) {
 			magfn = resolution + "." + magfn;
 			log("tabs magnet filename>>>>>>>>>>>" + magfn);
 			playObj["magnet"][purl]=magfn;
-		}else if (purl.startsWith("https://www.aliyundrive.com/s/")){
+	        }else if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
 			playObj["ali"][purl]=title;
 		}else if (purl.startsWith("https://pan.quark.cn/s/")){
 			playObj["quark"][purl]=title;
@@ -165,22 +174,22 @@ playGroups.forEach(function (it) {
 	}else{
 		if (magCount>0){
 			TABS.push("磁力" + groupIndex);
-			haveMag= true;
+			haveMag = true;
 			haveDelay = true;
 		}
 		if (aliCount === 1){
-			if (!haveMag && !haveDelay){
+			if (false && !haveMag && !haveDelay){
 				haveDelay = true;
 				TABS.push("選擇右側綫路");
 			}
 			TABS.push("阿里雲盤" + groupIndex);
 		}
 		if (quarkCount === 1){
-			if (!haveMag && !haveDelay){
+			if (false && !haveMag && !haveDelay){
 				haveDelay = true;
 				TABS.push("選擇右側綫路");
 			}
-			TABS.push("夸克雲盤" + groupIndex);
+			TABS.push("夸克網盤" + groupIndex);
 		}
 		groupIndex = groupIndex + 1;
 	}
@@ -220,7 +229,7 @@ if (false && LISTS.length>0 && typeof LISTS[0] === "object"){
 				magfn = resolution + "." + magfn;
 				log("tabs magnet filename>>>>>>>>>>>" + magfn);
 				playObj["magnet"][purl]=magfn;
-			}else if (purl.startsWith("https://www.aliyundrive.com/s/")){
+			}else if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
 				playObj["ali"][purl]=title;
 			}else if (purl.startsWith("https://pan.quark.cn/s/")){
 				playObj["quark"][purl]=title;
@@ -255,37 +264,37 @@ playGroups.forEach(function(it){
 		LISTS.push(newd);
 	}
 	if (Object.keys(it["ali"]).length==1){
-		if (!haveMag && !haveDelay){
-			haveDelay = true;
-			LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
-		}
 		let d = [];
 		for(const key in it["ali"]){
 			if (it["ali"].hasOwnProperty(key)){
 				let title = it["ali"][key];
-				//let burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(key);
-				let burl = "push://" + key;
+				let burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(key);
+				//let burl = "push://" + key;
 				log('meijumi ali title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 				log('meijumi ali burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 				d.push(title + '$' + burl);
+				if (false && !haveMag && !haveDelay){
+					haveDelay = true;
+					LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
+				}
 			}
 		}
 		LISTS.push(d);
 	}
 	if (Object.keys(it["quark"]).length==1){
-		if (!haveMag && !haveDelay){
-			haveDelay = true;
-			LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
-		}
 		let d = [];
 		for(const key in it["quark"]){
 			if (it["quark"].hasOwnProperty(key)){
 				let title = it["quark"][key];
-				//let burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(key);
-				let burl = "push://" + key;
+				let burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(key);
+				//let burl = "push://" + key;
 				log('meijumi quark title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 				log('meijumi quark burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 				d.push(title + '$' + burl);
+				if (false && !haveMag && !haveDelay){
+					haveDelay = true;
+					LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
+				}
 			}
 		}
 		LISTS.push(d);

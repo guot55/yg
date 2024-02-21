@@ -44,7 +44,7 @@ var rule = {
         let tabse = false;
         d.forEach(function(it) {
             let burl = pdfh(it, 'a&&href');
-            if (burl.startsWith("https://www.aliyundrive.com/s/")) {
+	    if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
                 tabsa.push("阿里雲盤");
             } else if (burl.startsWith("https://pan.quark.cn/s/")) {
                 tabsq.push("夸克網盤");
@@ -88,13 +88,11 @@ var rule = {
             log('alyps title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
             log('alyps burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
             let loopresult = title + '$' + burl;
-            if (burl.startsWith("https://www.aliyundrive.com/s/")) {
+	    if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
                 if (TABS.length == 1) {
-                    burl = "push://" + encodeURIComponent(burl);
-                  //  burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&confirm=0&url=" + encodeURIComponent(burl);
+                    burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&confirm=0&url=" + encodeURIComponent(burl);
                 } else {
-                    burl = "push://" + encodeURIComponent(burl);
-                  //  burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
+                    burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
                 }
                 loopresult = title + '$' + burl;
                 lista.push(loopresult);
