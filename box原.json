@@ -77,7 +77,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://38.12.25.109:158/api.php/app/"
-    },{
+    },{"key":"Yingtantv","name": "💯影探4K","type":3,"api":"csp_Yingtantv","searchable":1,"changeable":0,"jar":"./jar/yt2.jar"},{
    "key": "安博",
    "name": "🍋安博T4",
    "type": 4,
