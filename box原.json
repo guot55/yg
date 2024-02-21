@@ -69,6 +69,15 @@
       "type": 3,
       "ext": "https://miguo.pro/api.php/v1.vod"
     },{
+      "key": "bulei",
+      "name": "☘布蕾4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://38.12.25.109:158/api.php/app/"
+    },{
    "key": "安博",
    "name": "🍋安博T4",
    "type": 4,
