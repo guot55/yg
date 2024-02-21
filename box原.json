@@ -80,7 +80,7 @@
       "key": "Yingtantv2",
       "name": "💯影探4K2",
       "type": 3,
-      "api": "csp_Yingtantv2",
+      "api": "csp_Yingtantv",
       "searchable": 1,
       "changeable": 0,"jar":"./ytbl.jar"
     },{
