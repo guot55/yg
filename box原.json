@@ -82,7 +82,14 @@
       "type": 3,
       "api": "csp_Yingtantv",
       "searchable": 1,
-      "changeable": 0,"jar":"./ytbl.jar"
+      "changeable": 0,"jar":"./zy.jar"
+    },  {
+      "key": "Zhuiyitv",
+      "name": "💯追忆┃TV┃App",
+      "type": 3,
+      "api": "csp_Zhuiyitv",
+      "searchable": 1,
+      "changeable": 0,"jar":"./zy.jar"
     },{
    "key": "安博",
    "name": "🍋安博T4",
