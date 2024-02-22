@@ -91,6 +91,17 @@
       "searchable": 1,
       "changeable": 0,"jar":"./zy.jar"
     },{
+      "key": "影视车®APP",
+      "name": "♨️影视车4K",
+      "type": 3,
+      "api": "csp_LvDou",
+      "playerType": 1,
+      "ext": {
+        "server": "https://4k.ysctv.cn/api.php/app/",
+        "mackey": "yingshiche123456|PHPBxdt7PppocRJ5"
+      },
+      "jar": "./jar/ysc.jar"
+    },{
    "key": "安博",
    "name": "🍋安博T4",
    "type": 4,
