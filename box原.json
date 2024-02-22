@@ -80,12 +80,12 @@
       "key": "Yingtantv2",
       "name": "💯影探4K2",
       "type": 3,
-      "api": "csp_Yingtantv",
+      "api": "csp_Yingtantv2",
       "searchable": 1,
       "changeable": 0,"jar":"./zy.jar"
     },  {
       "key": "Zhuiyitv",
-      "name": "💯追忆┃TV┃App",
+      "name": "💯追忆4K",
       "type": 3,
       "api": "csp_Zhuiyitv",
       "searchable": 1,
