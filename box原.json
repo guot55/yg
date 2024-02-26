@@ -1033,6 +1033,51 @@
       "type": 3,
       "url": "Web"
     },
+	   {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        },
+        {
+            "name": "宝盒",
+            "type": 1,
+            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "tucheng",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
+                    "bilibili",
+                    "1905",
+                    "xinvip",
+                    "XAL",
+                    "qiqi",
+                    "XALS",
+                    "YuMi-vip"
+                ]
+            }
+        },
     {
       "name": "解析1",
       "type": 1,
