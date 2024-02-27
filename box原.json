@@ -69,6 +69,13 @@
       "api": "csp_AppYs",
       "type": 3,
       "ext": "https://miguo.pro/api.php/v1.vod"
+    },{
+      "key": "Fangniu4k",
+      "name": "💯放牛4K",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "searchable": 1,
+      "changeable": 0,"jar":"./jar/fn.jar"
     },{"key":"宇宙影视","name":"4K HDR","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ds2.yuzhoukeji.top/api.php/app/","jar":"http://101.200.184.252/drpy/pg.jar","token":"asd12NMbhWho2LsL|vZfPqkHE71Epi167"},
  {
       "key": "Zhuiyitv",
@@ -77,7 +84,7 @@
       "api": "csp_Zhuiyitv",
       "searchable": 1,
       "changeable": 0,"jar":"./zy.jar"
-    },{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":0,"jar":"./cz.jar"},{"key":"csp_Bttwoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1}, {
+    },{"key":"csp_Bttwoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1}, {
       "key": "小文",
       "name": "🐷赛文速播",
       "type": 1,
