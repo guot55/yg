@@ -77,7 +77,7 @@
       "api": "csp_Zhuiyitv",
       "searchable": 1,
       "changeable": 0,"jar":"./zy.jar"
-    },{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy55.com/","jar":"./cz.jar"},{"key":"csp_Bttwoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1}, {
+    },{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":0,"jar":"./cz.jar"},{"key":"csp_Bttwoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1}, {
       "key": "小文",
       "name": "🐷赛文速播",
       "type": 1,
