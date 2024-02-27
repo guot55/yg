@@ -69,7 +69,7 @@
       "api": "csp_AppYs",
       "type": 3,
       "ext": "https://miguo.pro/api.php/v1.vod"
-    },
+    },{"key":"宇宙影视","name":"4K HDR","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ds.yuzhoukeji.top/api.php/app/","jar":"http://101.200.184.252/drpy/pg.jar","token":"asd12NMbhWho2LsL|vZfPqkHE71Epi167"},
  {
       "key": "Zhuiyitv",
       "name": "💯追忆4K",
