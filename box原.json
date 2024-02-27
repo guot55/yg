@@ -77,7 +77,7 @@
       "api": "csp_Zhuiyitv",
       "searchable": 1,
       "changeable": 0,"jar":"./zy.jar"
-    },{"key":"csp_Bttwoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1}, {
+    },{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy55.com/","jar":"./cz.jar"},{"key":"csp_Bttwoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1}, {
       "key": "小文",
       "name": "🐷赛文速播",
       "type": 1,
@@ -161,7 +161,8 @@
         {"key":"csp_Ddys","name":"🐞低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/7.jar"},
         {"key":"csp_Kunyu77","name":"🐞77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/7.jar"},
         {"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/7.jar"},
-		{
+	 {      "key": "Itv",      "name": "🥝爱奇艺解析",      "type": 3,      "api": "csp_Itv",      "quickSearch": 1,      "searchable": 1,      "filterable": 1,      "changeable": 0    },    {      "key": "Mtv",      "name": "🍋芒果解析",      "type": 3,      "api": "csp_Mtv",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 0    }, 
+	{
 			"key": "酷狗",
 			"name": "🎵酷狗音乐",
 			"type": 3,
@@ -939,8 +940,6 @@
         "海外动漫"
       ]
     },
-  {      "key": "Itv",      "name": "🥝爱奇艺解析",      "type": 3,      "api": "csp_Itv",      "quickSearch": 1,      "searchable": 1,      "filterable": 1,      "changeable": 0    },    {      "key": "Mtv",      "name": "🍋芒果解析",      "type": 3,      "api": "csp_Mtv",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 0    }, 
-
 
 {
             "key" : "drpy_js_虎牙",
