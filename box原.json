@@ -55,28 +55,22 @@
 			"ext":"./lib/tokenm.json"
 		,"jar": "./pg.jar"
 		}, {"key":"drpy_js_荐片","name":"🧲荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"}, {"key":"畅梦","name":"💯宝盒秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
-    {"key": "csp_XBPQ_6V",
-  "name": "🌙宝盒4K",
+ {"key": "csp_XBPQ_6V",
+  "name": "🧿宝盒4K专享",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext":"./h/6v.json"},{"key":"Wogg","name":"🌍玩偶4K","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},{
+  "jar" : "./jar/bh.jar",
+  "ext":"./h/bh.json"},{"key":"Wogg","name":"🌍玩偶4K","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},{
       "key": "蜜果视界",
       "name": "🍊蜜果4K",
       "api": "csp_AppYs",
       "type": 3,
       "ext": "https://miguo.pro/api.php/v1.vod"
     },
-	{"key":"宇宙影视","name":"💯宇宙4K HDR","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ds.yuzhoukeji.top/api.php/app/","jar":"http://101.200.184.252/drpy/pg.jar"},{
-      "key": "Yingtantv2",
-      "name": "💯影探4K",
-      "type": 3,
-      "api": "csp_Yingtantv2",
-      "searchable": 1,
-      "changeable": 0,"jar":"./zy.jar"
-    },  {
+ {
       "key": "Zhuiyitv",
       "name": "💯追忆4K",
       "type": 3,
