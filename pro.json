@@ -1113,8 +1113,17 @@
         ]
       }
     },
- {"key":"csp_md","name":"🔞女优大合集","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/3313/mao/madou.json","jar":"./jar/xb.jar"}, 
- 
+{
+            "key": "csp_xBPQ_女优",
+            "name": "🔞女优",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./h/ny.json",
+            "jar": "./jar/ny.jar"
+        },
  {
         "key":"🔞宝盒专享",
         "name":"🔞宝盒专享",
