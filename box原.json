@@ -169,7 +169,7 @@
 			"api": "csp_Kugou",
 			"searchable": 1,
 			"changeable": 0,"jar": "./jar/pg.jar"
-		},
+		},{"key": "MV_vod","name": " 🌙小姨|音乐","type": 3,"api":"/js/caiji.js","ext": "./a/wy.php.json"},
        {
       "key": "AppYs_南瓜",
       "name": "🌙南瓜|1080P",
