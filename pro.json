@@ -1059,6 +1059,11 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./h/土豪.json"
+    },{
+     "key": "影视",
+     "name": "影视18",
+     "type": 1,
+     "api": "https://155api.com/api.php/provide/vod/"
     },
         {
       "key": "红袖",
