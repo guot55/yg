@@ -164,12 +164,26 @@
 	 {      "key": "Itv",      "name": "🌙奇艺|解析",      "type": 3,      "api": "csp_Itv",      "quickSearch": 1,      "searchable": 1,      "filterable": 1,      "changeable": 0    },    {      "key": "Mtv",      "name": "🌙芒果|解析",      "type": 3,      "api": "csp_Mtv",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 0    }, 
 	{
 			"key": "酷狗",
-			"name": "🌙酷狗|音乐",
+			"name": "🎵酷狗|音乐",
 			"type": 3,
 			"api": "csp_Kugou",
 			"searchable": 1,
 			"changeable": 0,"jar": "./jar/pg.jar"
-		},{"key": "MV_vod","name": " 🌙小姨|音乐","type": 3,"api":"/js/caiji.js","ext": "./a/wy.php.json"},
+		},{
+      "key": "Yinyuetai",
+      "name": "🎵音悦台┃音乐",
+      "type": 3,
+      "api": "csp_Yinyuetai",
+      "searchable": 1,
+      "changeable": 0,"jar": "./jar/ktv.jar"
+    },{
+      "key": "Iktv",
+      "name": "🎵KTV┃MV",
+      "type": 3,
+      "api": "csp_Iktv",
+      "searchable": 1,
+      "changeable": 0,"jar": "./jar/ktv.jar"
+    },
        {
       "key": "AppYs_南瓜",
       "name": "🌙南瓜|1080P",
