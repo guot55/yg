@@ -178,7 +178,7 @@
       "changeable": 0,"jar": "./jar/ktv.jar"
     },{
       "key": "Iktv",
-      "name": "🎵KTV┃K歌",
+      "name": "🎵KTV┃（切换音轨开启K歌）",
       "type": 3,
       "api": "csp_Iktv",
       "searchable": 1,
