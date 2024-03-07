@@ -25,7 +25,7 @@
       "type": 3,
       "api": "csp_Fangniu4k",
       "searchable": 1,
-      "changeable": 0,"jar":"http://47.108.190.141/wx/yydf/txt/fangniu.jar;md5;9b51b7c5b02146265d742bdb6a362bdd"
+      "changeable": 0,"jar":"./fnw.jar"
     },
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{"key":"AliShare","name":"阿里云盘影视分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
