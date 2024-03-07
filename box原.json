@@ -75,7 +75,7 @@
       "type": 3,
       "api": "csp_Fangniu4k",
       "searchable": 1,
-      "changeable": 0,"jar":"http://47.108.190.141/wx/yydf/txt/fangniu.jar;md5;9b51b7c5b02146265d742bdb6a362bdd"
+      "changeable": 0,"jar":"./jar/fnw.jar"
     },{"key":"Wogg","name":"💿玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
 {"key":"csp_Bttwoo","name":"🌙2BT|2K","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1}, {
       "key": "小文",
