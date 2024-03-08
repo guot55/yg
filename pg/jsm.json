@@ -528,9 +528,9 @@
 		}],
 		"lives":[
 			{
-				"name": "live.ipv6",
+				"name": "宝盒",
 				"type": 0,
-				"url": "https://tang.serv00.net/zb/99",
+				"url": "https://gitcode.net/ygbh66/test/-/raw/master/tw.txt",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
