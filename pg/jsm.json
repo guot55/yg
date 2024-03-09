@@ -26,17 +26,7 @@
       "api": "csp_Fangniu4k",
       "searchable": 1,
       "changeable": 0,"jar":"./fnw.jar"
-    },{
-            "key": "T4-安博",
-            "name": "安博(T4)",
-            "type": 4,
-            "api": "https://tang.serv00.net/power/ub1818",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": true
-},
+    },
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{"key":"AliShare","name":"阿里云盘影视分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
 			"style": {
