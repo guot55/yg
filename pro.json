@@ -1064,7 +1064,14 @@
      "name": "影视18",
      "type": 1,
      "api": "https://155api.com/api.php/provide/vod/"
-    },
+    },{
+			"key": "av188",
+			"name": "🔞Netflav",
+			"type": 3,
+			"api": "csp_Netflav",
+			"searchable": 1,
+			"changeable": 0
+		},
         {
       "key": "红袖",
       "name": "🔞红袖资源",
