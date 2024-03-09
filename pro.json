@@ -1071,7 +1071,7 @@
 			"api": "csp_Netflav",
 			"searchable": 1,
 			"changeable": 0 ,"jar": "./pg.jar"
-		},
+		},{"key":"Taohuazu","name":"🔞桃花族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60 ,"jar": "./pg.jar"},
         {
       "key": "红袖",
       "name": "🔞红袖资源",
