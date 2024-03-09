@@ -64,12 +64,6 @@
   "filterable": 1,
   "jar" : "./jar/bh.jar",
   "ext":"./h/bh.json"},{
-      "key": "蜜果视界",
-      "name": "🌙蜜果|4K",
-      "api": "csp_AppYs",
-      "type": 3,
-      "ext": "https://miguo.pro/api.php/v1.vod"
-    },{
       "key": "Fangniu4k",
       "name": "🌙放牛|4K",
       "type": 3,
