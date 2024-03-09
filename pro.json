@@ -1070,7 +1070,7 @@
 			"type": 3,
 			"api": "csp_Netflav",
 			"searchable": 1,
-			"changeable": 0
+			"changeable": 0 ,"jar": "./pg.jar"
 		},
         {
       "key": "红袖",
