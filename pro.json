@@ -1044,7 +1044,20 @@
 {"key":"1","name":"🔞🈲未成年人禁止访问，请止步！！","type":0,"api":""},
 {"key":"17","name":"🔞🈲分割线——————","type":0,"api":""},
 {"key":"14","name":"🔞分割线——————","type":0,"api":""},
- {"key":"csp_JavDb","name":"🧲🔞JavDb","type":3,"api":"csp_JavDb","searchable":0,"quickSearch":1,"filterable":1,"jar": "./jar/javbus.jpg"},
+ {
+            "key": "csp_JavDb",
+            "name": "🔞🧲JavDb",
+            "type": 3,
+            "api": "csp_JavDb",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "timeout": 1801,
+            "ext": "http://javdb523.com","jar":"./jar/p.jar"
+        },{"key":"虎牙","name":"🔞虎牙采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1 ,"categories": ["伦理片"]},
+{"key": "非凡资源","name": "🔞非凡资源","type": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"playurl":"https://ffzyplayer.com/?url=","categories": ["伦理片"]},
+ {"key": "快云资源","name": "🔞快云资源","type": 1,"api": "https://kuaiyun-api.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"style": {"type": "rect","ratio": 1.33},"categories": ["伦理片"]}, 
 {"key": "csp_jiujiuzhobo","name":"🔞久久直播","type": 3, "api": "csp_xBPQ","searchable": 0,"quickSearch": 0, "filterable": 0, "ext":"./h/天天直播.json","jar":"./jar/xb.jar"}, 
 {"key":"csp_jy","name":"🔞聚优直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/聚优直播0.json","jar":"./jar/xb.jar"},
  {"key":"csp_xBPQ_香蕉AV","name":"🔞天天综合","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/天天综合.json","jar":"./jar/Yoursmile2.jar"},
@@ -1096,35 +1109,7 @@
             ]
     },
  {"key": "直转点", "name": "🔞㊙️点播","type": 3,"api":"http://lgz.hk3.20212021.ml.cdn.cloudflare.net/直转点.js","ext":"http://lgz.hk3.20212021.ml.cdn.cloudflare.net/直转点.txt"}, 
-{
-      "key": "AList",
-      "name": "🔞❤罗汉果专用",
-      "type": 3,"style":{ "type":"rect", "ratio":1.485 },
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {     
-  "vodPic": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180504/82b2eff6f5bf489e9b4a90fbe9fc7e84.jpeg",
-        "drives": [
-{
-      "name": "ECVE",
-      "server": "https://pan.ecve.cn"
-    },
-    {
-      "name": "觸光",
-      "server": "https://pan.ichuguang.com"
-    },
-    {
-      "name": "星梦",
-      "server": "https://pan.bashroot.top"
-    },
-          {
-            "name": "罗汉果AV",
-            "server": "https://lala-ofbip.run.goorm.site"
-          }
-        ]
-      }
-    },
+
 {
             "key": "csp_xBPQ_女优",
             "name": "🔞女优",
