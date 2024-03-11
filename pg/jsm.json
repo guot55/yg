@@ -47,7 +47,7 @@
                 "主演": "主演：&&</div>",
                 "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
                 "分类url": "http://www.baipiaoys.cc/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-            } ,"jar":"./fnw3.jar"},{
+            } ,"jar":"./yg.jar"},{
 			"key": "新6V",
 			"name": "新6V|网盘",
 			"type": 3,
