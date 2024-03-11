@@ -27,6 +27,27 @@
       "searchable": 1,
       "changeable": 0,"jar":"./fnw3.jar"
     },{
+            "key": "baipiaoys",
+            "name": "🌙白嫖┃影视",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "http://www.baipiaoys.cc/",
+                "副标题": "pic-text text-right\">&&</b>",
+                "搜索模式": "1",
+                "搜索url": "https://www.baipiaoys.cc/search.html?wd={wd}",
+                "图片": "data-original=\"&&\"",
+                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
+                "分类url": "http://www.baipiaoys.cc/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+            } ,"jar":"./fnw3.jar"},{
 			"key": "新6V",
 			"name": "新6V|网盘",
 			"type": 3,
