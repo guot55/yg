@@ -20,10 +20,7 @@
             "url": "http://肥猫.live",
             "name": "肥猫不肥"
         },
-        {
-            "url": "https://agit.ai/leevi/PG/raw/branch/master/jsm.json",
-            "name": "PG"
-        },
+        {"name":"摸鱼","url":"http://我不是.摸鱼儿.top"},
         {
             "url": "https://wds.ecsxs.com/230989.json",
             "name": "春盈"
@@ -56,10 +53,7 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "高山流水"
         },
-        {
-            "url": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt",
-            "name": "圆周率"
-        },
+     {"name":"最全短剧","url":"https://agit.ai/hu/hcr/raw/branch/master/短剧.json"}, 
         {
             "url": "https://weixine.net/ysc.json",
             "name": "影视车运输"
