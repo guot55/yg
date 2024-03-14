@@ -105,6 +105,12 @@
         "综艺"
       ]
     },{
+   "key": "532短剧",
+   "name": "🌙短剧┃视频",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "分类url:https://admin.532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"
+},{
 			"key": "新6V",
 			"name": "🌙六维|网盘",
 			"type": 3,
