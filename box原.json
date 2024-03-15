@@ -44,7 +44,16 @@
                         "searchable": 0,
                         "api": "./lib/live2vod.js",
                         "ext": "./js/zb.js"
-                },
+                }, {
+      "key": "csp_KungFu404",
+      "name": "🎦阿里|设置",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "http://itvbox.cc/sft/jar/alisz.jar"
+    },
      {"key":"drpy_js_荐片","name":"🌙荐片|磁力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"}, {"key":"畅梦","name":"🌙宝盒|秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
  {"key": "csp_XBPQ_6V",
   "name": "🌙宝盒|4K",
@@ -61,17 +70,7 @@
       "api": "csp_Fangniu4k",
       "searchable": 1,
       "changeable": 0,"jar":"./jar/fnw3.jar"
-    }, {
-            "key": "T4-安博",
-            "name": "🌙安博|(T4)",
-            "type": 4,
-            "api": "https://tang.serv00.net/power/ub1818",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": true
-},{
+    },{
             "key": "baipiaoys",
             "name": "🌙白嫖┃影视",
             "type": 3,
