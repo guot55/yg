@@ -1056,7 +1056,7 @@
             "timeout": 1801,
             "ext": "http://javdb523.com","jar":"./jar/p.jar"
         },
-            "key": "T4-安博",
+           { "key": "T4-安博",
             "name": "🔞安博(T4)",
             "type": 4,
             "api": "https://tang.serv00.net/power/ub1818",
