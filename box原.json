@@ -92,15 +92,6 @@
                 "分类url": "http://www.baipiaoys.cc/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
             } },{"key":"Wogg","name":"💿玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
 {"key":"csp_Bttwoo","name":"🌙2BT|2K","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},  {
-"key":"小苹果",
-"name":"🍎小苹果|影视",
-"type":3,
-"api":"csp_LiteApple",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"jar":"./jar/xpg.jar"
-},{
 			"key": "新6V",
 			"name": "🌙六维|网盘",
 			"type": 3,
@@ -188,28 +179,6 @@
         {"key":"csp_Kunyu77","name":"🌙77|影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/7.jar"},
         {"key":"csp_Ikanbot","name": "🌙Ikan|bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/7.jar"},
 	 {      "key": "Itv",      "name": "🌙奇艺|解析",      "type": 3,      "api": "csp_Itv",      "quickSearch": 1,      "searchable": 1,      "filterable": 1,      "changeable": 0    },    {      "key": "Mtv",      "name": "🌙芒果|解析",      "type": 3,      "api": "csp_Mtv",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 0    }, 
-	{
-			"key": "酷狗",
-			"name": "🎵酷狗|音乐",
-			"type": 3,
-			"api": "csp_Kugou",
-			"searchable": 1,
-			"changeable": 0,"jar": "./jar/pg.jar"
-		},{
-      "key": "Yinyuetai",
-      "name": "🎵音悦台┃音乐",
-      "type": 3,
-      "api": "csp_Yinyuetai",
-      "searchable": 1,
-      "changeable": 0,"jar": "./jar/ktv.jar"
-    },{
-      "key": "Iktv",
-      "name": "🎵KTV┃（切换音轨开启K歌）",
-      "type": 3,
-      "api": "csp_Iktv",
-      "searchable": 1,
-      "changeable": 0,"jar": "./jar/ktv.jar"
-    },
        {
       "key": "AppYs_南瓜",
       "name": "🌙南瓜|1080P",
@@ -273,6 +242,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+    }, {
+      "key": "csp_XYQHiker_哔嘀影视",
+      "name": "🌙哔嘀|影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./h/哔嘀影视.json","jar": "./jar/XYQ1.jar"
     },
   {
       "key": "csp_Mp4Mov",
@@ -851,18 +829,7 @@
       "filterable": 1,
       "ext": "./h/高清MP4.json","jar": "./jar/XYQ1.jar"
     },
-    {
-      "key": "csp_XYQHiker_哔嘀影视",
-      "name": "🌙哔嘀|影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./h/哔嘀影视.json","jar": "./jar/XYQ1.jar"
-    },
-
-	 
+   	 
 {
       "key": "cjzy_快看",
       "name": "🌙快看|影视",
@@ -974,7 +941,28 @@
         "海外动漫"
       ]
     },
-
+{
+			"key": "酷狗",
+			"name": "🎵酷狗|音乐",
+			"type": 3,
+			"api": "csp_Kugou",
+			"searchable": 1,
+			"changeable": 0,"jar": "./jar/pg.jar"
+		},{
+      "key": "Yinyuetai",
+      "name": "🎵音悦台┃音乐",
+      "type": 3,
+      "api": "csp_Yinyuetai",
+      "searchable": 1,
+      "changeable": 0,"jar": "./jar/ktv.jar"
+    },{
+      "key": "Iktv",
+      "name": "🎵KTV┃（切换音轨开启K歌）",
+      "type": 3,
+      "api": "csp_Iktv",
+      "searchable": 1,
+      "changeable": 0,"jar": "./jar/ktv.jar"
+    },
 {
             "key" : "drpy_js_虎牙",
             "name" : "🌙虎牙|直播",
