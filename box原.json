@@ -113,7 +113,7 @@
             "key": "达达龟",
             "name": "🌙达龟|影视",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+            "api": "./lib/drpy.min.js",
             "ext": "./lib/ddg.js"
         },
     {
