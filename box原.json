@@ -62,14 +62,18 @@
   "quickSearch": 1,
   "filterable": 1,
   "jar" : "./jar/bh.jar",
-  "ext":"./h/bh.json"},{
-      "key": "Fangniu4k",
-      "name": "🌙放牛|4K",
-      "type": 3,
-      "api": "csp_Fangniu4k",
-      "searchable": 1,
-      "changeable": 0,"jar":"./jar/fnw3.jar"
-    },{
+  "ext":"./h/bh.json"},{"key":"Bt0","name":"🌙不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1","jar":"./pg.jar"},
+		{
+			"key": "Bdys_spider",
+			"name": "🌙哔滴┃磁力",
+			"api": "csp_Bdys01",
+			"type": 3,
+			"filterable": 1,
+			"searchable":0,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://www.bdys10.com/$$$null$$$1","jar":"./pg.jar"
+		},{
             "key": "baipiaoys",
             "name": "🌙白嫖┃影视",
             "type": 3,
