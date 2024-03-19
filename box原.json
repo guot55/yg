@@ -22,7 +22,7 @@
           "name": "live",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://gh.con.sh/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
+            "proxy://do=live&type=txt&ext=https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/zb.txt"
           ]
         }
       ]
