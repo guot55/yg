@@ -175,7 +175,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./a/黑狐影视.json"
-    },
+    },{"key":"kyB","name":"🌙快鹰|影视","style":{"type":"rect","ratio":0.85},"type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"playUrl":"json:https://stray.serv00.net/ky.php?url="},
 	 {"key":"360_spider","name":"🌙360|影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1,"jar": "./jar/7.jar"},
         {"key":"csp_Kuaikan","name":"🌙快看|影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/7.jar"},
         {"key":"csp_Bdys","name":"🌙哔嘀|影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/7.jar"},
