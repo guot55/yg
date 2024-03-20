@@ -2659,7 +2659,13 @@ Sir说电影,http://ygbh.cloudns.ch/huya.php?id=16626185
 沉默的孤狼啊,http://ygbh.cloudns.ch/huya.php?id=21059598
 
 宝盒央卫,#genre#
-CCTV16-4k,https://guot55.serv00.net/ysp.php?id=CCTV16-4k
+BRTV8K,http://ygbh.cloudns.ch/北京.php?id=brtv8k
+纪实科教,http://ygbh.cloudns.ch/北京.php?id=bjjskj
+北京影视,http://ygbh.cloudns.ch/北京.php?id=bjys
+北京财经,http://ygbh.cloudns.ch/北京.php?id=bjcj
+北京卡酷,http://ygbh.cloudns.ch/北京.php?id=bjkk
+北京生活,http://ygbh.cloudns.ch/北京.php?id=bjsh
+北京新闻,http://ygbh.cloudns.ch/北京.php?id=bjxw
 CCTV-4K,https://guot55.serv00.net/ysp.php?id=cctv4k
 CCTV-8K,https://guot55.serv00.net/ysp.php?id=cctv8k
 cctv1综合,https://guot55.serv00.net/ysp.php?id=cctv1
