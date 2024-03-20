@@ -62,13 +62,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "jar" : "./jar/bh.jar",
-  "ext":"./h/bh.json"}, {
-      "key": "蚂蚁",
-      "name": "🌙蚂蚁┃资源",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://122.228.84.103:5822/api.php/app/"
-    },{"key":"Bt0","name":"🌙不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1","jar":"./pg.jar"},
+  "ext":"./h/bh.json"}, {"key":"Bt0","name":"🌙不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1","jar":"./pg.jar"},
 		{
 			"key": "Bdys_spider",
 			"name": "🌙哔滴┃磁力",
@@ -79,26 +73,7 @@
 			"quickSearch": 1,
 			"searchable": 1,
 			"ext": "https://www.bdys10.com/$$$null$$$1","jar":"./pg.jar"
-		},  {
-      "key": "bp",
-      "name": "🌙️白嫖┃影视",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "http://www.baipiaoys.cc/",
-        "副标题": "pic-text text-right\">&&</b>",
-        "搜索模式": "1",
-        "搜索url": "https://www.baipiaoys.cc/search.html?wd={wd}",
-        "图片": "data-original=\"&&\"",
-        "嗅探词": ".mp4#m3u8#.m3u8",
-        "线路标题": "🌙宝盒专享",
-        "线路数组": "🌙宝盒专享",
-        "分类": "电影$1#电视剧$2#动漫$3",
-        "分类url": "http://www.baipiaoys.cc/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-      }
-    },{"key":"Wogg","name":"💿玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
+		},{"key":"Wogg","name":"💿玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
 {"key":"csp_Bttwoo","name":"🌙2BT|2K","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},  {
 			"key": "新6V",
 			"name": "🌙六维|网盘",
@@ -1064,19 +1039,7 @@
             "name": "Json轮询",
             "type": 2,
             "url": "Sequence"
-        }, {
-      "name": "蚂蚁",
-      "type": 0,
-      "url": "http://103.233.255.142:1133/?url=",
-      "ext": {
-        "flag": [
-          "NBY"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
+        }, 
         {
             "name": "宝盒",
             "type": 1,
