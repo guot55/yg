@@ -62,7 +62,13 @@
   "quickSearch": 1,
   "filterable": 1,
   "jar" : "./jar/bh.jar",
-  "ext":"./h/bh.json"},{"key":"Bt0","name":"🌙不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1","jar":"./pg.jar"},
+  "ext":"./h/bh.json"}, {
+      "key": "蚂蚁",
+      "name": "🌙蚂蚁┃资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://122.228.84.103:5822/api.php/app/"
+    },{"key":"Bt0","name":"🌙不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1","jar":"./pg.jar"},
 		{
 			"key": "Bdys_spider",
 			"name": "🌙哔滴┃磁力",
@@ -180,8 +186,7 @@
         {"key":"csp_Ddys","name":"🌙低端|影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/7.jar"},
         {"key":"csp_Kunyu77","name":"🌙77|影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/7.jar"},
         {"key":"csp_Ikanbot","name": "🌙Ikan|bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/7.jar"},
-	 {      "key": "Itv",      "name": "🌙奇艺|解析",      "type": 3,      "api": "csp_Itv",      "quickSearch": 1,      "searchable": 1,      "filterable": 1,      "changeable": 0    },    {      "key": "Mtv",      "name": "🌙芒果|解析",      "type": 3,      "api": "csp_Mtv",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 0    }, 
-       {
+	
       "key": "AppYs_南瓜",
       "name": "🌙南瓜|1080P",
       "type": 3,
@@ -1059,7 +1064,19 @@
             "name": "Json轮询",
             "type": 2,
             "url": "Sequence"
-        },
+        }, {
+      "name": "蚂蚁",
+      "type": 0,
+      "url": "http://103.233.255.142:1133/?url=",
+      "ext": {
+        "flag": [
+          "NBY"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
         {
             "name": "宝盒",
             "type": 1,
