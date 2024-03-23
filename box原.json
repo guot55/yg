@@ -154,7 +154,7 @@
     \"分类\":\"电影$new-movie#电视剧$tv-drama#国产剧$domestic-drama#香港经典电影$hongkong-movie\",
     \"分类url\":\"https://www.subaibaiys.com/{cateId}/page/{catePg}\"}"},
     //
-    
+     {"key":"drpy_js_yt","name":"🌙宝盒|速播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yt.js"},
 		{
 			"key": "天天",
 			"name": "🌙天天|影视",
