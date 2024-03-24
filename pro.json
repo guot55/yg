@@ -1056,16 +1056,36 @@
             "timeout": 1801,
             "ext": "http://javdb523.com","jar":"./jar/p.jar"
         },
-           { "key": "T4-安博",
-            "name": "🔞安博(T4)",
-            "type": 4,
-            "api": "https://tang.serv00.net/power/ub1818",
+         {
+            "key": "csp_XYQHiker_777影院",
+            "name": "🔞777影院",
+            "type": 3,
+            "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
-            "ext": true
-},{"key":"虎牙","name":"🔞虎牙采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1 ,"categories": ["伦理片"]},
+            "ext": "./h/777影院.json","jar":"./jar/xyqxbpq.jar"
+        },  
+         {
+            "key": "csp_XBPQ_疯猫av",
+            "name": "🔞疯猫av",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./h/疯猫av.json"
+        },
+ {
+            "key": "csp_XBPQ_奶很大",
+            "name": "🔞奶很大",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./h/奶很大.json"
+        },{"key":"虎牙","name":"🔞虎牙采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1 ,"categories": ["伦理片"]},
 {"key": "非凡资源","name": "🔞非凡资源","type": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"playurl":"https://ffzyplayer.com/?url=","categories": ["伦理片"]},
  {"key": "快云资源","name": "🔞快云资源","type": 1,"api": "https://kuaiyun-api.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"style": {"type": "rect","ratio": 1.33},"categories": ["伦理片"]}, 
 {"key": "csp_jiujiuzhobo","name":"🔞久久直播","type": 3, "api": "csp_xBPQ","searchable": 0,"quickSearch": 0, "filterable": 0, "ext":"./h/天天直播.json","jar":"./jar/xb.jar"}, 
