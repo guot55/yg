@@ -21,13 +21,6 @@
 			"ext":"./lib/tokenm.json"
 		},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},{
-      "key": "Fangniu4k",
-      "name": "🌙放牛4K",
-      "type": 3,
-      "api": "csp_Fangniu4k",
-      "searchable": 1,
-      "changeable": 0,"jar":"./fnw3.jar"
-    },{
             "key": "baipiaoys",
             "name": "🌙白嫖┃影视",
             "type": 3,
