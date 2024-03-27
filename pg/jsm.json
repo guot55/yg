@@ -20,7 +20,8 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
-		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},{
+		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
+		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$./lib/wogg.json"},{
             "key": "baipiaoys",
             "name": "🌙白嫖┃影视",
             "type": 3,
