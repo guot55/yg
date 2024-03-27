@@ -1055,7 +1055,16 @@
             "changeable": 0,
             "timeout": 1801,
             "ext": "http://javdb523.com","jar":"./jar/p.jar"
-        },
+        },{
+      "key":"ss直播",
+      "name":"🔞ss直播",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./h/ss直播.js"
+  },
          {
             "key": "csp_XYQHiker_777影院",
             "name": "🔞777影院",
