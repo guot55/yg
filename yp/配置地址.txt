@@ -1,0 +1,1 @@
+clan://localhost/tvbox/e234399b-05f0-4c19-ac56-1da8953634e8/api/api.json

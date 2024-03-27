@@ -1,0 +1,222 @@
+{
+  "spider": "./tao.jar",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "http://124.223.177.85:88/svip/直播挺快.txt"
+    }
+  ],
+  "sites": [
+    {
+      "key": "js豆瓣",
+      "name": "豆瓣🍁点播",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "阿里云盘登录",
+      "name": "token🍁设置(打开存储权限)",
+      "type": 3,
+      "api": "csp_AliYunPan",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
+    },
+    {
+      "key": "一起看",
+      "name": "起看🍁视频",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_AList",
+      "name": "网盘🎞点播",
+      "type": 3,
+      "api": "csp_Alist",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./lib/Alist.json"
+    },
+    {
+      "key": "️玩偶哥哥",
+      "name": "玩偶🎞哥哥",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/wog.json"
+    },
+    {
+      "key": "️玩偶嫂子",
+      "name": "玩偶🎞嫂子",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/wos.json"
+    },
+    {
+      "key": "️玩偶姐姐",
+      "name": "玩偶🎞姐姐",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/woj.json"
+    },
+    {
+      "key": "️玩偶姐夫",
+      "name": "玩偶🎞姐夫",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/wof.json"
+    },
+    {
+      "key": "️玩偶弟弟",
+      "name": "玩偶🎞弟弟",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/wod.json"
+    },
+    {
+      "key": "️玩偶弟媳",
+      "name": "玩偶🎞弟媳",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/wodf.json"
+    },
+    {
+      "key": "️玩偶妹妹",
+      "name": "玩偶🎞妹妹",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/wom.json"
+    },
+    {
+      "key": "️玩偶妹夫",
+      "name": "玩偶🎞妹夫",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/womf.json"
+    },
+    {
+      "key": "云盘搜索",
+      "name": "云盘🔎搜索",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/yps.json"
+    },
+    {
+      "key": "DOVX搜索",
+      "name": "七夜🔎搜索",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/DOVX.json"
+    },
+    {
+      "key": "Upyunso",
+      "name": "云搜🔎搜索",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
+    },
+    {
+      "key": "AliPS",
+      "name": "盘搜🔎搜索",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
+    },
+    {
+      "key": "Yisou",
+      "name": "易搜🔎搜索",
+      "type": 3,
+      "api": "csp_Yisou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "纸条🔎搜索",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
+    },
+    {
+      "key": "AliP",
+      "name": "狗狗🔎搜索",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
+    },
+    {
+      "key": "csp_PushAgent",
+      "name": "阿里🔎搜索",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
+    },
+    {
+      "key": "m",
+      "name": "📢先配置token再使用",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": ""
+    }
+  ]
+}
