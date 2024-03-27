@@ -117,7 +117,7 @@
       "filterable": 1,
       "ext": "./yp/lib/wog.json","jar": "./yp/yg.jar"
     },
-			"key": "新6V",
+			{"key": "新6V",
 			"name": "🌙六维|网盘",
 			"type": 3,
 			"api": "csp_Xb6v",
