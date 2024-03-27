@@ -52,16 +52,7 @@
 			"searchable": 0,
 			"changeable": 0,
 			"ext":"./lib/tokenm.json","jar": "./pg.jar"
-		},{
-      "key": "阿里云盘登录",
-      "name": "⚙token|设置",
-      "type": 3,
-      "api": "csp_AliYunPan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt","jar": "./yp/yg.jar"
-    },
+		},
      {"key":"drpy_js_荐片","name":"🌙荐片|磁力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"}, {"key":"畅梦","name":"🌙宝盒|秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
  {"key": "csp_XBPQ_6V",
   "name": "🌙宝盒|4K",
@@ -132,19 +123,6 @@
             "api": "./lib/drpy.min.js",
             "ext": "./lib/ddg.js"
         },
-    {
-      "key": "libhd",
-      "name": "🌙LiHD|1080",
-      "type": 1,
-      "api": "https://www.libhd.com/api.php/provide/vod/from/AL2",
-      "playUrl": "https://www.libhd.com/play/?url=",
-      "categories": [
-        "电影",
-        "剧集",
-        "动漫",
-        "综艺"
-      ]
-    },
        {
       "key": "csp_圣城",
       "name": "🌙圣城|影视",
