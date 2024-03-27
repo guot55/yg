@@ -11,7 +11,7 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "豆瓣🍁点播",
+      "name": "公众号【宝盒汇】",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
