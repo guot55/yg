@@ -98,7 +98,7 @@
 			"quickSearch": 1,
 			"searchable": 1,
 			"ext": "https://www.bdys10.com/$$$null$$$1","jar":"./pg.jar"
-		},{
+		},{"key":"Xinshijue","name":"🌙视觉|网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json","jar": "./pg.jar"},{
       "key": "️玩偶哥哥",
       "name": "💿玩偶|哥哥",
       "type": 3,
