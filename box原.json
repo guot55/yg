@@ -1220,11 +1220,6 @@
 
 
 "parses":[
-     {
-      "name": "JSON",
-      "type": 3,
-      "url": "Demo"
-    },
     {
       "name": "超嗅探",
       "type": 3,
