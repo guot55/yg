@@ -1201,22 +1201,36 @@
 
 
 "parses":[
+     {
+      "name": "JSON",
+      "type": 3,
+      "url": "Demo"
+    },
     {
       "name": "超嗅探",
       "type": 3,
       "url": "Web"
     },
-	   {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
-        },  {
-      "name": "蚂蚁",
+    {
+      "name": "解析1",
+      "type": 1,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url="
+    },
+    {
+      "name": "蚂蚁1",
+      "type": 0,
+      "url": "https://p.orangek.org/player/ec.php?code=qw&if=1&url=",
+      "ext": {
+        "flag": [
+          "NBY"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "蚂蚁2",
       "type": 0,
       "url": "http://103.233.255.142:1133/?url=",
       "ext": {
