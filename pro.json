@@ -44,7 +44,7 @@
                 {"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/wogg.json"},
                 {"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/wogg.json"},{
             
-      "key": "bp",
+      "key": "baip",
       "name": "🌙️白嫖┃影视",
       "type": 3,
       "searchable": 1,
