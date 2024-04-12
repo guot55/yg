@@ -1103,6 +1103,24 @@
             "分类": "国产传媒$160#日本$2#国产$1#韩国$4#欧美$5#动画$6",
             "分类url": "https://luw666.ink/index.php/vodtype/{cateId}-{catePg}.html"
             }
+        },{
+            "key": "2028天天看",
+            "name": "🔞2028天天看",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                 "简介": "class=\"active\" style=\"width:70%;\">&&</li>",
+                "链接": "href=\"&&\"",
+                "直接播放": "1",
+               "跳转播放链接": "urlDecode(var player_*url\":\"&&\")", 
+                "搜索url": "http://2028p.com/vodsearch/----------{pg}---.html?wd={wd}&submit=",
+                "分类": "无码$1#中文av$6#国产$2#制服巨乳$7#欧美$3#人妻乱伦$8#有码$4#日韩$9#自拍自慰$10#动漫$5#3P和sm$11#口交颜射$12#写真伦理$13",
+                "分类url": "http://2028p.com/vodtype/{cateId}-{catePg}/[http://2028p.com/vodtype/{cateId}/]"
+            }
         },
          {
             "key": "csp_XYQHiker_777影院",
