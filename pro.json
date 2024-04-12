@@ -1118,6 +1118,7 @@
             "name": "🔞光棍影院",
             "type": 3,
             "api": "csp_XBPQ",
+	   "jar": "./jar/ny.jar",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
