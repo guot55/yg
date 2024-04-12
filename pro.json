@@ -61,19 +61,19 @@
         "线路数组": "🌙宝盒专享",
         "分类": "电影$1#电视剧$2#动漫$3",
         "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-      },"jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/yg.jar"}, {
+      },"jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/yg.jar"}, {
       "key": "蚂蚁",
       "name": "🌙蚂蚁┃资源",
       "type": 3,
       "api": "csp_AppYsV2",
-      "ext": "http://122.228.84.103:5822/api.php/app/","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/yg.jar"
+      "ext": "http://122.228.84.103:5822/api.php/app/","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/yg.jar"
     },  {
       "key": "saohuo",
       "name": "🌙️骚火┃电影",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/yg.jar",
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/yg.jar",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
@@ -96,7 +96,7 @@
       "quickSearch": 1, 
       "filterable": 0, 
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/文才.json", 
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar"      
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/yg.jar"      
     },{ 
       "key": "csp_xBPQ_毒蛇", 
       "name": "毒蛇|影视", 
@@ -106,9 +106,9 @@
       "quickSearch": 1, 
       "filterable": 0, 
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/毒蛇影视.json", 
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar"      
+      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/yg.jar"      
     },
-                {"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
+                {"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/yg.jar",
                         "ext": {
                                 "站名": "黑狐影院",
                                 "主页url": "http://fagmn.com",
@@ -144,7 +144,7 @@
                 },{
                         "key":"XBPQ_电影先生",
                         "name": "电影先生|XBPQ",
-                        "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
+                        "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/yg.jar",
                         "type": 3,
                         "api": "csp_XBPQ",
                         "ext": {
