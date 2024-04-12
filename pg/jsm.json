@@ -78,7 +78,7 @@
       "ext": "./lib/文才.json", 
       "jar": "./lib/XBPQ.jar"      
     },{ 
-      "key": "csp_xBPQ_秒", 
+      "key": "csp_xBPQ_毒蛇", 
       "name": "毒蛇|影视", 
       "type": 3,
       "api": "csp_XBPQ", 
