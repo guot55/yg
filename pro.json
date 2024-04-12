@@ -96,7 +96,7 @@
       "quickSearch": 1, 
       "filterable": 0, 
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/文才.json", 
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/yg.jar"      
+   "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar"   
     },{ 
       "key": "csp_xBPQ_毒蛇", 
       "name": "毒蛇|影视", 
@@ -106,7 +106,7 @@
       "quickSearch": 1, 
       "filterable": 0, 
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/毒蛇影视.json", 
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/yg.jar"      
+    "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar"    
     },
                 {"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/yg.jar",
                         "ext": {
