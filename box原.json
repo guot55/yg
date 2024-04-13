@@ -89,8 +89,11 @@
       }
     }, {      
 "key": "996",      
-"name": "🌙996|影视┃",      
-"type": 3,      
+"name": "🌙996|影视",      
+"type": 3,  
+ "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
 "api": "csp_XBPQ",   
  "ext": "./h/996影视.json"
 }, {
