@@ -857,7 +857,18 @@
             ]
     },
  {"key": "直转点", "name": "🔞㊙️点播","type": 3,"api":"http://lgz.hk3.20212021.ml.cdn.cloudflare.net/直转点.js","ext":"http://lgz.hk3.20212021.ml.cdn.cloudflare.net/直转点.txt"}, 
-
+{"key":"csp_njav","name":"🔞njav","type":3,"api":"csp_XBPQ","jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+"数组":"class=\"col-6 col-sm-4 col-lg-3\">&&</div>",
+"图片":"data-preview=\"&&\"",
+"链接":"href=\"&&\"",
+"链接前缀":"https://njav.xyz/zh/",
+"简介":"class=\"detail\">&&</a>",
+"播放数组":"class=\"col&&</div>",
+"播放链接":"iframe*src=\"&&\"",
+"直接播放":"1",
+"搜索url":"https://njav.xyz/zh/search?keyword={wd}",
+"分类url":"https://njav.xyz/zh/{cateId}?page={catePg}",
+"分类":"全新上市$new-release#最近更新$recent-update#推荐影片$recommended#vr影片$vr#今日热门$oday-hot#本周热门$weekly-hot#本月热门$monthly-hot"}},
 {
             "key": "csp_xBPQ_女优",
             "name": "🔞女优",
