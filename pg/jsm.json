@@ -68,6 +68,16 @@
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
     },{ 
+      "key": "csp_xBPQ_996", 
+      "name": "996|影视", 
+      "type": 3,
+      "api": "csp_XBPQ", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0, 
+      "ext": "./lib/996影视.json", 
+      "jar": "./lib/XBPQ.jar"      
+    },{ 
       "key": "csp_xBPQ_秒", 
       "name": "👩‍🎓文才推荐²", 
       "type": 3,
