@@ -87,7 +87,13 @@
         "分类": "电影$1#电视剧$2#动漫$3",
         "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
       }
-    },  {
+    }, {      
+"key": "996",      
+"name": "🌙996|影视┃",      
+"type": 3,      
+"api": "csp_XBPQ",   
+ "ext": "./h/996影视.json"
+}, {
       "key": "saohuo",
       "name": "🌙骚火┃电影",
       "type": 3,
