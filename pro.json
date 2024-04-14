@@ -703,6 +703,16 @@
             "timeout": 1801,
             "ext": "http://javdb523.com","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/p.jar"
         },{
+  "key": "Zuise",
+            "name": "🔞最色",
+            "type": 3,
+            "api": "csp_Zuise",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "null$$$null$$$1$$$socks5://127.0.0.1:10073"
+        },{
       "key":"ss直播",
       "name":"🔞ss直播",
       "type":3,
