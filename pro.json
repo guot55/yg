@@ -23,7 +23,7 @@
 "sites":[
 {
                         "key": "豆瓣",
-                        "name": "公众号:宝盒没宝",
+                        "name": "豆瓣推荐",
                         "type": 3,
                         "api": "csp_Douban",
                         "searchable": 0,
