@@ -9,7 +9,7 @@
     
 {
       "name": "live",
-      "url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/pro.txt",
+      "url": "https://gitcode.net/ygbh66/test/-/raw/master/tw.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -18,7 +18,7 @@
     {"group":"redirect",
     "channels":[{
     "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2d1b3Q1NC95Z2JoL3Jhdy9icmFuY2gvbWFzdGVyL3pCL3Byby50eHQ="]}]
+    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC95Z2JoNjYvdGVzdC8tL3Jhdy9tYXN0ZXIvdHcudHh0"]}]
     }],
 "sites":[
 {
