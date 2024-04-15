@@ -899,7 +899,17 @@
         "quickSearch":0,
         "filterable":0,
         "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/18cr.json"
-        },
+        },{
+     "key":"SeHuaTang",
+     "name":"🔞色花堂 | 网盘",
+     "type":3,
+     "api":"csp_SeHuaTang",
+     "searchable":1,
+     "quickSearch":1, 
+     "changeable":1, 
+     "filterable":0, 
+     "timeout":60
+    },
  {"key":"csp_xBPQ_91色","name":"🔞91色","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0, "ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/91s.json","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/xb.jar"},
 {
             "key": "老鸭",
