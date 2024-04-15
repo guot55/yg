@@ -1,0 +1,110 @@
+[
+  {
+    "name": "推薦",
+    "list": [
+      {
+        "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/7.jpg",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/7.jpg"
+      }
+    ]
+  },
+  {
+    "name": "宝盒全家桶",
+    "list": [
+      {
+        "name": "宝盒TV",
+        "url": "https://cloud.lxweb.cn/f/ZMkoTz/%E5%AE%9D%E7%9B%92TV0413.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/bhtv.png",
+        "version": "0415"
+      },
+      {
+        "name": "宝盒BOX",
+        "url": "https://cloud.lxweb.cn/f/QBmES1/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92BOX.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/box.jpg",
+        "version": "0413"
+      },
+      {
+        "name": "宝盒PLUS",
+        "url": "https://cloud.lxweb.cn/f/zDVjcz/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92PLUS.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/plus.jpg",
+        "version": "0414"
+      },
+      {
+        "name": "宝盒影视仓",
+        "url": "https://fm.caioa.link/main/apk/release/leanback-python-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "0415"
+      },
+      {
+        "name": "宝盒手机版",
+        "url": "https://fm.caioa.link/main/apk/release/mobile-java-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "0414"
+      }
+    ]
+  },
+  {
+    "name": "其他类",
+    "list": [
+      {
+        "name": "電視-java",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-java-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "電視-java",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-java-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v8a"
+      },
+      {
+        "name": "電視-py",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-python-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "電視-py",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-python-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v8a"
+      },
+      {
+        "name": "手機-java",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-java-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v7a"
+      },
+      {
+        "name": "手機-java",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-java-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      },
+      {
+        "name": "手機-py",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-python-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v7a"
+      },
+      {
+        "name": "手機-py",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-python-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      }
+    ]
+  },
+  {
+    "name": "娱乐类",
+    "list": [
+      {
+        "name": "K歌",
+        "url": "https://fm.caioa.link/main/apk/kitkat/leanback.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/kg.jpg",
+        "version": "v7a"
+      }
+    ]
+  }
+]
