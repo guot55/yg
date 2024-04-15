@@ -3,7 +3,7 @@
 	"sites":[
 		{
 			"key": "宝盒商店",
-			"name": "防失联；http://ygbh.live",
+			"name": "宝盒应用商店",
 			"type": 3,
 			"api": "csp_Market",
 			"searchable": 0,
