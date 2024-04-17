@@ -146,14 +146,7 @@
 			"searchable": 1,
 			"ext": "https://www.bdys10.com/$$$null$$$1","jar":"./pg.jar"
 		},{"key":"Xinshijue","name":"🌙视觉|网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
-		    {  "name": "🌙六维|网盘",
-			"type": 3,
-			"api": "csp_Xb6v",
-			"searchable": 1,
-			"changeable": 1,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1","jar":"./pg.jar"
-		},{
+		   {
             "key": "达达龟",
             "name": "🌙达龟|影视",
             "type": 3,
