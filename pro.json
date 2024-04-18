@@ -779,7 +779,28 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/777影院.json","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
-        },  {
+        }, {
+            "key": "ppp",
+            "name": "🔞ppp┃BPQ",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_xBPQ",
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "ext": {
+                "直接播放": "1",
+                "嗅探词": "m3u8#.m3u8",
+                "数组": "<figure class=\"aspect-ratio\">&&</a",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "搜索url": "https://ppp.porn/search/{wd}/",
+                "搜索图片": "data-src=\"&&\"",
+                "搜索数组": "<figure class=\"aspect-ratio\">&&</a",
+                "分类url": "https://ppp.porn/categories/{cateId}/{catePg}/;;a",
+                "分类": "china-av$china-av#japan-producer$japan-producer#amateur$amateur#台湾$taiwan#野外露出$exhibitionists#无码$uncensored"
+                }
+        }, {
             "key": "光棍H",
             "name": "🔞光棍影院",
             "type": 3,
