@@ -61,6 +61,25 @@
         "分类":"4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
         "分类链接":"https://www.bugutv.org/{cateId}/page/{catePg}"
       }
+    },{"key":"高清网",
+      "name":"🌙宝盒4K2|磁力",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "ext":{
+        "搜索链接":"https://gaoqing.la/page/{pg}?cat&s={wd}",
+        "简介":"◎简*介</p>&&</p>",
+        "影片年代":"◎上映 日期&&<br>",
+        "影片地区":"◎产*地&&<br>",
+        "图片是否需要代理": "1",
+        "线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "线路标题":"宝盒4K",
+        "播放数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "播放列表":"<p>&&</p>[包含:magnet]",
+        "播放链接":"</a>&&</a>",
+        "分类":"必看推荐$recommend#4K最高清$4k#BluRay蓝光原盘$bluray#1080p超清$1080P#720p高清$720p#WEB-DL标清$webdl",
+        "分类链接":"https://gaoqing.la/{cateId}/page/{catePg}[https://gaoqing.la/{cateId}]"
+      }
     }, {
       "key": "saohuo",
       "name": "🌙️骚火┃电影",
