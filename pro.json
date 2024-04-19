@@ -857,16 +857,22 @@
     {"key":"csp_xBPQ_香蕉资","name":"🔞天天中文字幕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/天天中文字幕.json","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/Yoursmile2.jar"},
     {"key":"csp_xBPQ_香蕉超","name":"🔞天天国产传媒","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/天天国产传媒.json","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/Yoursmile2.jar"},
 {
-      "key": "csp_土豪",
-      "name": "🔞土豪影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-    "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/土豪.json"
-    },{
+  "key": "m2v",
+  "name": "🔞千百撸",
+  "type": 3,
+  "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+  "api": "csp_XBPQ",
+  "ext": {
+        "站名": "222av.me",
+        "主页url": "http://041920.222av.me",
+        "首页": "最新课程",
+        "数组": "col-sm-6 col-md-4 col-lg-4&&<div class=\"video-added\">",
+        "链接": "href=\"&&\"",
+        "嗅探词": "http://m3u8.361lu.com/us.php?",
+        "分类url": "/videos/{cateId}?page={catePg};;z",
+        "分类": "全部&3D&素人&日本女优&自拍&金发洋物",
+    "分类值": "/&3d&amateur&japanese&selfie&western"
+        }},{
      "key": "影视",
      "name": "影视18",
      "type": 1,
