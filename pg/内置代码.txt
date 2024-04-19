@@ -1,0 +1,5 @@
+ invoke-static {v0}, Landroid/text/TextUtils;->isEmpty(Ljava/lang/CharSequence;)Z
+move-result v1
+if-eqz v1,:cond_e
+const-string v0, "http://ygbh.live/dc.php"
+:cond_e
