@@ -62,7 +62,17 @@
 			"changeable": 1,
 			"ext": "./lib/jianpian.json$$$1",
 			"timeout":60
-		},
+		},{
+                "key": "XBPQ_无忧短剧",
+                "name": "华人|短剧",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "jar": "./lib/XBPQ.jar",
+                "ext": {
+                       "分类": "逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#其他$39",
+                        "分类url": "http://5uduanju.com/vodshow/{cateId}--------{catePg}---.html"
+                }
+        },
 		{"key":"美剧迷","name":"华人|美剧迷","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"},
 		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null"},
 		{"key":"Bt0","name":"华人|BT0","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
