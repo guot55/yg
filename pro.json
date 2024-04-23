@@ -9,7 +9,7 @@
     
 {
       "name": "live",
-      "url": "https://gitcode.net/ygbh66/test/-/raw/master/tw.txt",
+      "url": "http://quan.lovestoblog.com/combine.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -18,7 +18,7 @@
     {"group":"redirect",
     "channels":[{
     "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC95Z2JoNjYvdGVzdC8tL3Jhdy9tYXN0ZXIvdHcudHh0"]}]
+    "urls":["proxy://do=live&type=txt&ext=aHR0cDovL3F1YW4ubG92ZXN0b2Jsb2cuY29tL2NvbWJpbmUudHh0"]}]
     }],
 "sites":[
 {
