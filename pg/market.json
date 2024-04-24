@@ -57,6 +57,11 @@
         "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/iptv.jpg",
         "version": "最新版"
       }, {
+        "name": "SKY",
+        "url": "https://cloud.lxweb.cn/f/PkGlUb/sky.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/sky.jpg",
+        "version": "仅供测试"
+      },{
         "name": "电视大全直播",
         "url": "https://cloud.lxweb.cn/f/pLD0se/dsdq.apk",
         "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/dsdq.jpg",
