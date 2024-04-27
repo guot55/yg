@@ -152,6 +152,18 @@
             "type": 3,
             "api": "./lib/drpy.min.js",
             "ext": "./lib/ddg.js"
+        },{
+      "key": "网飞影视",
+      "name": "🌙网飞|影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/wf.js"
+    },{
+            "key": "drpy_js_黑木耳资源",
+            "name": "🌙木耳|影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/mr.js"
         },
        {
       "key": "csp_圣城",
