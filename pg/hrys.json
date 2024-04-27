@@ -34,7 +34,7 @@
       "key": "网飞影视",
       "name": "华人|网飞",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/wf.js"
     },
 	{"key":"XBPQ_文才","name":"华人|文才","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
