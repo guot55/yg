@@ -41,7 +41,7 @@
             "name": "华人|木耳",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "http://serv.cloudns.be/js/黑木耳资源网.js"
+            "ext": "./lib/mr.js"
         },
 	{"key":"XBPQ_文才","name":"华人|文才","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
