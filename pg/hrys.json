@@ -35,7 +35,7 @@
       "name": "华人|网飞",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/网飞TV.js"
+      "ext": "./lib/wf.js"
     },
 	{"key":"XBPQ_文才","name":"华人|文才","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
