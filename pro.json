@@ -877,7 +877,38 @@
      "name": "影视18",
      "type": 1,
      "api": "https://155api.com/api.php/provide/vod/"
-    },
+    },  {"key": "jable",
+            "name": "💃jable| XBPQ",
+            "type": 3,
+            "jar":"./lib/XBPQ.jar",
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext":
+            {
+            "直接播放":"1",
+            "搜索模式":"1",
+     
+            "搜索url":"https://jable.tv/search/{wd}/",
+            "数组":"<div class=\"img-box cover-md\">&&</h6>",
+            "图片":"data-src=\"&&\"",
+            "标题":"class=\"title\">&&</a>",
+            "链接":"href=\"&&\"",
+            "链接前缀":"https://jable.tv",
+            "副标题":"<span class=\"label\">&&</span>",
+            "播放数组":"<h6&&</h6>",
+            "播放列表":"<a&&/a>",
+            "播放标题":">&&<",
+            "播放链接":"href=\"&&\"",
+            "分类":"最近更新$latest-updates#最新上市$new-release#主奴调教$categories/bdsm#字幕$categories/chinese-subtitle#凌辱$categories/rape#制服$categories/uniform#角色$categories/roleplay#偷拍$categories/hidden-cam#无码解码$categories/uncensored#多P$categories/groupsex#丝袜$categories/pantyhose",
+            "分类url":"https://jable.tv/{cateId}/{catePg}/",
+            "免嗅":"0",
+            "嗅探词":".m3u8#.mp4",
+                   "页面代理":"127.0.0.1:10072"
+              }
+            },
         {
       "key": "红袖",
       "name": "🔞红袖资源",
@@ -1327,41 +1358,16 @@
           
          
         },
-        {
-            "key": "红袖",
-            "name": "🔞红袖添香",
-            "type": 1,
-            "api": "https://hongxiuzy.com/api.php/provide/vod/from/hxm3u8/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "国产裸聊",
-                "抖音视频",
-                "网红头条",
-                "网曝黑料",
-                "欧美无码",
-                "女优明星",
-                "SM调教",
-                "无码专区",
-                "麻豆传媒",
-                "制服诱惑",
-                "中文字幕",
-                "卡通动漫",
-                "极品探花",
-                "美女主播",
-                "自拍偷拍",
-                "熟女人妻",
-                "萝莉少女",
-                "蜜桃传媒",
-                "3P群交",
-                "果冻传媒",
-                "精东影业",
-                "内地传媒",
-                "国产精品",
-                "日韩有码"
-            ]
+       {"key":"天美","name":"🔞天美|doll","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
+            "ext": {
+        "搜索链接":"http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
+        "数组":"\"box-item\"&&</em>",
+                "副标题":"<strong>&&</strong>",
+                "分类数组":"<li>&&</li>",
+                "分类标题":"\">&&</a",
+                "分类ID":"id/&&.",
+        "分类链接":"http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz"
+            }
         },
         {
             "key": "丝袜",
