@@ -124,17 +124,7 @@
         "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
-    },{ 
-      "key": "csp_xBPQ_996", 
-      "name": "996|影视", 
-      "type": 3,
-      "api": "csp_XBPQ", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 0, 
-      "ext": "./lib/996影视.json", 
-      "jar": "./lib/XBPQ.jar"      
-    },{ 
+    },{ "key": "kk", "name": "可可┃影视", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": "./lib/kk.json" }, { 
       "key": "csp_xBPQ_秒", 
       "name": "👩‍🎓文才推荐²", 
       "type": 3,
