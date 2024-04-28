@@ -698,7 +698,57 @@
             "api":"./h/色播.js",
             "searchable": 1,
             "changeable": 0
-        },
+        },{
+      "key": "XMVideo",
+      "name": "🔞熊猫视频",
+      "type": 3,
+      "api": "csp_XMVideo",
+      "searchable": 1,
+      "filterable": 1,"jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+    },{
+      "key": "J91",
+      "name": "🔞91珍惜",
+      "type": 3,
+      "api": "csp_J91",
+      "searchable": 1,
+      "filterable": 1,"jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+    },{
+      "key": "Cg51",
+      "name": "🔞51吃瓜",
+      "type": 3,
+      "api": "csp_Cg51",
+      "searchable": 1,
+      "filterable": 1,"jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+    },{
+      "key": "XVideos",
+      "name": "🔞XVideos",
+      "type": 3,
+      "api": "csp_XVideos",
+      "searchable": 1,
+      "filterable": 1,"jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+    },{
+      "key": "ROU223",
+      "name": "🔞223ROU | 视频",
+      "type": 3,
+      "api": "csp_ROU223",
+      "searchable": 0,
+      "filterable": 1,"jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+    },{
+      "key": "HiPianZhiBo",
+      "name": "🔞 嗨片直播 | 视频",
+      "type": 3,
+      "api": "csp_HiPianZhiBo",
+      "searchable": 1,
+      "filterable": 1,"jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+    },
+    {
+      "key": "JJAiPian",
+      "name": "🔞久久爱片 | 视频",
+      "type": 3,
+      "api": "csp_JJAiPian",
+      "searchable": 1,
+      "filterable": 1,"jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+    },
  {
             "key": "csp_JavDb",
             "name": "🔞🧲JavDb",
