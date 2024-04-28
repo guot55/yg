@@ -9,7 +9,7 @@
     
 {
       "name": "live",
-      "url": "http://quan.lovestoblog.com/combine.txt",
+      "url": "https://gitcode.net/ygbh66/test/-/raw/master/tw.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
