@@ -34,99 +34,9 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/mr.js"
-        },
-         {
-      "key": "蚂蚁",
-      "name": "🌙蚂蚁┃资源",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://122.228.84.103:5822/api.php/app/","jar":"./yg.jar"
-    }, {"key":"布谷tv","name":"🌙宝盒4K|磁力","type":3,"api":"csp_XBPQ","jar": "./lib/XBPQ.jar",
-      "ext":{
-        "搜索链接":"https://www.bugutv.org/page/{pg}?cat&s={wd}",
-        "简介":"◎简*介</p>&&</p>",
-        "影片年代":"◎上映 日期&&<br>",
-        "影片地区":"◎产*地&&<br>",
-        "线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
-        "线路标题":"宝盒4K",
-        "播放数组":"entry-content u-text-format u-clearfix&&\"content-template",
-        "播放列表":"<p>&&</p>[包含:magnet]",
-        "播放链接":"*\">&&</a>",
-        "分类":"4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
-        "分类链接":"https://www.bugutv.org/{cateId}/page/{catePg}"
-      }
-    },{
-                "key": "XBPQ_无忧短剧",
-                "name": "🌙宝盒|短剧",
-                "type": 3,
-                "api": "csp_XBPQ",
-                "jar": "./lib/XBPQ.jar",
-                "ext": {
-                       "分类": "逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#其他$39",
-                        "分类url": "http://5uduanju.com/vodshow/{cateId}--------{catePg}---.html"
-                }
-        },{"key":"高清网",
-      "name":"🌙宝盒4K2|磁力",
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "ext":{
-        "搜索链接":"https://gaoqing.la/page/{pg}?cat&s={wd}",
-        "简介":"◎简*介</p>&&</p>",
-        "影片年代":"◎上映 日期&&<br>",
-        "影片地区":"◎产*地&&<br>",
-        "图片是否需要代理": "1",
-        "线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
-        "线路标题":"宝盒4K",
-        "播放数组":"entry-content u-text-format u-clearfix&&\"content-template",
-        "播放列表":"<p>&&</p>[包含:magnet]",
-        "播放链接":"</a>&&</a>",
-        "分类":"必看推荐$recommend#4K最高清$4k#BluRay蓝光原盘$bluray#1080p超清$1080P#720p高清$720p#WEB-DL标清$webdl",
-        "分类链接":"https://gaoqing.la/{cateId}/page/{catePg}[https://gaoqing.la/{cateId}]"
-      }
-    },{
-    "key": "小白",
-    "name": "小白|磁力",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "playerType": 1,
-    "jar": "./lib/XBPQ.jar",
-    "ext": {
-        "主页url": "https://www.xbw20.com/",
-        "编码": "gb2312",
-        "图片": "data-src=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "副标题":"class=\"time\">&&</label",
-        "分类url": "https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
-        "分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
-        "起始页": 2,
-        "倒序": 1,
-        "播放数组": "迅雷下载</div>&&</div>",
-        "播放列表": "<a&&</a >"
-    }
-}, {
-      "key": "saohuo",
-      "name": "🌙️骚火┃电影",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./yg.jar",
-      "api": "csp_XBPQ",
-      "ext": {
-        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
-        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
-        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
-        "数组二次截取": "class=\"v_list\">&&</ul>",
-        "数组": "\"v_img\"&&/div>",
-        "标题": "title=\"&&\"",
-        "副标题": "v_note\"&&</div",
-        "跳转播放链接": "<iframe*src=\"&&\"",
-        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
-        "三次跳转播放链接": "\"url\"*\"&&\""
-      }
-    },{ "key": "kk", "name": "可可┃影视", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": "./lib/kk.json" }, { 
+        },{ "key": "kk", "name": "可可┃影视", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": "./lib/kk.json" }, { 
       "key": "csp_xBPQ_秒", 
-      "name": "👩‍🎓文才推荐²", 
+      "name": "文才|推荐", 
       "type": 3,
       "api": "csp_XBPQ", 
       "searchable": 1, 
@@ -232,15 +142,91 @@
 			"changeable": 1,
 			"ext": "./lib/jianpian.json$$$1",
 			"timeout":60
-		},
-		{
-			"key": "tvbsk",
-			"name": "TVB云播┃App",
-			"type": 3,
-			"api": "csp_Skapp",
-			"playerType": 2,
-			"ext": "CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==$$$null$$$1"
-		},
+		},{ "key": "ppvod", "name": "泡泡┃切片", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": { "分类": "国产剧$14#欧美剧$15#日韩剧$62#港台剧$16#国产动漫$75#日韩动漫$76#欧美动漫$77#剧情$37#动作$23#恐怖$36", "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", "导演": "vod_director\"*\"&&\"", "主演": "vod_actor\"*\"&&\"", "简介": "vod_content\"*\"&&\"", "数组": "{&&}", "图片": "vod_pic\":\"&&\"", "标题": "vod_name\":\"&&\"", "副标题": "+vod_remarks\":\"&&\"", "线路数组": "\"vod_play_from\":&&,[替换:dplayer>>宝盒专享]", "线路标题": "\"&&\"", "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]", "播放列表": "表&&表", "播放标题": "题&&题", "播放链接": "链&&链", "播放请求头": "Referer$https://www.sxbfxk.com/", "链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,", "搜索url": "https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}", "嗅探词": ".m3u8" } },
+   {"key":"布谷tv","name":"🌙宝盒4K|磁力","type":3,"api":"csp_XBPQ","jar": "./lib/XBPQ.jar",
+      "ext":{
+        "搜索链接":"https://www.bugutv.org/page/{pg}?cat&s={wd}",
+        "简介":"◎简*介</p>&&</p>",
+        "影片年代":"◎上映 日期&&<br>",
+        "影片地区":"◎产*地&&<br>",
+        "线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "线路标题":"宝盒4K",
+        "播放数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "播放列表":"<p>&&</p>[包含:magnet]",
+        "播放链接":"*\">&&</a>",
+        "分类":"4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
+        "分类链接":"https://www.bugutv.org/{cateId}/page/{catePg}"
+      }
+    },{
+                "key": "XBPQ_无忧短剧",
+                "name": "🌙宝盒|短剧",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "jar": "./lib/XBPQ.jar",
+                "ext": {
+                       "分类": "逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#其他$39",
+                        "分类url": "http://5uduanju.com/vodshow/{cateId}--------{catePg}---.html"
+                }
+        },{"key":"高清网",
+      "name":"🌙宝盒4K2|磁力",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "ext":{
+        "搜索链接":"https://gaoqing.la/page/{pg}?cat&s={wd}",
+        "简介":"◎简*介</p>&&</p>",
+        "影片年代":"◎上映 日期&&<br>",
+        "影片地区":"◎产*地&&<br>",
+        "图片是否需要代理": "1",
+        "线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "线路标题":"宝盒4K",
+        "播放数组":"entry-content u-text-format u-clearfix&&\"content-template",
+        "播放列表":"<p>&&</p>[包含:magnet]",
+        "播放链接":"</a>&&</a>",
+        "分类":"必看推荐$recommend#4K最高清$4k#BluRay蓝光原盘$bluray#1080p超清$1080P#720p高清$720p#WEB-DL标清$webdl",
+        "分类链接":"https://gaoqing.la/{cateId}/page/{catePg}[https://gaoqing.la/{cateId}]"
+      }
+    },{
+    "key": "小白",
+    "name": "小白|磁力",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "playerType": 1,
+    "jar": "./lib/XBPQ.jar",
+    "ext": {
+        "主页url": "https://www.xbw20.com/",
+        "编码": "gb2312",
+        "图片": "data-src=\"&&\"",
+        "标题": "alt=\"&&\"",
+        "副标题":"class=\"time\">&&</label",
+        "分类url": "https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
+        "分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
+        "起始页": 2,
+        "倒序": 1,
+        "播放数组": "迅雷下载</div>&&</div>",
+        "播放列表": "<a&&</a >"
+    }
+},  {
+      "key": "saohuo",
+      "name": "🌙️骚火┃电影",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./yg.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
+        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+        "数组二次截取": "class=\"v_list\">&&</ul>",
+        "数组": "\"v_img\"&&/div>",
+        "标题": "title=\"&&\"",
+        "副标题": "v_note\"&&</div",
+        "跳转播放链接": "<iframe*src=\"&&\"",
+        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+        "三次跳转播放链接": "\"url\"*\"&&\""
+      }
+    },
 
 		{
 			"key": "索尼资源",
