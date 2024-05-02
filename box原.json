@@ -119,7 +119,22 @@
 			"quickSearch": 1,
 			"searchable": 1,
 			"ext": "https://www.bdys10.com/$$$null$$$1","jar":"./pg.jar"
-		},{"key":"Xinshijue","name":"🌙视觉|网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
+		},{"key":"MP4us","name":"🌙MP4us|磁力","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar",
+            "ext": {
+        "标题":"<font*>&&</font>",
+                "数组":"<li>&&</li>",
+                "副标题":"rate badge\">&&</span>+|+update_time\">&&</span>",
+                "线路标题":"<h2>&&</h2>[替换:下载地址>>宝盒专享]",
+                "播放数组":"download_url&&</ul>",
+                "播放列表":"<a&&</a>[不包含:ed2k]",
+                "线路数组":"download_url&&</ul>",
+                "分类二次截取":"<ul&&</ul>",
+                "分类数组":"<li&&</li>",
+                "分类标题":">&&</a",
+                "分类ID":"/list/&&-1.html",
+        "分类url":"https://m.mp4us.com/list/{cateId}-{catePg}.html;;dm"
+             }
+        },{"key":"Xinshijue","name":"🌙视觉|网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
 		   {
             "key": "达达龟",
             "name": "🌙达龟|影视",
