@@ -27,7 +27,7 @@
 			"type": 3,
 			"searchable": 0,
 			"api": "./lib/live2vod.js",
-			"ext": "http://oy.oyxx-1.eu.org/p3p.php"
+			"ext": "https://gitcode.net/ygbh66/test/-/raw/master/tw.txt"
 		},
 		{"key": "bpys","name": "宝盒┃影视","type": 3,"api": "csp_BaiPiao" ,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2,"ext": "https://www.baipiaoys.com:9092/","jar": "./bp.jar"},
 	{
