@@ -21,6 +21,14 @@
 			"ext":"./lib/tokenm.json"
 		},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
+		{
+			"key": "直播转点播",
+			"name": "🐼️┃电视┃直播",
+			"type": 3,
+			"searchable": 0,
+			"api": "./lib/live2vod.js",
+			"ext": "http://oy.oyxx-1.eu.org/p3p.php"
+		},
 		{"key": "bpys","name": "宝盒┃影视","type": 3,"api": "csp_BaiPiao" ,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2,"ext": "https://www.baipiaoys.com:9092/","jar": "./bp.jar"},
 	{
             "key": "drpy_js_黑木耳资源",
