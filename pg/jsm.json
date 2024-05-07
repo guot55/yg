@@ -260,17 +260,17 @@
 			"ext": "./lib/jianpian.json$$$1",
 			"timeout":60
 		},{ "key": "ppvod", "name": "泡泡┃切片", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": { "分类": "国产剧$14#欧美剧$15#日韩剧$62#港台剧$16#国产动漫$75#日韩动漫$76#欧美动漫$77#剧情$37#动作$23#恐怖$36", "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", "导演": "vod_director\"*\"&&\"", "主演": "vod_actor\"*\"&&\"", "简介": "vod_content\"*\"&&\"", "数组": "{&&}", "图片": "vod_pic\":\"&&\"", "标题": "vod_name\":\"&&\"", "副标题": "+vod_remarks\":\"&&\"", "线路数组": "\"vod_play_from\":&&,[替换:dplayer>>宝盒专享]", "线路标题": "\"&&\"", "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]", "播放列表": "表&&表", "播放标题": "题&&题", "播放链接": "链&&链", "播放请求头": "Referer$https://www.sxbfxk.com/", "链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,", "搜索url": "https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}", "嗅探词": ".m3u8" } },
- {
-                "key": "XBPQ_无忧短剧",
-                "name": "🌙宝盒|短剧",
-                "type": 3,
-                "api": "csp_XBPQ",
-                "jar": "./lib/XBPQ.jar",
-                "ext": {
-                       "分类": "逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#其他$39",
-                        "分类url": "http://5uduanju.com/vodshow/{cateId}--------{catePg}---.html"
-                }
-        },{"key":"高清网",
+{"key":"短剧tv","name":"宝盒|短剧","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar",
+      "ext":{
+        "搜索链接":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
+        "线路标题":"<h3*>&&</h3>",
+        "线路数组":"\"more text-muted pull-right\">&&</ul>",
+        "播放数组":"\"more text-muted pull-right\">&&</ul>",
+        "播放链接":"http+://www.duanjutv.cc+href='&&'",
+        "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23",
+        "分类链接":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m"
+      }
+    },{"key":"高清网",
       "name":"🌙宝盒4K2|磁力",
       "type":3,
       "api":"csp_XBPQ",
