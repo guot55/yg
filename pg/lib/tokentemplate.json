@@ -49,12 +49,14 @@
 "wgcf_key2":"",
 "wgcf_ipport":"",
 "wgcf_xray_url":"./xray.gz",
+"wgcf_geoip_url":"./geoip.dat.gz",
 "wgcf_json_url":"./wgcf.json",
 "wgcf_vless_id":"",
-"wgcf_vless_optname":"cdn-all.xn--b6gac.eu.org",
+"wgcf_vless_optname":"singapore.com:443",
 "wgcf_vless_worker":"",
 "wgcf_vless_path":"/?ed=2048",
 "wgcf_vless_protocol":"vless",
 "wgcf_vless_network":"ws",
-"wgcf_vless_tls":false
+"wgcf_vless_tls":false,
+"libxl_url":"./libxl_thunder_sdk.so"
 }
