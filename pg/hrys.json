@@ -432,22 +432,6 @@
 			"changeable": 1,
 			"ext":"https://www.duanjutv.icu"
 		},
-		{
-			"key": "酷狗",
-			"name": "酷狗",
-			"type": 3,
-			"api": "csp_Kugou",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "Yinyuetai",
-			"name": "音悦台",
-			"type": 3,
-			"api": "csp_Yinyuetai",
-			"searchable": 1,
-			"changeable": 0
-		},
 		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"}
 		],
 		"lives":[
