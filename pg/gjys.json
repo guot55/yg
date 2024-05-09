@@ -20,17 +20,43 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.tvkuys.xyz/api.php/app/"
-    }, {
-      "key": "三四八",
-      "name": "國際|348在线",
+    },   {
+      "key": "348影视网",
+      "name": "华人|348影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/盗用私募/api/三四八.php"
-    },{
+      "changeable": 0,
+      "ext": {
+        "作者":"侠客影视",
+        "站名":"348影视",    
+        "主页url":"https://348z.com/",    
+        "简介":"+详情：&&</div>",    
+        "导演":"导演：&&</li>",    
+        "主演":"主演：&&</li>",    
+        "影片状态":"状态：&&</li>",    
+        "影片类型":"data vodTag\">&&</li>",    
+        "数组":"list-width volistwidthb\">&&</li>",    
+        "标题":"title=\"&&\"",
+        "副标题":"list-remarks hidden\">&&</span>",    
+        "图片":"data-original=\"&&\"",    
+        "链接":"href=\"&&\"",    
+        "搜索url":"/vodsearch.html?wd={wd}",    
+        "搜索模式":"1",    
+        "搜索数组":"img lazy eclazy br\"&&</a>",    
+        "搜索标题":"title=\"&&\"",    
+        "搜索副标题":"list-remarks hidden\">&&</span>",    
+        "搜索图片":"data-original=\"&&\"",    
+        "搜索链接":"href=\"&&\"",    
+        "线路数组":"data-from=&&</a>[不包含:超清资源#MY][排序:极速2]",    
+        "线路标题":"国际影视专享-+>&&</em>[替换:<em>>>🌸共]+集🌸",    
+        "分类url":"https://348z.com/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
+        "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
+       }
+    },{ "key": "kk", "name": "国际┃可可", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": "./lib/kk.json" },{
       "key": "网飞影视",
       "name": "國際|网飞",
       "type": 3,
