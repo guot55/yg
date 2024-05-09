@@ -22,7 +22,7 @@
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },   {
       "key": "348影视网",
-      "name": "华人|348影视",
+      "name": "國際|348影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -56,7 +56,7 @@
         "分类url":"https://348z.com/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
         "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
        }
-    },{ "key": "kk", "name": "国际┃可可", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": "./lib/kk.json" },{
+    },{ "key": "kk", "name": "國際┃可可", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": "./lib/kk.json" },{
       "key": "网飞影视",
       "name": "國際|网飞",
       "type": 3,
