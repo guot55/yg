@@ -112,7 +112,17 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/mr.js"
-        },
+        },{ 
+      "key": "csp_xBPQ_影视控", 
+      "name": "国际|影视控", 
+      "type": 3,
+      "api": "csp_XBPQ", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0, 
+      "ext": "./lib/影视控.json", 
+      "jar": "./lib/XBPQ.jar"      
+    },
 	{"key":"XBPQ_文才","name":"國際|文才","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
 				"分类值": "14&42&22&26&36&25&30&23&69&15&16&62",
