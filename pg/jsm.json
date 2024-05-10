@@ -170,7 +170,7 @@
 				"分类": "电影$1#电视剧$2#动漫$3#综艺$4",
 				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
 			}
-		},{
+		},{"key": "白嫖者","name": "白飘|影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"+剧情介绍：&&</p >"}},{
 			"key":"XBPQ_电影先生",
 			"name": "电影先生|XBPQ",
 			"jar": "./lib/XBPQ.jar",
