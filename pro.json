@@ -671,7 +671,7 @@
             "key": "色播",
             "name": "🔞色播直播",
             "type": 3,
-            "api":"./h/色播.js",
+            "api":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/色播.js",
             "searchable": 1,
             "changeable": 0
         },{
@@ -756,7 +756,7 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "null$$$null$$$1$$$socks5://127.0.0.1:10073"
-        },{"key":"溏心次元","name":"🔞溏心次元","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
+        },{"key":"溏心次元","name":"🔞溏心次元","type":3,"api":"csp_XBPQ","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar","style":{"ratio":1.7},
             "ext": {
         "数组":"<li&&</li>",
         "搜索url":"https://www.txcyeat.buzz/index.php/vodsearch/{wd}----------{pg}---.html",
@@ -768,7 +768,7 @@
         "分类ID":"index.php/vodtype/&&.html",
         "分类url":"https://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z"
             }
-        },{"key":"u9a9","name":"🔞u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"type":"list"},
+        },{"key":"u9a9","name":"🔞u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar","style":{"type":"list"},
             "ext": {
         "搜索url":"https://u9a9b.cc/?type=1&search={wd}&p={pg}",
         "数组":"<tr&&</tr>",
@@ -792,11 +792,11 @@
             "key": "草榴社区",
             "name": "🌹石榴|社区",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/草榴社区.js"
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/js/草榴社区.js"
         },{
             "key": "csp_91黑料",
             "name": "🔞91黑料",
@@ -963,7 +963,7 @@
     },  {"key": "jable",
             "name": "💃jable| XBPQ",
             "type": 3,
-            "jar":"./lib/XBPQ.jar",
+            "jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -992,29 +992,6 @@
                    "页面代理":"127.0.0.1:10072"
               }
             },
-        {
-      "key": "红袖",
-      "name": "🔞红袖资源",
-      "type": 1,
-      "api": "https://hongxiuzy.com/api.php/provide/vod/",
-       "playUrl": "",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "categories": [
-            "国产裸聊",
-                "抖音视频",
-                "SM调教",
-                "自拍偷拍",
-                "欧美无码",
-                "无码专区",
-                "极品探花",
-                "美女主播",
-                "内地传媒",
-                "国产精品"
-                
-            ]
-    },
 {
             "key": "SMTV",
             "name": "🔞色迷TV",
@@ -1023,7 +1000,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./lib/XBPQ.jar",
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "直接播放": "1",
