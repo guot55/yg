@@ -756,7 +756,7 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "null$$$null$$$1$$$socks5://127.0.0.1:10073"
-        },{"key":"溏心次元","name":"🔞溏心次元","type":3,"api":"csp_XBPQ","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar","style":{"ratio":1.7},
+        },{"key":"溏心次元","name":"🔞溏心次元","type":3,"api":"csp_XBPQ","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","style":{"ratio":1.7},
             "ext": {
         "数组":"<li&&</li>",
         "搜索url":"https://www.txcyeat.buzz/index.php/vodsearch/{wd}----------{pg}---.html",
