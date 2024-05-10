@@ -147,7 +147,17 @@
 				"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
 				"免嗅": "0"
 			}
-		},{
+		},{ 
+      "key": "csp_xBPQ_影视控", 
+      "name": "华人|影视控", 
+      "type": 3,
+      "api": "csp_XBPQ", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0, 
+      "ext": "./lib/影视控.json", 
+      "jar": "./lib/XBPQ.jar"      
+    },{
 			"key": "NanGua",
 			"name": "华人|南瓜",
 			"type": 3,
