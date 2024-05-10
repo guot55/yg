@@ -15,7 +15,7 @@
       "name": "全球|酷影",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/xpbq.php",
+      "jar": "./lib/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -62,6 +62,16 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/wf.js"
+    },{ 
+      "key": "csp_xBPQ_影视控", 
+      "name": "全球|影视控", 
+      "type": 3,
+      "api": "csp_XBPQ", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0, 
+      "ext": "./lib/影视控.json", 
+      "jar": "./lib/XBPQ.jar"      
     },{
             "key": "drpy_js_黑木耳资源",
             "name": "全球|木耳",
