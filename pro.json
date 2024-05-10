@@ -42,32 +42,8 @@
                 },
                 {"key":"Local","name":"本地","type":3,"api":"csp_Local"},{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/wogg.json"},
                 {"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/wogg.json"},
-                {"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/wogg.json"},{
-            
-      "key": "baip",
-      "name": "🌙️白嫖┃影视",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "https://www.baipiaoys.com:9092",
-        "副标题": "pic-text text-right\">&&</b>",
-        "搜索模式": "1",
-        "搜索url": "https://www.baipiaoys.com:9092/search.html?wd={wd}",
-        "图片": "data-original=\"&&\"",
-        "嗅探词": ".mp4#m3u8#.m3u8",
-        "线路标题": "🌙宝盒专享",
-        "线路数组": "🌙宝盒专享",
-        "分类": "电影$1#电视剧$2#动漫$3",
-        "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-      },"jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/yg.jar"}, {
-      "key": "蚂蚁",
-      "name": "🌙蚂蚁┃资源",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://122.228.84.103:5822/api.php/app/","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/yg.jar"
-    },  {
+                {"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/wogg.json"},
+             {
       "key": "saohuo",
       "name": "🌙️骚火┃电影",
       "type": 3,
@@ -813,6 +789,15 @@
       "filterable":1,
       "ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/ss直播.js"
   }, {
+            "key": "草榴社区",
+            "name": "🌹石榴|社区",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/草榴社区.js"
+        },{
             "key": "csp_91黑料",
             "name": "🔞91黑料",
             "type": 3,
