@@ -127,6 +127,16 @@
       "ext": "./lib/文才.json", 
       "jar": "./lib/XBPQ.jar"      
     },{ 
+      "key": "csp_xBPQ_影视控", 
+      "name": "影视控|影视", 
+      "type": 3,
+      "api": "csp_XBPQ", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0, 
+      "ext": "./lib/影视控.json", 
+      "jar": "./lib/XBPQ.jar"      
+    },{ 
       "key": "csp_xBPQ_毒蛇", 
       "name": "毒蛇|影视", 
       "type": 3,
