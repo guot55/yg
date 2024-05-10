@@ -164,7 +164,7 @@
 			"changeable": 1,
 			"ext": "./lib/jianpian.json$$$1",
 			"timeout":60
-		},{"key": "bpys","name": "华人┃影视","type": 3,"api": "csp_BaiPiao" ,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2,"ext": "https://www.baipiaoys.com:9092/","jar": "./bp.jar"}, {
+		}, {
                 "key": "XBPQ_无忧短剧",
                 "name": "华人|短剧",
                 "type": 3,
