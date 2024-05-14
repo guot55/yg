@@ -228,7 +228,7 @@
                 "分类ID": "/vodtype/&&.html",
                 "分类url": "https://www.changaotrade.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html"
             }
-        },
+        },{"key":"Yinfans","name":"音范丝|磁力","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1"},
 		{
 			"key": "河马",
 			"name": "河马┃App",
