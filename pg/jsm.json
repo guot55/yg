@@ -223,21 +223,19 @@
                 "分类url": "http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"
             }
-        },      {
-            "key": "碟调",
-            "name": "碟调┃电影",
+        },  {
+            "key": "XBPQ_keda",
+            "name": "可达|影视",
             "type": 3,
             "api": "csp_XBPQ",
-	  "jar": "./lib/XBPQ.jar",
+            "jar": "./lib/XBPQ.jar",
             "ext": {
-                "简介": "</a >&nbsp;。<p>&&</p >",
-                "跳转播放链接": "varurlDecode(var player*url\":\"&&\")",
-                "分类数组": "default\"&&</li>",
-                "分类标题": ">&&</a >",
-                "分类ID": "/vodtype/&&.html",
-                "分类url": "https://www.changaotrade.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html"
+                "搜索url": "https://kedays.org/so/-------------.html?wd={wd}",
+                "分类url": "https://kedays.org/fen/{cateId}-{catePg}.html",
+                "分类": "电影&连续剧&综艺&动漫",
+                "分类值": "dianying&lianxuju&zongyi&dongman"
             }
-        },{"key":"Yinfans","name":"音范丝|磁力","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1"},
+    },{"key":"Yinfans","name":"音范丝|磁力","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1"},
 		{
 			"key": "河马",
 			"name": "河马┃App",
