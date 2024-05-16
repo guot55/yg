@@ -21,17 +21,7 @@
 			"ext":"./lib/tokenm.json"
 		},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
-{ 
-      "key": "csp_xBPQ_影视控", 
-      "name": "宝盒|影视控", 
-      "type": 3,
-      "api": "csp_XBPQ", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 0, 
-      "ext": "./lib/影视控.json", 
-      "jar": "./lib/XBPQ.jar"      
-    },
+
 	{
             "key": "drpy_js_黑木耳资源",
             "name": "木耳|影视",
