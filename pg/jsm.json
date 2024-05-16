@@ -225,11 +225,12 @@
             }
         }, {
             "key": "可达影视",
-            "name": "可达影视",
+            "name": "可达|影视",
             "type": 3,
             "playerType": 2,
             "playUrl": "https://kedays.org/play/?url=",
             "api": "csp_XBPQ",
+        "jar": "./lib/XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
