@@ -777,15 +777,16 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/ss直播.js"
-  }, {
-            "key": "草榴社区",
-            "name": "🌹石榴|社区",
+  },{
+            "key": "csp_XYBQ",
+            "name": "比卡|比卡🔞",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
+            "api": "csp_XYBQ",
+             "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/js/草榴社区.js"
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/比卡比卡.json"
         },{
             "key": "csp_91黑料",
             "name": "🔞91黑料",
