@@ -673,7 +673,7 @@
             "api":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/色播.js",
             "searchable": 1,
             "changeable": 0
-        },{"key":"lf_js_lf_live","name":"直播","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live1.txt"},{
+        },{"key":"lf_js_lf_live","name":"🔞直播","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live1.txt"},{
       "key": "XMVideo",
       "name": "🔞熊猫视频",
       "type": 3,
@@ -735,7 +735,7 @@
             "changeable": 0,
             "timeout": 1801,
             "ext": "http://javdb523.com","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/p.jar"
-        },{
+        },{"key":"didizy.com","name":"💕滴滴(直连)","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},{
   "key": "Zuise",
             "name": "🔞最色",
             "type": 3,
@@ -745,7 +745,7 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "null$$$null$$$1$$$socks5://127.0.0.1:10073"
-        },{"key":"溏心次元","name":"🔞溏心次元","type":3,"api":"csp_XBPQ","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","style":{"ratio":1.7},
+        },{"key":"sesehuzy.com","name":"💕色虎(直连)","type":1,"api":"https://apisesehuzy.com/api.php/providedao/vod/?ac=list","searchable":1,"filterable":1},{"key":"溏心次元","name":"🔞溏心次元","type":3,"api":"csp_XBPQ","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","style":{"ratio":1.7},
             "ext": {
         "数组":"<li&&</li>",
         "搜索url":"https://www.txcyeat.buzz/index.php/vodsearch/{wd}----------{pg}---.html",
@@ -768,16 +768,7 @@
                 "分类": "DHT网络$1",
         "分类url": "https://u9a9b.cc/?type={cateId}&p={catePg};;m"
             }
-        },{
-      "key":"ss直播",
-      "name":"🔞ss直播",
-      "type":3,
-      "api":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/ss直播.js"
-  },{
+        },{"key":"黄色仓库","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","style":{"ratio":1.7},"ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/黄色仓库.json"},{
             "key": "csp_XYBQ",
             "name": "🔞比卡|比卡",
             "type": 3,
@@ -812,7 +803,7 @@
                 "分类标题": ">&&</a>",
                 "分类ID": "/t/&&/"
             },"jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar"
-        },{ "key": "666",
+        },{"key":"lyhzyw.com","name":"狼友会","type":1,"api":"https://api.lyhapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},{ "key": "666",
             "name": "🔞撸网666",
             "type": 3,
             "changeable": 1,
