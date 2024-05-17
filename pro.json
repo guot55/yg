@@ -673,7 +673,7 @@
             "api":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/色播.js",
             "searchable": 1,
             "changeable": 0
-        },{
+        },{"key":"lf_js_lf_live","name":"直播","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/js/lf_live1.txt"},{
       "key": "XMVideo",
       "name": "🔞熊猫视频",
       "type": 3,
