@@ -29,13 +29,16 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/mr.js"
         },  
-	{
-            "key": "drpy_js_aidi",
-            "name": "爱迪|影视",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/爱迪影视.js"
-        },    {
+	 {
+      "key": "4kvm",
+      "name": "四千┃影视",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./lib/XPBQ.jar",
+      "api": "csp_XBPQ",
+      "ext": "./lib/4kys.json"
+    }, {
       "key": "子子影视",
       "name": "子子|影视",
       "type": 3,
