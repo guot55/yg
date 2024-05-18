@@ -62,16 +62,15 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/wf.js"
-    },{ 
-      "key": "csp_xBPQ_影视控", 
-      "name": "全球|影视控", 
+    }, {
+      "key": "4kvm",
+      "name": "四千┃影视",
       "type": 3,
-      "api": "csp_XBPQ", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 0, 
-      "ext": "./lib/影视控.json", 
-      "jar": "./lib/XBPQ.jar"      
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./lib/XPBQ.jar",
+      "api": "csp_XBPQ",
+      "ext": "./lib/4kys.json"
     },{
             "key": "drpy_js_黑木耳资源",
             "name": "全球|木耳",
