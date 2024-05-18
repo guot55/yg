@@ -63,6 +63,15 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/wf.js"
     },  {
+      "key": "4kvm",
+      "name": "四千┃影视",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./lib/XPBQ.jar",
+      "api": "csp_XBPQ",
+      "ext": "./lib/4kys.json"
+    }, {
       "key": "子子影视",
       "name": "國際|子子",
       "type": 3,
