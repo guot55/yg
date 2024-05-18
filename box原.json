@@ -75,6 +75,15 @@
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
     },  {
+      "key": "4kvm",
+      "name": "四千┃影视",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./lib/XPBQ.jar",
+      "api": "csp_XBPQ",
+      "ext": "./lib/4kys.json"
+    }, {
       "key": "子子影视",
       "name": "子子|影视",
       "type": 3,
