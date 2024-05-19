@@ -745,19 +745,8 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "null$$$null$$$1$$$socks5://127.0.0.1:10073"
-        },{"key":"sesehuzy.com","name":"💕色虎(直连)","type":1,"api":"https://apisesehuzy.com/api.php/providedao/vod/?ac=list","searchable":1,"filterable":1},{"key":"溏心次元","name":"🔞溏心次元","type":3,"api":"csp_XBPQ","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","style":{"ratio":1.7},
-            "ext": {
-        "数组":"<li&&</li>",
-        "搜索url":"https://www.txcyeat.buzz/index.php/vodsearch/{wd}----------{pg}---.html",
-        "副标题":"添加时间:&&</span>",
-        "主页url":"https://www.txcyeat.buzz/index.php/label/sort.html",
-        "分类二次截取":"<body>&&</body>[替换:/span>>/p#span>>classfont\"]",
-        "分类数组":"<li&&</li>",
-        "分类标题":"classfont\">&&</p>",
-        "分类ID":"index.php/vodtype/&&.html",
-        "分类url":"https://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z"
-            }
-        },{"key":"u9a9","name":"🔞u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar","style":{"type":"list"},
+        },{"key":"sesehuzy.com","name":"💕色虎(直连)","type":1,"api":"https://apisesehuzy.com/api.php/providedao/vod/?ac=list","searchable":1,"filterable":1},
+       {"key":"u9a9","name":"🔞u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar","style":{"type":"list"},
             "ext": {
         "搜索url":"https://u9a9b.cc/?type=1&search={wd}&p={pg}",
         "数组":"<tr&&</tr>",
