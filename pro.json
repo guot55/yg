@@ -9,7 +9,7 @@
     
 {
       "name": "live",
-      "url": "http://oy.oyxx-1.eu.org/p3p.php?r18=1",
+      "url": "https://lsj.37o.xyz/histar.php?list",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
