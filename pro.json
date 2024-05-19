@@ -904,6 +904,21 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/疯猫av.json"
+        },{ "key": "x",
+            "name": "🔞x合集",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+               "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "style": {"ratio": 1.7},
+            "ext":{
+            "搜索url":"https://xpdhj.fun/xpdhj/vod/search/page/{pg}/wd/{wd}.html",
+            "分类":"仓库资源$1#AVXXC$2#AV奥斯卡$3#115资源$4",
+             "分类url": "https://xpdhj.fun/xpdhj/vod/type/id/{cateId}/page/{catePg}.html"
+            }
         },
  {
             "key": "csp_XBPQ_奶很大",
