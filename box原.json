@@ -74,9 +74,19 @@
         "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
-    },  {
+    }, {
+      "key": "dan酷影视",
+      "name": "🌙宝盒|酷影",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./lib/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tvkuys.xyz/api.php/app/"
+    },   {
       "key": "4kvm",
-      "name": "四千┃影视",
+      "name": "🌙宝盒┃四千",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -85,7 +95,7 @@
       "ext": "./lib/4kys.json"
     }, {
       "key": "子子影视",
-      "name": "子子|影视",
+      "name": "🌙子子|影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -129,7 +139,7 @@
     }
     }, {
       "key": "348影视网",
-      "name": "348|影视网",
+      "name": "🌙348|影视网",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -163,7 +173,7 @@
         "分类url":"https://348z.com/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
         "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
        }
-    },{ "key": "kk", "name": "可可┃影视", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": "./lib/kk.json" }, {"key":"XBPQ_文才","name":"🌙文才|速播","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
+    },{ "key": "kk", "name": "🌙可可┃影视", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": "./lib/kk.json" }, {"key":"XBPQ_文才","name":"🌙文才|速播","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
 				"分类值": "14&42&22&26&36&25&30&23&69&15&16&62",
 				"分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
@@ -197,16 +207,7 @@
 				"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
 				"免嗅": "0"
 			}
-		},  {
-      "key": "csp_影视控",
-      "name": "🌙影视控|影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./a/影视控.json","jar": "./jar/4k.jar"
-    }, {"key":"Wo4k","name":"🌙玩偶4K|磁力","type":3,"api":"csp_Wo4k","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json","jar":"./pg.jar"}, {"key":"Bt0","name":"🌙不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1","jar":"./pg.jar"},
+		}, {"key":"Wo4k","name":"🌙玩偶4K|磁力","type":3,"api":"csp_Wo4k","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json","jar":"./pg.jar"}, {"key":"Bt0","name":"🌙不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1","jar":"./pg.jar"},
 		{
 			"key": "Bdys_spider",
 			"name": "🌙哔滴┃磁力",
