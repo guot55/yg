@@ -62,7 +62,16 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/wf.js"
-    },  {
+    }, {
+      "key": "420kvm",
+      "name": "华人┃420影视",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./lib/XBPQ.jar",
+      "api": "csp_XBPQ",
+      "ext": "./lib/420影视.json"
+    }, {
       "key": "子子影视",
       "name": "华人|子子",
       "type": 3,
