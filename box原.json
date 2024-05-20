@@ -74,6 +74,15 @@
         "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
+    },{
+      "key": "420kvm",
+      "name": "🌙420┃影视",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./lib/XBPQ.jar",
+      "api": "csp_XBPQ",
+      "ext": "./lib/420影视.json"
     }, {
       "key": "dan酷影视",
       "name": "🌙宝盒|酷影",
