@@ -935,6 +935,26 @@
             "分类":"仓库资源$1#AVXXC$2#AV奥斯卡$3#115资源$4",
              "分类url": "https://xpdhj.fun/xpdhj/vod/type/id/{cateId}/page/{catePg}.html"
             }
+        },{
+            "key": "天天视频福利版",
+            "name": "🔞天天视频福利版",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+               "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://www.ttsp.tv/vodtype/vipfuli.html",
+                "图片": "data-original=\"&&\"",
+                "数组": "",
+                "线路数组": "",
+                "线路标题": "",
+                "跳转播放链接": "\"contentUrl\": \"&&\"",
+                "分类url": "https://www.ttsp.tv/vodshow/{cateId}-{area}--{class}-{lang}-{by}---{catePg}---{year}.html[https://www.ttsp.tv/vodtype/{cateId}.html]",
+                "分类": "午夜剧场$wuyejuchang#VIP福利片库$65#亚洲情色$85#国产主播$86#国产自拍$87#无码专区$88#欧美性爱$89#熟女人妻$90#强奸乱伦$91#巨乳美乳$92#中文字幕$93#制服诱惑$94#女同性恋$95#卡通动画$96#少女萝莉$97#重口色情$98#人兽性交$99#视频伦理$100"
+            }
         },
  {
             "key": "csp_XBPQ_奶很大",
