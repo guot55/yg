@@ -29,6 +29,13 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/mr.js"
         },  
+	{
+            "key": "drpy_js_北川",
+            "name": "北川|影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/北川影视.js"
+        },  
 	 {
       "key": "4kvm",
       "name": "四千┃影视",
