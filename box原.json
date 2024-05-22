@@ -261,7 +261,17 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/mr.js"
-        },
+        },{ 
+      "key": "csp_xBPQ_天龙", 
+      "name": "🌙天龙|高清", 
+      "type": 3,
+      "api": "csp_XBPQ", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0, 
+      "ext": "./lib/天龙高清.json", 
+      "jar": "./lib/XBPQ.jar"      
+    },
        {
       "key": "csp_圣城",
       "name": "🌙圣城|影视",
