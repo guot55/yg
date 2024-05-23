@@ -55,16 +55,8 @@
   "quickSearch": 1,
   "filterable": 1,
   "jar" : "./jar/bh.jar",
-  "ext":"./h/bh.json"},{"key":"Wogg","name":"💿玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json","jar": "./pg.jar"},{
-      "key": "drpy_js_ikanbot2",
-      "name": "🌙宝盒|机器人",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./lib/ikanbot.js"
-    },{
+  "ext":"./h/bh.json"},{"key":"Wogg","name":"💿玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json","jar": "./pg.jar"},{ "key": "Ikanbot", "name": "🌙爱看|机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy","jar": "./pg.jar"},
+    {
       "key": "jqq",
       "name": "🌙剧圈圈｜影视",
       "type": 3,
