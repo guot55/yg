@@ -250,16 +250,6 @@
             "api": "./lib/drpy.min.js",
             "ext": "./lib/ddg.js"
         },{
-      "key": "jqq",
-      "name": "🌙剧圈圈｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "ext": {
-        "分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html",
-        "分类": "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman" 
-      }
-    },{
       "key": "网飞影视",
       "name": "🌙网飞|影视",
       "type": 3,
