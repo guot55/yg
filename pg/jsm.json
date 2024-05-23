@@ -144,15 +144,6 @@
       "filterable": 0, 
       "ext": "./lib/文才.json", 
       "jar": "./lib/XBPQ.jar"      
-    },{
-      "key": "drpy_js_ikanbot2",
-      "name": "宝盒|机器人",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./lib/ikanbot.js"
     },{ 
       "key": "csp_xBPQ_天龙", 
       "name": "天龙|影视", 
