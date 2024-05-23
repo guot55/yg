@@ -35,7 +35,17 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/北川影视.js"
-        },  
+        }, {
+      "key": "longyu",
+      "name": "龙域｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "ext": {
+        "分类url":"https://www.btep.cn/vodshow/{cateId}--------{catePg}---.html",
+        "分类": "电影$34#电视剧$51#综艺$59#动漫$57" 
+      }
+    }, 
 	 {
       "key": "4kvm",
       "name": "四千┃影视",
