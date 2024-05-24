@@ -851,9 +851,9 @@
     "分类ID": "href=\"/sort/id/&&.html\"",
     "分类url": "https://xxynhkaa1.buzz/type/id/{cateId}/{catePg}.html"
   }
-}{
+},{
             "key": "Taohuazu",
-            "name": "💖💃 | 桃花族",
+            "name": "💖 | 桃花族",
             "type": 3,
             "api": "csp_Taohuazu",
             "searchable": 1,
