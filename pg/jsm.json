@@ -21,12 +21,6 @@
 			"ext":"./lib/tokenm.json"
 		},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
-{
-"key":"央视|剧场",
-"name":"央视|剧场",
-"type":3,
-"api":"./lib/央视剧场.js"
-},
 	{
             "key": "drpy_js_黑木耳资源",
             "name": "木耳|影视",
