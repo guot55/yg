@@ -66,6 +66,16 @@
         "分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html",
         "分类": "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman" 
       }
+    },{
+      "key": "csp_LiteApple",
+      "name": "🌙苹果┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_LiteApple",
+	  "jar": "./lib/ap.jar",	
+    "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }, {
             "key": "卫总影院",
             "name": "🌙卫总|影院",
