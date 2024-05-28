@@ -890,6 +890,16 @@
             "timeout": 60,
             "ext": "http://thzj.cc/forum.php"
       },{
+            "key": "csp_XBPQ_top888",
+            "name": "🔞top888",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/top888.json"
+        },{
             "key": "纤纤影视福利版",
             "name": "🔞纤纤影视H版",
             "type": 3,
