@@ -84,6 +84,14 @@
       "jar": "./lib/XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": "./lib/4kys.json"
+    },{
+      "key": "wumao",
+      "name": "五毛|影视",
+      "type": 1,
+      "api": "https://wap.wumao.xyz/api.php/tvbox",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1
     }, {
       "key": "420kvm",
       "name": "420┃影视",
