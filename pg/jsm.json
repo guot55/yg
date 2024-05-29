@@ -168,6 +168,25 @@
         "分类url":"https://www.ziziys.com/list/{cateId}-{catePg}.html;;ak",    
         "分类":"电影$1#国产剧$13#动漫$3#美剧$14#日韩剧$15"
     }
+    },{
+   "key":"XBPQ_缘觉",
+   "name": "缘觉|影视",
+   "jar": "./lib/XBPQ.jar",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext":{ "数组": "<div class=\"card card-sm card-link\">&&</div>",
+   "图片":"img src=\"&&\"",
+   "链接":"href=\"&&\"",
+   "标题":"<h3 class=\"mb-0 card-title text-truncate\">&&</h3>",
+   "副标题": "span class=\"badge bg-pink position-absolute top-0 star-0\">&&</span>",
+   "线路数组":"<div class=\"d-flex\">&&</div>",
+   "播放链接":"href=\"/&&/play/&&.htm\"",
+   "播放数组":"<div class=\"btn-group\">&&</div>",
+   "分类数组": "<div class=\"col\">&&</div>",
+   "分类": "动作&爱情&喜剧&科幻&恐怖&战争",
+   "分类值":"dongzuo&aiqing&xiju&kehuan&kongbu&zhanzheng",
+    "分类url": "https://www.yjys.me/s/{cateId}/{catePg}"
+    }
     }, {
       "key": "348影视网",
       "name": "348|影视网",
