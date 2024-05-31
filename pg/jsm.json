@@ -187,7 +187,43 @@
    "分类值":"dongzuo&aiqing&xiju&kehuan&kongbu&zhanzheng",
     "分类url": "https://www.yjys.me/s/{cateId}/{catePg}"
     }
-    }, {
+    },{
+            "key": "皮皮影视吧",
+            "name": "皮皮影视┃4K",
+            "type": 3,
+            "api": "csp_XBPQ",
+	   "jar": "./lib/XBPQ.jar",
+            "playerType": "2",
+            "ext": {
+                "请求头": "",
+                "主页url": "https://www.pipiysb.com/",
+                "数组": "<article id=\"post-*\"&&</article>",
+                "图片": "img src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "update\">&&</div>+icon-star2\">&&</div>",
+                "链接": "href=\"&&\"",
+                "简介": "title'>&&</span>+wp-content\">&&</p",
+                "线路二次截取": "",
+                "线路数组": "se-q'>&&</a>",
+                "线路标题": "皮皮4K专线",
+                "多线数组": "se-q'>&&</a",
+                "多线链接": "href=\"&&\"",
+                "播放二次截取": "playernotice&&</h2>[替换:</span>>>videourls:表题第1集题接\\&mvsource=0接表tables]",
+                "播放数组": "videourls:&&tables[替换:{\"name\":>>表题第#,\"url\":>>集题接\\&source=0\\&ep=#}>>接表]",
+                "播放列表": "表&&表",
+                "播放标题": "题&&题",
+                "播放链接": "接&&接",
+                "播放链接前缀": "https://www.pipiysb.com/artplayer?id=+postid-&&\"",
+                "倒序": "0",
+                "影片类型": "sgeneros\">&&</div>",
+                "影片年代": "默认--dateCreated\">*,&&</span>||电影--dateCreated'>*,&&</span>",
+                "导演": "name\">&&</div>",
+                "主演": "默认--演员</h2>&&<div id=\"info||电影--演员</h2>&&分享",
+                "分类url": "https://www.pipiysb.com/{cateId}/page/{catePg}/[https://www.pipiysb.com/{cateId}/];;r",
+                "分类": "电影&电视剧&美剧&国产剧&韩剧&番剧&热门播放&评风榜",
+                "分类值": "films&tv&classify/meiju&classify/guochan&classify/hanju&classify/fanju&trending&ratings"
+            }
+        }, {
       "key": "348影视网",
       "name": "348|影视网",
       "type": 3,
