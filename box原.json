@@ -172,8 +172,8 @@
                 "导演": "name\">&&</div>",
                 "主演": "默认--演员</h2>&&<div id=\"info||电影--演员</h2>&&分享",
                 "分类url": "https://www.pipiysb.com/{cateId}/page/{catePg}/[https://www.pipiysb.com/{cateId}/];;r",
-                "分类": "电影&电视剧&美剧&国产剧&韩剧&番剧&热门播放&评风榜",
-                "分类值": "films&tv&classify/meiju&classify/guochan&classify/hanju&classify/fanju&trending&ratings"
+                "分类": "电影&电视剧&美剧&国产剧&韩剧&番剧&评风榜",
+                "分类值": "films&tv&classify/meiju&classify/guochan&classify/hanju&classify/fanju&ratings"
             }
         },  {
       "key": "4kvm",
