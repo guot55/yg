@@ -1044,6 +1044,30 @@
              "分类url": "https://xpdhj.fun/xpdhj/vod/type/id/{cateId}/page/{catePg}.html"
             }
         },{
+  "key": "色花堂33",
+  "name": "🔞色花堂 | XBPQ",
+  "type": 3,
+  "api": "csp_XBPQ",
+    "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+  "ext": {
+    "数组": "<div class=\"img-box cover-md\">&&</h6>",
+    "图片": "data-original=\"&&\"",
+    "标题": "<h6 class=\"title\">&&</a>",
+    "链接": "href=\"&&\"",
+    "副标题": "<div class=\"ribbon-top-left\">&&</span>",
+    "线路数组": "<div class=\"item line\">&&</div>[排序:线路一>线路二>线路三]",
+    "线路标题": ">&&</a>",
+    "播放数组": "<div class=\"item line\">&&</div>",
+    "影片类型": "<p class=\"sub-title\"&&</p>",
+    "简介": "<div class=\"header-left\">&&</div>",
+    "播放列表": "<a&&/a>",
+    "播放标题": ">&&<",
+    "播放链接": "href=\"&&\"",
+    "分类": "国产精品$1#日韩亚洲$2#自拍偷拍$15#欧美激情$3#主播视频$16#中文字幕$4#日韩无码$11#动漫成人$14#推荐视频$5#同性人妖$6#欧美大片$7#原创国产$8#制服淫穴$9#换脸AI区$10#三级综艺$12#次元动漫$13",
+    "分类url": "https://11gaokk.com/typegaokk/{cateId}_{catePg}.html[https://11gaokk.com/typegaokk/{cateId}.html",
+    "搜索url": "https://11gaokk.com/vodsearch/{wd}----------{pg}---.html"
+  }
+},{
             "key": "天天视频福利版",
             "name": "🔞天天视频福利版",
             "type": 3,
