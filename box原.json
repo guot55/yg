@@ -76,7 +76,7 @@
     "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }, {
+    },{"key":"js兄弟影视","name":"🌙兄弟|影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/xdys.js"}, {
             "key": "卫总影院",
             "name": "🌙卫总|影院",
             "type": 3,
