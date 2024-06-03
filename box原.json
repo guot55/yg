@@ -46,7 +46,7 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json","jar": "./pg.jar"
 		},
-     {"key":"drpy_js_荐片","name":"🌙荐片|磁力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"}, {"key":"畅梦","name":"🌙宝盒|秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
+     {"key":"drpy_js_荐片","name":"🌙荐片|磁力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"},
  {"key": "csp_XBPQ_6V",
   "name": "🌙宝盒|4K",
   "type": 3,
