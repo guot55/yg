@@ -1087,6 +1087,33 @@
                 "分类url": "https://www.ttsp.tv/vodshow/{cateId}-{area}--{class}-{lang}-{by}---{catePg}---{year}.html[https://www.ttsp.tv/vodtype/{cateId}.html]",
                 "分类": "午夜剧场$wuyejuchang#VIP福利片库$65#亚洲情色$85#国产主播$86#国产自拍$87#无码专区$88#欧美性爱$89#熟女人妻$90#强奸乱伦$91#巨乳美乳$92#中文字幕$93#制服诱惑$94#女同性恋$95#卡通动画$96#少女萝莉$97#重口色情$98#人兽性交$99#视频伦理$100"
             }
+        },  {
+            "key": "大师兄影视H版",
+            "name": "🔞大师兄影视|H版",
+            "type": 3,
+            "api": "csp_XBPQ",
+           "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "playerType": "2",
+            "ext": {
+                "请求头": "手机",
+                "主页url": "http://www.dsxdy.shop/index.php/vodtype/dianying.html",
+                "数组": "class=\"stui-vodlist__box\">&&</div>",
+                "图片": "src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "",
+                "链接": "href=\"&&\"",
+                "简介": "name=\"description\" content=\"&&>",
+                "线路数组": "class=\"title\">&&</h3>",
+                "线路标题": ">鲨鱼快线<",
+                "播放数组": "ul class=\"stui-content__playlist column10 clearfix\">&&</ul>",
+                "播放链接": "href='&&'",
+                "嗅探词": "index.m3u8",
+                "搜索url": "/vodsearch/{wd}----------{pg}---.html",
+                "分类数组": "<a&&</a",
+                "分类标题": ">&&</a",
+                "分类ID": "href=\"/index.php/vodshow/&&-----------.html\"",
+                "分类url": "http://www.dsxdy.shop/index.php/vodshow/{cateId}--------{catePg}---.html"
+            }
         },
  {
             "key": "csp_XBPQ_奶很大",
