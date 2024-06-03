@@ -45,6 +45,3 @@ var rule = {
     },
     搜索: 'body .module-item;.module-card-item-title&&Text;.lazyload&&data-original;.module-item-note&&Text;a&&href;.module-info-item-content&&Text',
 }
-释义
-摘要
-
