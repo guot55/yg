@@ -34,7 +34,7 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/北川影视.js"
-        },  {
+        }, {"key":"js兄弟影视","name":"兄弟|影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/xdys.js"}, {
             "key": "卫总影院",
             "name": "卫总|影院",
             "type": 3,
