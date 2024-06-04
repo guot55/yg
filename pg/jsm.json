@@ -92,7 +92,13 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1
-    }, {
+    },{
+            "key": "drpy_js_橘子柚",
+            "name": "橘子柚|影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/橘子柚.js"
+        },  {
       "key": "420kvm",
       "name": "420┃影视",
       "type": 3,
