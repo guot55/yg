@@ -1043,7 +1043,12 @@
             "分类":"仓库资源$1#AVXXC$2#AV奥斯卡$3#115资源$4",
              "分类url": "https://xpdhj.fun/xpdhj/vod/type/id/{cateId}/page/{catePg}.html"
             }
-        },{
+        },{"key":"SeHuaTang","name":"🔞色花堂|网盘","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json$$$null$$$proxy",
+                        "style": {
+                                "type": "list",
+                                "ratio": 1.1
+                        }
+    },{
   "key": "色花堂33",
   "name": "🔞色花堂 | XBPQ",
   "type": 3,
