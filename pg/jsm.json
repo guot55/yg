@@ -27,7 +27,26 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/mr.js"
-        },  
+        }, {
+			"key": "賤賤",
+			"name": "荐片|优质",
+			"type": 3,
+			"api": "csp_Jianpian",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "./lib/jianpian.json$$$1",
+			"timeout":60
+		},  {
+      "key": "csp_LiteApple",
+      "name": "苹果┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_LiteApple",
+	  "jar": "./lib/ap.jar",	
+    "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 	{
             "key": "drpy_js_北川",
             "name": "北川|影视",
@@ -59,17 +78,7 @@
                 "分类url": "https://wzznl.buzz/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#纪录片$11#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
             }
-        },  {
-      "key": "csp_LiteApple",
-      "name": "苹果┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_LiteApple",
-	  "jar": "./lib/ap.jar",	
-    "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },{"key":"Clg","name":"磁力狗|磁力","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1",
+        }, {"key":"Clg","name":"磁力狗|磁力","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1",
 			"style": {
 				"type": "rect",
 				"ratio": 1.5
@@ -496,16 +505,7 @@
 			"playerType": 1,
 			"ext": "http://app.kzjtv.com$$$null$$$1"
 		},
-		{
-			"key": "賤賤",
-			"name": "荐片",
-			"type": 3,
-			"api": "csp_Jianpian",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "./lib/jianpian.json$$$1",
-			"timeout":60
-		},{ "key": "ppvod", "name": "泡泡┃切片", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": { "分类": "国产剧$14#欧美剧$15#日韩剧$62#港台剧$16#国产动漫$75#日韩动漫$76#欧美动漫$77#剧情$37#动作$23#恐怖$36", "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", "导演": "vod_director\"*\"&&\"", "主演": "vod_actor\"*\"&&\"", "简介": "vod_content\"*\"&&\"", "数组": "{&&}", "图片": "vod_pic\":\"&&\"", "标题": "vod_name\":\"&&\"", "副标题": "+vod_remarks\":\"&&\"", "线路数组": "\"vod_play_from\":&&,[替换:dplayer>>宝盒专享]", "线路标题": "\"&&\"", "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]", "播放列表": "表&&表", "播放标题": "题&&题", "播放链接": "链&&链", "播放请求头": "Referer$https://www.sxbfxk.com/", "链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,", "搜索url": "https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}", "嗅探词": ".m3u8" } },
+		{ "key": "ppvod", "name": "泡泡┃切片", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": { "分类": "国产剧$14#欧美剧$15#日韩剧$62#港台剧$16#国产动漫$75#日韩动漫$76#欧美动漫$77#剧情$37#动作$23#恐怖$36", "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", "导演": "vod_director\"*\"&&\"", "主演": "vod_actor\"*\"&&\"", "简介": "vod_content\"*\"&&\"", "数组": "{&&}", "图片": "vod_pic\":\"&&\"", "标题": "vod_name\":\"&&\"", "副标题": "+vod_remarks\":\"&&\"", "线路数组": "\"vod_play_from\":&&,[替换:dplayer>>宝盒专享]", "线路标题": "\"&&\"", "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]", "播放列表": "表&&表", "播放标题": "题&&题", "播放链接": "链&&链", "播放请求头": "Referer$https://www.sxbfxk.com/", "链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,", "搜索url": "https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}", "嗅探词": ".m3u8" } },
 {"key":"短剧tv","name":"宝盒|短剧1","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar",
       "ext":{
         "搜索链接":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
