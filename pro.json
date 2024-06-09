@@ -1028,6 +1028,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/疯猫av.json"
+        }, {
+            "key": "csp_XBPQ_yyxl",
+            "name": "🔞夜夜新郎",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/夜夜新郎.json"
         },{ "key": "x",
             "name": "🔞x合集",
             "type": 3,
