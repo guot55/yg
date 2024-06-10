@@ -127,35 +127,28 @@
         "分类url": "http://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
         "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
-    },    {
-      "key": "七七🏮秒播",
-      "name": "七七|秒播",
+    },   {
+      "key": "奇优🏮秒播",
+      "name": "奇优|秒播",
+     "jar": "./lib/XBPQ.jar",
       "type": 3,
       "api": "csp_XBPQ",
-   "jar": "./lib/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "playerType": "1",
+      "filterable": 1,
       "ext": {
+        "简介": "宝盒提醒您,请勿相信影片中的广告，以免上当受骗！+&&</div>",
         "导演": "宝盒TV",
-        "主演": "主演：&&</div>",
-        "简介": "宝盒提醒您：请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=*>&&</span>",
-        "影片状态": "备注：&&</div>",
-        "影片类型": "module-info-tag\">&&立即播放",
-        "搜索模式": "1",
-        "搜索url": "https://www.77ys.me/vodsearch/--.html?wd={wd}",
-        "搜索数组": "module-card-item-class\">&&</a>",
-        "搜索标题": "alt=\"&&\"",
-        "搜索副标题": "note\">&&</div>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
+        "主演": "主演：&&</p>",
+        "线路数组": "宝盒专享",
         "线路标题": "宝盒专享",
-        "分类url": "https://www.77ys.me/vodshow/1-------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+        "播放数组": "stui-content__playlist clearfix&&</ul>",
+        "播放列表": "<li>&&</li>",
+        "播放标题": ">&&</a>",
+        "分类url": "http://www.qiyoudy1.com/list/{cateId}_{catePg}.html[http://www.qiyoudy1.com/list/{cateId}.html];;ak",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
       }
-    },      {
+    }, {
       "key": "热播💋蓝光",
       "name": "热播|蓝光",
       "type": 3,
