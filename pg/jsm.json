@@ -1671,6 +1671,6 @@
 		],
 		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 		"wallpaper": "http://ygbh.live/bz.php",
-	        "logo": "https://3043.kstore.space/js/logo.gif",
+	        "logo": "https://gitlab.com/guot55/yg/-/raw/main/logo.gif?ref_type=heads",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
