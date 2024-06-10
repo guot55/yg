@@ -127,6 +127,33 @@
         "分类url": "http://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
         "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
+    },    {
+      "key": "七七🏮秒播",
+      "name": "七七🏮秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": "1",
+      "ext": {
+        "导演": "华影视",
+        "主演": "主演：&&</div>",
+        "简介": "宝盒提醒您：请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=*>&&</span>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "搜索模式": "1",
+        "搜索url": "https://www.77ys.me/vodsearch/--.html?wd={wd}",
+        "搜索数组": "module-card-item-class\">&&</a>",
+        "搜索标题": "alt=\"&&\"",
+        "搜索副标题": "note\">&&</div>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
+        "线路标题": "宝盒专享",
+        "分类url": "https://www.77ys.me/vodshow/1-------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
     }, {
       "key": "420kvm",
       "name": "420┃影视",
