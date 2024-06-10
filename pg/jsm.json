@@ -93,24 +93,7 @@
       "jar": "./lib/XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": "./lib/4kys.json"
-    },    {
-      "key": "榜一🇨🇳短剧",
-      "name": "榜一|短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-     "jar": "./lib/XBPQ.jar",
-      "ext": {
-        "简介": "宝盒提醒您请勿相信影片中的广告，以免上当受骗！+vod_content\">&&</div>",
-        "导演": "宝盒TV",
-        "主演": "主演：&&</p>",
-        "线路数组": "<h3&&</h3>[替换:云视听>>宝盒TV]",
-        "线路标题": "宝盒专享",
-        "分类url": "https://duanjuu.com/vodshow/{cateId}--------{catePg}---.html",
-        "分类数组": "grid-item\">&&</li>",
-        "分类标题": "grid-item-name\">&&</div>",
-        "分类ID": "/vodtype/&&.html"
-      }
-    },{
+    },  {
       "key": "wumao",
       "name": "五毛|影视",
       "type": 1,
