@@ -3,7 +3,7 @@
 	"sites":[
 		{
 			"key": "豆瓣",
-			"name": "公众号:[宝盒没宝],祝大家端午安康！",
+			"name": "公众号:[宝盒没宝],全接口AI过滤广告",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0,
