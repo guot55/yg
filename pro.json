@@ -1129,7 +1129,7 @@
                 "分类ID": "href=\"/index.php/vodshow/&&-----------.html\"",
                 "分类url": "http://www.dsxdy.shop/index.php/vodshow/{cateId}--------{catePg}---.html"
             }
-        },  {"key":"drpy_js_lecao","name":"🔞乐草TV","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/乐草tv.js", "quickSearch":1, "changeable":1, "timeout":60},
+        },  {"key":"drpy_js_lecao","name":"🔞乐草TV","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/乐草tv.js", "quickSearch":1, "changeable":1, "timeout":60},
  {
             "key": "csp_XBPQ_奶很大",
             "name": "🔞奶很大",
