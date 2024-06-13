@@ -1068,7 +1068,7 @@
 			{
 				"name": "宝盒",
 				"type": 0,
-				"url": "http://oy.oyxx-1.eu.org/p3p.php",
+				"url": "http://www.52sw.top:678/play/oj1381/list.php?get=159",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -1077,7 +1077,7 @@
 			{
 				"name": "live.ipv6.m3u",
 				"type": 0,
-				"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+				"url": "http://oy.oyxx-1.eu.org/p3p.php",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -1086,7 +1086,7 @@
 			{
 				"name": "live.ipv6.local",
 				"type": 0,
-				"url": "./lib/live.ipv6.txt",
+				"url": "http://oy.oyxx-1.eu.org/p3p.php",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
