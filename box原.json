@@ -30,7 +30,7 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "🌈公众号[宝盒没宝],全接口AI过滤广告",
+            "name": "新版本更新",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/douban.js",
@@ -39,16 +39,16 @@
             "filterable": 0
         },{
 			"key": "网盘配置",
-			"name": "⚙网盘|配置",
+			"name": "公众号【宝盒没宝】",
 			"type": 3,
 			"api": "csp_Config",
 			"searchable": 0,
 			"changeable": 0,
 			"ext":"./lib/tokenm.json","jar": "./pg.jar"
 		},
-     {"key":"drpy_js_荐片","name":"🌙荐片|磁力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"},
+     {"key":"drpy_js_荐片","name":"回复关键词[BH]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"},
  {"key": "csp_XBPQ_6V",
-  "name": "🌙宝盒|4K",
+  "name": "获取新版APP",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
