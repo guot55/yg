@@ -3,7 +3,7 @@
 {
     "urls": [
 {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/hrys.json",
+            "url": "https://gitlab.com/guot55/bh/-/raw/main/pg/hrys.json?ref_type=heads",
             "name": "华人影视"
         }, {
             "url": "",
