@@ -30,7 +30,7 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "新版本更新",
+            "name": "豆瓣推荐",
             "type": 3,
             "api": "https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
             "ext": "https://raw.githubusercontent.com/guot55/yg/main/lib/douban.js",
@@ -46,9 +46,9 @@
 			"changeable": 0,
 			"ext":"https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json","jar": "https://raw.githubusercontent.com/guot55/yg/main/pg.jar"
 		},
-     {"key":"drpy_js_荐片","name":"回复关键词[BH]","type":3,"api":"https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/guot55/yg/main/js/jp.js"},
+     {"key":"drpy_js_荐片","name":"荐片","type":3,"api":"https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/guot55/yg/main/js/jp.js"},
  {"key": "csp_XBPQ_6V",
-  "name": "获取新版APP",
+  "name": "6V",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
