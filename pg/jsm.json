@@ -84,7 +84,31 @@
 				"ratio": 1.5
 			}
 		},{"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
-	 {
+	 {"key":"南瓜影视","name":"南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0 ,"jar": "./lib/o.jar"},
+{"key":"快看影视","name":"快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/o.jar"},
+{"key":"酷看影视","name":"酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"明日影视","name":"明日┃影视","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"腐剧视频","name":"腐剧┃影视","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"文才影视","name":"文才┃影视","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"厂长资源","name":"厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top","jar": "./lib/o.jar"},
+{"key":"看看影视","name":"看看┃影视","type":3,"api":"csp_WebIV","searchable":1,"quickSearch":1,"filterable":0,"jar": "./lib/o.jar"},
+{"key":"视频库","name":"视频┃影视","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc","jar": "./lib/o.jar"},
+{"key":"天天影视","name":"天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/o.jar"},
+{"key":"热播影视","name":"热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/o.jar"},
+{"key":"兄弟影视","name":"兄弟┃影视","type":3,"api":"csp_Wexxiongdiys","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"地瓜影视","name":"地瓜┃影视","type":3,"api":"csp_Wexdiguatv","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"啾啾影视","name":"啾啾┃影视","type":3,"api":"csp_Wexjiohub","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"农民影视","name":"农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"利播影视","name":"利播┃影视","type":3,"api":"csp_Wexlibhd","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"纯享影视","name":"纯享┃影视","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"两个磁力","name":"两个┃影视","type":3,"api":"csp_Wexbttwo","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"机器人","name":"机器┃影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com","jar": "./lib/o.jar"},
+{"key":"素白白","name":"素白┃影视","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"耐看影视","name":"耐看┃影视","type":3,"api":"csp_AppNK","searchable":1,"changeable":1,"ext":"wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w==","jar": "./lib/o.jar"},
+{"key":"圣城影视","name":"圣城┃影视","type":3,"api":"csp_AppNK","searchable":1,"changeable":1,"ext":"mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w==","jar": "./lib/o.jar"},
+{"key":"骚火影视","name":"骚火┃影视","type":3,"api":"csp_Wexsaohuo","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"在线之家","name":"在线┃之家","type":3,"api":"csp_Wexzxzj","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+		{
       "key": "4kvm",
       "name": "四千┃影视",
       "type": 3,
@@ -101,13 +125,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1
-    },{
-            "key": "drpy_js_橘子柚",
-            "name": "橘子柚|影视",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/橘子柚.js"
-        },   {
+    },  {
       "key": "七夕❤️无广",
       "name": "七夕|影视",
       "type": 3,
