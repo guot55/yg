@@ -13,30 +13,30 @@
     "list": [
       {
         "name": "宝盒TV",
-        "url": "https://cloud.lxweb.cn/f/MJdxFG/%E5%AE%9D%E7%9B%92TV%20VIP%E7%89%88.apk",
+        "url": "https://cloud.lxweb.cn/f/MR1xHG/%E5%AE%9D%E7%9B%92VIP.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/bhtv.png",
         "version": "VIP版"
       },
       {
         "name": "宝盒BOX",
-        "url": "https://cloud.lxweb.cn/f/gNBxHK/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92Box0611.apk",
+        "url": "https://cloud.lxweb.cn/f/68VWhw/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92Box.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/box.jpg",
-        "version": "0611"
+        "version": "最新版"
       },
       {
         "name": "宝盒PLUS",
-        "url": "https://cloud.lxweb.cn/f/zDVjcz/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92PLUS.apk",
+        "url": "https://cloud.lxweb.cn/f/bKBdIp/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92PLUS.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/plus.jpg",
-        "version": "0414"
+        "version": "最新版"
       },{
         "name": "宝盒MAX",
-        "url": "https://cloud.lxweb.cn/f/gm9wSK/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92MAX427.apk",
+        "url": "https://cloud.lxweb.cn/f/qmBQce/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92MAX.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/max.jpg",
         "version": "0426"
       },
       {
         "name": "宝盒影视仓",
-        "url": "https://cloud.lxweb.cn/f/oRAwiY/%E6%9C%88%E5%85%89%E5%BD%B1%E8%A7%86%E4%BB%935.0.31.apk",
+        "url": "https://cloud.lxweb.cn/f/eDPeCa/%E6%9C%88%E5%85%89%E5%BD%B1%E8%A7%86%E4%BB%93.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/ysc.jpg",
         "version": "5.031"
       },{
@@ -68,24 +68,19 @@
         "version": "1.0.7"
       },{
         "name": "我的电视",
-        "url": "https://cloud.lxweb.cn/f/DEDyU1/my-tv-v2.1.6.apk",
+        "url": "https://cloud.lxweb.cn/f/kNLRip/my-tv_2.1.88.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/wd.jpg",
-        "version": "2.1.6"
+        "version": "2.1.8"
       },{
         "name": "电视大全直播",
         "url": "https://cloud.lxweb.cn/f/pLD0se/dsdq.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/dsdq.jpg",
         "version": "1.3.2"
       },{
-        "name": "高清直播",
-        "url": "https://cloud.lxweb.cn/f/zEwDiz/%E9%AB%98%E6%B8%85%E7%9B%B4%E6%92%AD.apk",
-        "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/gq.jpg",
-        "version": "2.5.0"
-      },{
         "name": "纯粹直播",
-        "url": "https://cloud.lxweb.cn/f/07YVU0/%E7%BA%AF%E7%B2%B9%E7%9B%B4%E6%92%AD.apk",
+        "url": "https://cloud.lxweb.cn/f/K2zwiX/%E7%BA%AF%E7%B2%B9%E7%9B%B4%E6%92%ADTV1.7.2-%E7%94%B5%E8%A7%86%E4%BD%8E%E7%89%88%E6%9C%AC.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/cc.jpg",
-        "version": "1.6.8"
+        "version": "1.7.2"
       }, {
         "name": "梨园行戏曲",
         "url": "https://cloud.lxweb.cn/f/BY7Ys9/lyx.apk",
@@ -109,7 +104,7 @@
       },
       {
         "name": "KTV（K歌）",
-        "url": "https://cloud.lxweb.cn/f/Adrefa/IKTV_50.0.0_%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9%E7%89%88_.apk",
+        "url": "https://cloud.lxweb.cn/f/e1xxsa/wc.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/kg.jpg",
         "version": "50版"
       }
