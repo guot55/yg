@@ -39,7 +39,7 @@
             "filterable": 0
         },{
 			"key": "网盘配置",
-			"name": "公众号【宝盒没宝】",
+			"name": "⚙网盘|配置",
 			"type": 3,
 			"api": "csp_Config",
 			"searchable": 0,
@@ -76,7 +76,7 @@
     "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },{"key":"js兄弟影视","name":"🌙兄弟|影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/xdys.js"},{"key":"南瓜影视","name":"南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0 ,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+    },{"key":"js兄弟影视","name":"🌙兄弟|影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/xdys.js"},{"key":"南瓜影视","name":"🌙南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0 ,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
 {"key":"快看影视","name":"🌙快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
 {"key":"酷看影视","name":"🌙酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
 {"key":"明日影视","name":"🌙明日┃影视","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
