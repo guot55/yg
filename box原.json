@@ -30,7 +30,7 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "豆瓣推荐",
+            "name": "🌈公众号:宝盒没宝,全接口AI过滤广告",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/douban.js",
