@@ -681,6 +681,18 @@
       "searchable": 1,
       "filterable": 1,"jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
     },{
+            "key": "php_madou",
+            "name": "🔞麻豆3",
+            "type": 4,
+            "api": "https://demobe.serv00.net/madou.php",
+            "searchable": 1,
+            "quickSearch":0,
+            "filterable":0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+              }
+        },{
       "key": "J91",
       "name": "🔞91珍惜",
       "type": 3,
