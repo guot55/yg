@@ -9,7 +9,7 @@
 			"searchable": 0,
 			"changeable": 1,
 			"indexs":1,
-			"ext": "./lib/douban.json"
+			"ext": "https://3043.kstore.space/bhvip/lib/douban.json"
 		},
 		{
 			"key": "网盘配置",
