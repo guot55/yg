@@ -11,7 +11,7 @@
       "name": "直播",
       "type": 0,
       "playerType": 1,
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/zb.txt",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/zb.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -22,7 +22,7 @@
           "name": "live",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/zb.txt"
+            "proxy://do=live&type=txt&ext=https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/zb.txt"
           ]
         }
       ]
@@ -46,41 +46,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./a/圣城影视.json","jar": "./jar/4k.jar"
-    }, {"key":"XBPQ_文才","name":"🌙文才|速播","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
-			"ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
-				"分类值": "14&42&22&26&36&25&30&23&69&15&16&62",
-				"分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
-				"数组二次截取": "list\":[&&]",
-				"数组": "{&&}[不包含:]",
-				"图片": "vod_pic\":\"&&\"",
-				"标题": "vod_name\":\"&&\"",
-				"副标题": "+vod_remarks\":\"&&\"",
-				"链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
-				"搜索url": "https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}",
-				"搜索模式": "1",
-				"搜索二次截取": "list\":[&&]",
-				"搜索数组": "{&&}[不包含:]",
-				"搜索图片": "vod_pic\"*\"&&\"",
-				"搜索标题": "vod_name\"*\"&&\"",
-				"搜索副标题": "type_name\":\"&&\"",
-				"搜索链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
-				"影片类型": "vod_class\"*\"&&\"",
-				"导演": "vod_director\"*\"&&\"",
-				"主演": "vod_actor\"*\"&&\"",
-				"简介": "vod_content\"*\"&&\"",
-				"线路二次截取": "\"list\":[&&]",
-				"线路数组": "\"vod_play_from\":&&,",
-				"线路标题": "\"&&\"",
-				"播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]",
-				"播放二次截取": "",
-				"播放列表": "表&&表",
-				"播放标题": "题&&题",
-				"播放链接": "链&&链",
-				"嗅探词": ".m3u8",
-				"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
-				"免嗅": "0"
-			}
-		}, { "key": "Ikanbot", "name": "🌙爱看|机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy","jar":"./pg.jar"},  {"key":"drpy_js_yt","name":"🌙宝盒|速播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yt.js"}, {
+    }, { "key": "Ikanbot", "name": "🌙爱看|机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy","jar":"./pg.jar"},  {"key":"drpy_js_yt","name":"🌙宝盒|速播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yt.js"}, {
       "key": "csp_黑狐",
       "name": "🌙黑狐|影视",
       "type": 3,
