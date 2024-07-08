@@ -47,7 +47,8 @@
 			"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg.jar"
 		},
      {"key":"drpy_js_荐片","name":"🌙荐片|优质","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/js/jp.js"},
- {"key": "csp_XBPQ_6V",
+  {"key":"drpy_js_桃子","name":"🌙桃子|影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/桃子影视.js"},
+	{"key": "csp_XBPQ_6V",
   "name": "🌙6V|影视",
   "type": 3,
   "api": "csp_XBPQ",
