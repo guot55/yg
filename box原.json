@@ -69,7 +69,6 @@
         "分类": "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman" 
       }
     },{"key":"Wogg","name":"🌙玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json$$$https://wogg.link/$$$noproxy$$$1$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/wogg.json""jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg.jar"},
-{"key":"js兄弟影视","name":"🌙兄弟|影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/xdys.js"},
 {"key":"快看影视","name":"🌙快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
 {"key":"酷看影视","name":"🌙酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
 {"key":"明日影视","name":"🌙明日┃影视","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
@@ -78,7 +77,6 @@
 {"key":"视频库","name":"🌙视频┃影视","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
 {"key":"天天影视","name":"🌙天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
 {"key":"热播影视","name":"🌙热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
-{"key":"兄弟影视","name":"🌙兄弟┃影视","type":3,"api":"csp_Wexxiongdiys","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
 {"key":"农民影视","name":"🌙农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
 {"key":"利播影视","name":"🌙利播┃影视","type":3,"api":"csp_Wexlibhd","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
 {"key":"纯享影视","name":"🌙纯享┃影视","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
