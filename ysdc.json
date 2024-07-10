@@ -4,13 +4,13 @@
 {
             "url": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
             "name": "公众号【宝盒汇】"
-        }, {
-            "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt",
-            "name": "OK接口"
-        },
+        }, 
          {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
             "name": "王二小"
+        },{
+            "url": "http://xn--218-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌218",
+            "name": "讴歌"
         },
  {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
@@ -25,7 +25,7 @@
             "name": "小胡"
         },
  {
-            "url": "http://肥猫.live",
+            "url": "http://肥猫.com",
             "name": "肥猫不肥"
         },
         {
@@ -87,7 +87,11 @@
             "url": "https://xhdwc.tk/0",
             "name": "骚0"
         },
-
+ {
+            "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+            "name": "D佬"
+        },
+    
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
             "name": "😹云星日记"
@@ -100,11 +104,6 @@
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🦆俊于"
-        },
-    
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🐝南风"
         }
     ]
 }
