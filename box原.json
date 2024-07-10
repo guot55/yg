@@ -87,15 +87,7 @@
 {"key":"骚火影视","name":"🌙骚火┃影视","type":3,"api":"csp_Wexsaohuo","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
 {"key":"在线之家","name":"🌙在线┃之家","type":3,"api":"csp_Wexzxzj","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
 {"key":"南瓜影视","name":"🌙南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0 ,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},	
-	{"key": "csp_XBPQ_6V",
-  "name": "🌙6V|影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "jar" : "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/jar/bh.jar",
-  "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/h/bh.json"},{
+{
       "key": "420kvm",
       "name": "🌙420┃影视",
       "type": 3,
