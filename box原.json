@@ -68,7 +68,7 @@
         "分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html",
         "分类": "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman" 
       }
-    },{"key":"Wogg","name":"🌙玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json$$$https://wogg.link/$$$noproxy$$$1$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/wogg.json"},
+    },{"key":"Wogg","name":"🌙玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json$$$https://wogg.link/$$$noproxy$$$1$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/wogg.json""jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg.jar"},
 {"key":"js兄弟影视","name":"🌙兄弟|影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/xdys.js"},
 {"key":"快看影视","name":"🌙快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
 {"key":"酷看影视","name":"🌙酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
