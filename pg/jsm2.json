@@ -90,7 +90,28 @@
         "分类url":"https://www.ziziys.com/list/{cateId}-{catePg}.html;;ak",    
         "分类":"电影$1#国产剧$13#动漫$3#美剧$14#日韩剧$15"
     }
-    },
+    }, {
+            "key": "金牌电影",
+            "name": "金牌|电影",
+            "type": 3,
+            "api": "csp_XBPQ",
+	   "jar": "./lib/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://www.ghw9zwp5.com",
+                 
+                "数组": "class=\"slide-content\"&&</div></div>",
+                "标题": "alt=\"&&\"",
+                "图片": "srcset=\"&&\"",
+                "链接": "href=\"&&\"",
+                "立即播放":"1",
+                "嗅探词": ".mp4#.m3u8#.flv",
+               "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "分类url": "https://www.ghw9zwp5.com/type/{cateId}"
+            }
+        },
 {"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$noproxy$$$1$$$./lib/wogg.json"},
 	{
             "key": "drpy_js_北川",
