@@ -864,34 +864,7 @@
                 "分类标题": ">&&</a",
                 "分类ID": "href=\"/index.php/vodshow/&&-----------.html\""
             }
-        },{
-            "key": "金曼TV字母圈",
-            "name": "金曼TV┃⭕️字母圈",
-            "type": 3,
-            "api": "csp_XBPQ",
-"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-            "playerType": "2",
-            "ext": {
-                "请求头": "手机",
-                "发布页": "",
-                "主页url": "https://zimufl.cc/",
-                "数组": "class=\"vodlist_thumb lazyload\"&&</a",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "副标题": "class=\"voddate voddate_year\">&&</em>+class=\"pic_text text_right\">&&</span>",
-                "链接": "href=\"&&\"",
-                "简介": "💕戒色救你一世，撸管毁你一生💕+meta name=\"description\" content=\"&&>",
-                "线路数组": "class=\"play_source\">&&</div>",
-                "线路标题": "✨专享✨+字母圈专线",
-                "播放数组": "class=\"content_playlist clearfix\">&&</ul>",
-                "播放链接": "href=\"&&\"",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "嗅探词": ".m3u8#index.m3u8",
-                "搜索url": "https://zimufl.cc/index.php/vod/search/wd/**.html",
-                "分类url": "https://zimufl.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html[https://zimufl.cc/fl/{cateId}.html]",
-                "分类": "字母圈&国产区&动漫&AV&传媒视频&伦理片",
-                "分类值": "1&2&4&3&5&36"
-            },  {
+        }, {
             "key": "午夜专享",
             "name": "午夜TV┃⭕️",
        "type": 3,
