@@ -891,10 +891,11 @@
                 "分类url": "https://zimufl.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html[https://zimufl.cc/fl/{cateId}.html]",
                 "分类": "字母圈&国产区&动漫&AV&传媒视频&伦理片",
                 "分类值": "1&2&4&3&5&36"
-            },{"key":"香蕉午夜",
-       "name":"🏆香蕉午夜",
-       "type":3,
-       "api":"csp_XBPQ",
+            },{
+            "key": "午夜专享",
+            "name": "午夜TV┃⭕️",
+       "type": 3,
+       "api": "csp_XBPQ",
 "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
        "filterable": 0,
        "style":{"type":"rect","ratio":1.333},
