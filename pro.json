@@ -63,16 +63,15 @@
         "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
-    },{ 
-      "key": "csp_xBPQ_秒", 
-      "name": "👩‍🎓文才推荐²", 
+    },  {
+      "key": "bulei",
+      "name": "布蕾Tv",
       "type": 3,
-      "api": "csp_XBPQ", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 0, 
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/文才.json", 
-   "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar"   
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://buleitv.x3322.net/api.php/app/"
     },{ 
       "key": "csp_xBPQ_毒蛇", 
       "name": "毒蛇|影视", 
