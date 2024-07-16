@@ -2,15 +2,12 @@
 	"spider":"./pg.jar",
 	"sites":[
 		{
-			"key": "豆瓣",
-			"name": "國際影視首页",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0,
-			"changeable": 1,
-			"indexs":1,
-			"ext": "./lib/douban.json"
-		}, {
+      "key": "网飞影视",
+      "name": "國際|首页",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/wf.js"
+    }, {
       "key": "dan酷影视",
       "name": "國際|酷影",
       "type": 3,
@@ -20,83 +17,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.tvkuys.xyz/api.php/app/"
-    },   {
-      "key": "348影视网",
-      "name": "國際|348影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "作者":"侠客影视",
-        "站名":"348影视",    
-        "主页url":"https://348z.com/",    
-        "简介":"+详情：&&</div>",    
-        "导演":"导演：&&</li>",    
-        "主演":"主演：&&</li>",    
-        "影片状态":"状态：&&</li>",    
-        "影片类型":"data vodTag\">&&</li>",    
-        "数组":"list-width volistwidthb\">&&</li>",    
-        "标题":"title=\"&&\"",
-        "副标题":"list-remarks hidden\">&&</span>",    
-        "图片":"data-original=\"&&\"",    
-        "链接":"href=\"&&\"",    
-        "搜索url":"/vodsearch.html?wd={wd}",    
-        "搜索模式":"1",    
-        "搜索数组":"img lazy eclazy br\"&&</a>",    
-        "搜索标题":"title=\"&&\"",    
-        "搜索副标题":"list-remarks hidden\">&&</span>",    
-        "搜索图片":"data-original=\"&&\"",    
-        "搜索链接":"href=\"&&\"",    
-        "线路数组":"data-from=&&</a>[不包含:超清资源#MY][排序:极速2]",    
-        "线路标题":"国际影视专享-+>&&</em>[替换:<em>>>🌸共]+集🌸",    
-        "分类url":"https://348z.com/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
-        "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
-       }
-    },{ "key": "kk", "name": "國際┃可可", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": "./lib/kk.json" },{
-      "key": "网飞影视",
-      "name": "國際|网飞",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/wf.js"
-    }, {
-			"key":"Youtube",
-			"name":"國際|Youtube",
-			"type":3,
-			"api": "csp_Youtube",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext":{
-				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary",
-				"proxy":"proxy",
-				"codecs":""
-			},"style": {
-				"type": "rect",
-				"ratio": 1.5
-			}
-		}, {
-      "key": "4kvm",
-      "name": "四千┃影视",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./lib/XBPQ.jar",
-      "api": "csp_XBPQ",
-      "ext": "./lib/4kys.json"
-    }, {
-      "key": "420kvm",
-      "name": "國際┃420影视",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./lib/XBPQ.jar",
-      "api": "csp_XBPQ",
-      "ext": "./lib/420影视.json"
-    },{
+    }, { "key": "kk", "name": "國際┃可可", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": "./lib/kk.json" }, {
       "key": "子子影视",
       "name": "國際|子子",
       "type": 3,
@@ -146,16 +67,15 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/mr.js"
-        },{ 
-      "key": "csp_xBPQ_影视控", 
-      "name": "国际|影视控", 
+        }, {
+      "key": "4kvm",
+      "name": "四千┃影视",
       "type": 3,
-      "api": "csp_XBPQ", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 0, 
-      "ext": "./lib/影视控.json", 
-      "jar": "./lib/XBPQ.jar"      
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./lib/XBPQ.jar",
+      "api": "csp_XBPQ",
+      "ext": "./lib/4kys.json"
     },
 	{"key":"XBPQ_文才","name":"國際|文才","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
@@ -191,7 +111,17 @@
 				"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
 				"免嗅": "0"
 			}
-		},{
+		},{ 
+      "key": "csp_xBPQ_影视控", 
+      "name": "國際|影视控", 
+      "type": 3,
+      "api": "csp_XBPQ", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0, 
+      "ext": "./lib/影视控.json", 
+      "jar": "./lib/XBPQ.jar"      
+    },{
 			"key": "NanGua",
 			"name": "國際|南瓜",
 			"type": 3,
@@ -219,26 +149,9 @@
                         "分类url": "http://5uduanju.com/vodshow/{cateId}--------{catePg}---.html"
                 }
         },
-		{"key":"美剧迷","name":"國際|美剧迷","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"},
-		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null"},
-		{"key":"Bt0","name":"國際|BT0","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
 	
 	
-		{"key":"ddys","name":"國際|低端影视","type":3,"api":"csp_Ddys","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"},
 		{"key":"Xinshijue","name":"國際|新视觉","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"},
-
-		{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$proxy$$$1"},
-		{
-			"key": "Bdys_spider",
-			"name": "國際|哔嘀",
-			"api": "csp_Bdys01",
-			"type": 3,
-			"filterable": 1,
-			"searchable":0,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "https://www.bdys10.com/$$$null$$$1"
-		},
 		
 		{"key":"XBPQ_黑狐影院","name":"國際|黑狐影视","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext": {
@@ -274,31 +187,24 @@
 				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
 			}
 		},
-		{
-			"key":"XBPQ_电影先生",
-			"name": "國際|电影先生",
-			"jar": "./lib/XBPQ.jar",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": {
-				"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
-				"简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
-				"搜索url": "https://dianyi.ng/search--------------.html?wd={wd}",
-				"搜索数组": "<div class=\"module-item-pic\">&&</div>",
-				"图片": "src=\"&&\"",
-				"搜索标题": "title=\"&&\"",
-				"搜索副标题": ">&&</a>",
-				"线路数组": "data-dropdown-value=&&</div>",
-				"线路标题": "<span>&&</small>[替换:<span></small>共]+集",
-				"播放数组": "<div class=\"scroll-content\">&&</div>",
-				"播放标题": "<span>&&</span>",
-				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
-			}
-		},
+		
 		{"key": "XBPQ_麻衣影院","name":"國際|麻衣影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/XBPQ.jar",
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
-		
+		{"key":"快看影视","name":"快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/o.jar"},
+{"key":"酷看影视","name":"酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"明日影视","name":"明日┃影视","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"腐剧视频","name":"腐剧┃影视","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"看看影视","name":"看看┃影视","type":3,"api":"csp_WebIV","searchable":1,"quickSearch":1,"filterable":0,"jar": "./lib/o.jar"},
+{"key":"视频库","name":"视频┃影视","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc","jar": "./lib/o.jar"},
+{"key":"天天影视","name":"天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/o.jar"},
+{"key":"热播影视","name":"热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/o.jar"},
+{"key":"兄弟影视","name":"兄弟┃影视","type":3,"api":"csp_Wexxiongdiys","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"农民影视","name":"农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"利播影视","name":"利播┃影视","type":3,"api":"csp_Wexlibhd","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"纯享影视","name":"纯享┃影视","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"两个磁力","name":"两个┃影视","type":3,"api":"csp_Wexbttwo","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
+{"key":"素白白","name":"素白┃影视","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1,"jar": "./lib/o.jar"},
 		{
 			"key": "天天",
 			"name": "國際|天天",
@@ -306,34 +212,9 @@
 			"api": "csp_TTian",
 			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
-		{
-			"key": "追剧",
-			"name": "國際|追剧",
-			"type": 3,
-			"api": "csp_TTian",
-			"ext": "http://app.kzjtv.com$$$null$$$1"
-		},
-
-		{"key":"drpy_js_MP4US","name":"國際|MP4电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
-		{"key":"4KHDR","name":"4KHDR|网盘","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/4khdr.txt$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-
-		{
-			"key": "JustLive",
-			"name": "JustLive",
-			"type": 3,
-			"api": "csp_JustLive",
-			"searchable": 1,
-			"changeable": 0
-		},
+	
 		{"key":"drpy_js_酷吧","name":"國際|酷吧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
-		{"key":"BLSGod","name":"國際|BLS","type":3,"api":"csp_BLSGod","changeable":1, "timeout":60},
-		{"key":"Xunlei8","name":"國際|迅雷8","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
-		{"key":"SeedHub","name":"國際|SEED","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
+		
 		{
 			"key": "快看",
 			"name": "國際|快看",
@@ -344,16 +225,6 @@
 			"changeable": 0,
 			"filterable": 1
 		},
-		{ 
-			"key": "泥巴", 
-			"name": "國際|泥巴 ", 
-			"type": 3, 
-			"api": "csp_NiNi", 
-			"searchable": 1, 
-			"filterable": 1, 
-			"changeable": 0, 
-			"ext":"0$$$proxy" 
-		},
 		{
 			"key": "星星",
 			"name": "國際|星星",
@@ -362,15 +233,6 @@
 			"searchable": 1,
 			"changeable": 0,
 			"ext":"proxy"
-		},
-		{
-			"key": "獨播",
-			"name": "國際|獨播",
-			"type": 3,
-			"api": "csp_XPathMacFilter",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "./lib/duboku.json$$$proxy"
 		},
 		{
 			"key": "haiwaikan",
@@ -424,66 +286,6 @@
 			"playerType":1,
 			"searchable": 1,
 			"changeable": 1
-		},
-		{
-			"key": "飞速资源",
-			"name": "飞速资源",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/http://fszy1.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "暴風",
-			"name": "暴風",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "非凡",
-			"name": "非凡",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1,
-			"categories": [
-				"国产动漫",
-				"日韩动漫",
-				"国产剧",
-				"韩国剧",
-				"日本剧",
-				"电影片",
-				"连续剧",
-				"综艺片",
-				"动漫片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"香港剧",
-				"欧美剧",
-				"记录片",
-				"台湾剧",
-				"海外剧",
-				"泰国剧",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺",
-				"欧美动漫",
-				"港台动漫",
-				"海外动漫"
-			]
 		},
 		
 	{
