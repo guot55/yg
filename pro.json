@@ -72,7 +72,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://buleitv.x3322.net/api.php/app/"
-    },{ 
+    },{
+    "key": "taopian",
+    "name": "淘片",
+    "type": 0,
+    "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1
+  },
+{ 
       "key": "csp_xBPQ_毒蛇", 
       "name": "毒蛇|影视", 
       "type": 3,
