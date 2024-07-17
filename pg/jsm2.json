@@ -240,14 +240,24 @@
       "api": "csp_XBPQ",
       "ext": "./lib/4kys.json"
     },  {
-      "key": "wumao",
-      "name": "五毛|影视",
-      "type": 1,
-      "api": "https://wap.wumao.xyz/api.php/tvbox",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1
-    },  {
+            "key": "落攻阁",
+            "name": "落攻阁|影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+	    "jar": "./lib/XBPQ.jar",
+            "ext": {
+                "主页url": "https://www.lggys.com/",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "播放链接": "href=\"&&\"",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "线路数组": "<div class=\"module-tab-item&&</div>",
+                "线路标题": "<span>&&</span>",
+                "分类url": "https://www.lggys.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$shuangwenduanju"
+            }
+        },  {
       "key": "七夕❤️无广",
       "name": "七夕|影视",
       "type": 3,
