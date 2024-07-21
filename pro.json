@@ -691,7 +691,7 @@
       "filterable": 1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
     },{
             "key": "php_madou",
-            "name": "🔞麻豆3",
+            "name": "🔞麻豆xx",
             "type": 4,
             "api": "https://t4.doube.eu.org/madou.php",
             "searchable": 1,
@@ -701,7 +701,8 @@
                 "type": "rect",
                 "ratio": 1.33
               }
-        },{
+        },
+{
       "key": "J91",
       "name": "🔞91珍惜",
       "type": 3,
