@@ -213,7 +213,7 @@
                 "链接": "href=\"&&\"",
                 "简介": "class=\"video-des\"&&</div>",
                 "线路标题": "data-toggle=\"tab\">&&</a>",
-                "分类url": "https://www.cecidy.cc/vodtype/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
+                "分类url": "https://www.cecidy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
                 "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$60#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#悬疑片$22#犯罪片$23#惊悚片$24#纪录片$25#国产剧$13#港台剧$14"
             }
         },
