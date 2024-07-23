@@ -733,6 +733,27 @@
                 "分类url": "https://rjav.tv/zh/videotype/{cateId}-{catePg}/",
                 "分类": "FC2-PPV$FC2-PPV#日本無碼$JAV_Uncensored#馬賽克破壞$Mosaic_Removed#國產$Asian_Amateur#日本有碼$JAV_Censored#MGS動画$MGS#中文字幕$JAV+CHN.SUBs#動畫$Anime#歐美成人$Western_Porn#Korean BJ Dance$Korean_BJ_Dance#寫真$Adult_IDOL"
             }
+        },{
+            "key": "Xxx",
+            "name": "🔞xxx",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "嗅探词": ".m3u8#.mp4#video.mpd?",
+                "直接播放": 1,
+                "分类url": "https://avlove20.com/category/{cateId}/page/{catePg}/",
+                "分类数组": "<li&&</a >",
+                "分类标题": ">&&</a",
+                "分类ID": "https://avlove20.com/category/&&/",
+                "数组": "< img class&&</div></a ></div>",
+                "链接": "href=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "✨+title\"&&\""
+            }
         },
 {
       "key": "J91",
