@@ -18,7 +18,7 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/mr.js"
-        },{"key":"荐片","name":"荐片┃推荐","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},  {
+        },{"key":"看看影视","name":"看看┃影视","type":3,"api":"csp_WebIV","searchable":1,"quickSearch":1,"filterable":0}, {
       "key": "csp_LiteApple",
       "name": "苹果┃影视",
       "type": 3,
@@ -28,7 +28,7 @@
     "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },{"key":"看看影视","name":"看看┃影视","type":3,"api":"csp_WebIV","searchable":1,"quickSearch":1,"filterable":0},{
+    },{
       "key": "子子影视",
       "name": "子子|影视",
       "type": 3,
@@ -166,7 +166,7 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/北川影视.js"
-        }, 
+        }, {"key":"荐片","name":"荐片┃推荐","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"}, 
 	{"key":"农民影视","name":"农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
 		{"key":"酷看影视","name":"酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1},
 		{"key":"腐剧视频","name":"腐剧┃影视","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1}, 
