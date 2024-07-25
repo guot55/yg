@@ -86,7 +86,7 @@
         "分类url":"https://www.ziziys.com/list/{cateId}-{catePg}.html;;ak",    
         "分类":"电影$1#国产剧$13#动漫$3#美剧$14#日韩剧$15"
     }
-    },  {
+    }, {"key":"星芽短剧","name":"上头┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},  {
       "key": "奇优🏮秒播",
       "name": "奇优|秒播",
      "jar": "./lib/XBPQ.jar",
@@ -293,7 +293,21 @@
                 "分类url": "https://www.lggys.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$shuangwenduanju"
             }
-        },  {
+        }, {"key":"弹幕1","name":"玩偶┃哥哥","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
+		{"key":"弹幕2","name":"玩偶┃表哥","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
+		{"key":"夸克玩弹幕1","name":"玩偶┃夸克1","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true},"jar":"https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+		{"key":"夸克玩弹幕3","name":"玩偶┃夸克2","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://tudou.lvdoui.top","danmu":true},"jar":"https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+		{"key":"夸克玩弹幕4","name":"玩偶┃弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://tv.yydsys.top","danmu":true},"jar":"https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+		{"key":"夸克玩弹幕5","name":"玩偶┃表弟","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://duopan.fun","danmu":true},"jar":"https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+		{"key":"夸克玩弹幕6","name":"玩偶┃表弟","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://mihdr.top","danmu":true},"jar":"https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+		{"key":"夸克影搜弹幕","name":"影搜┃搜索","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+		{"key":"搜索弹幕","name":"搜索┃弹幕","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},"jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+		{"key":"云云弹幕","name":"云搜┃搜索","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},"jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+		{"key":"云搜弹幕","name":"云搜┃弹幕","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},"jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+		{"key":"盘搜弹幕","name":"盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},"jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+		{"key":"易搜弹幕","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true,"cookie":"satoken=60201207-5254-4d44-8ed9-db4ed5476163"},"jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+		{"key":"云盘弹幕","name":"云盘┃搜索","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+		{"key":"小纸条弹幕","name":"小纸条┃搜索","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},"jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0"}, {
       "key": "七夕❤️无广",
       "name": "七夕|影视",
       "type": 3,
@@ -379,7 +393,6 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
-   { "key": "kk", "name": "可可┃影视", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": "./lib/kk.json" },   
      {"key": "白嫖者","name": "白飘|影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"+剧情介绍：&&</p >"}},  {
             "key": "三米ys",
             "name": "三米｜秒播",
@@ -406,7 +419,17 @@
 		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
 		{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
 		{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
-
+		{"key": "学堂","name": "🅰️学堂┃教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/学堂教育.json"},
+		{"key": "少儿","name": "🅰️少儿┃合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/少儿合集.json"}, 
+		{"key": "小学课堂","name": "🅰️小学┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/小学课堂.json"},
+		{"key": "初中课堂","name": "🅰️初中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/初中课堂.json"},
+		{"key": "高中课堂","name": "🅰️高中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/高中课堂.json"},
+		{"key":"小灯塔科学","name":"🌏科学┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://tv.nxog.top/m/Bilibili/小灯塔科学.json"}, 
+		{"key":"小灯塔地理","name":"🌏地理┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://tv.nxog.top/m/Bilibili/小灯塔地理.json"}, 
+		{"key":"小灯塔百科","name":"🌏百科┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://tv.nxog.top/m/Bilibili/小灯塔百科.json"}, 
+		{"key":"小灯塔国学","name":"🌏国学┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://tv.nxog.top/m/Bilibili/小灯塔国学.json"}, 
+{"key": "演唱会","name": "🅱演唱会┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/演唱会.json"},
+		{"key": "戏曲","name": "🅱戏曲┃合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/戏曲合集.json"}, 
 		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
 		{
 			"key": "應用商店",
