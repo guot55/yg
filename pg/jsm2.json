@@ -179,6 +179,7 @@
             "name": "一起看|影视",
             "type": 3,
             "api": "csp_XBPQ",
+	"jar": "./lib/XBPQ.jar",
             "ext": {
                 "主页url": "https://v.zrxgnxddxw.com/",
                 "数组": "<a&&</a ><span",
