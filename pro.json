@@ -951,7 +951,7 @@
                 "分类url": "https://18j.tv/show/{cateId}/nid/1/page/{catePg}/sid/1/",
                 "分类": "国产$1#日韩$2#欧美$3#伦理$4#动漫$16"
             }
-        },"key": "JAVDAY",
+        },{"key": "JAVDAY",
             "name": "🔞JAVDAY",
             "type": 3,
             "api": "csp_XBPQ",
