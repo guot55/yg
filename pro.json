@@ -63,15 +63,7 @@
         "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
-    },  {"key": "T4-hme",
-            "name": "黑木耳(T4)",
-            "type": 4,
-            "api": "https://tang.hz.cz/power/hme",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },{
+    },  {"key": "T4-hme",  "name": "黑木耳(T4)", "type": 4, "api": "https://tang.hz.cz/power/hme","searchable": 1,"quickSearch": 1, "filterable": 1, "changeable": 0 },{
     "key": "taopian",
     "name": "淘片",
     "type": 0,
