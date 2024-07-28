@@ -23,6 +23,11 @@
       "quickSearch": 1,
       "filterable": 1
     },{
+            "key": "cs_bh",
+            "name": "宝盒|影视",
+            "type": 1,
+            "api": "https://guot55.serv00.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+{
       "key": "子子影视",
       "name": "子子|影视",
       "type": 3,
