@@ -5,8 +5,8 @@
             "key": "js豆瓣1",
             "name": "公众号:[宝盒视界],全接口AI过滤广告",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/douban.js",
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/douban.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
