@@ -750,7 +750,29 @@
                 "分类url": "https://taiav.com/cn/category/{cateId}?page={catePg};;z",
                 "分类": "国产AV$国产AV#网红主播$网红主播#有码$有码#无码$无码"
             }
-        },
+        },{
+    "key": "NiceAv",
+    "name": "🔥NiceAv",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+    "style": {
+        "type": "rect",
+        "ratio": 1.5
+    },
+    "ext": {
+        "主页url": "https://www.nice106.xyz/",
+       // "搜索url": "https://www.nice106.xyz/index.php/vod/search/wd={wd}",
+        //"数组": "col-6 col-sm-4 col-lg-3 mb-3\"> <a class=\"tag text-light\" href=\"&&",
+        "图片": "src=\"&&\"",
+        //"标题": "title=\"&&\"",
+        //"副标题": "</span>&&</div>",
+       // "链接": "href=\"&&\"",
+        "简介": "⚠️慢点撸，皮要掉了！！！",
+        "分类url": "https://www.nice106.xyz/index.php/vod/type/id/{cateId}.html",
+        "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16"
+    }
+},
 
 {
             "key": "RJAV",
