@@ -725,15 +725,14 @@
                 "分类": "FC2-PPV$FC2-PPV#日本無碼$JAV_Uncensored#馬賽克破壞$Mosaic_Removed#國產$Asian_Amateur#日本有碼$JAV_Censored#MGS動画$MGS#中文字幕$JAV+CHN.SUBs#動畫$Anime#歐美成人$Western_Porn#Korean BJ Dance$Korean_BJ_Dance#寫真$Adult_IDOL"
             }
         },{
-    "key": "18大白兔",
-    "name": "┃💋大白兔┃💠",
+    "key": "玩偶妹妹",
+    "name": "玩偶妹妹",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-    "style": {
-        "type": "rect",
-        "ratio": 1.77
-    },
+   "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+  "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
     "ext": {
         "主页url": "https://urcccg.dbtav9.today/cn/home/web/",
         "直接播放": "1",
@@ -743,7 +742,7 @@
         //"链接": "href=\"&&\"",
      //   "简介": "span.desc&&",
     //    "主演": "",
-        "分类url": "https://urcccg.dbtav9.today/cn/vodtype/{cateId}.html",
+        "分类url": "https://urcccg.dbtav9.today/vodtype/{cateId}/{catePg}/;;a",
         "分类": "国产精品$20#主播大秀$21#唯美视频$22#口交视频$23#日本有碼$24#日本無碼$25#动漫视频$26#欧美视频$27#日韩视频$28#欧美视频$29#动漫视频$30#伦理影片$31"
     }
 },{
