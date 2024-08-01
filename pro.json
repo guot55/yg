@@ -1152,6 +1152,19 @@
       "searchable": 0,
       "filterable": 1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
     },{
+      "key": "Theporn",
+            "name": "🔞Theporn",
+            "type": 3,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/theporn.js"
+        },{
       "key": "HiPianZhiBo",
       "name": "🔞 嗨片直播 | 视频",
       "type": 3,
