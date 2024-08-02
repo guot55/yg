@@ -10,7 +10,12 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
-        },
+        },{
+    "name": "ETH(JS)",
+    "api": "https://tang.hz.cz/js/ethtv.js",
+    "type": 3,
+    "ua": "okhttp/4.12.0"
+},
 	 {"key":"配置中心","name":"配置|中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar": "https://gitee.com/juanxiao/bh/raw/master/dm.jar"}, 
 	{"key":"看看影视","name":"看看┃影视","type":3,"api":"csp_WebIV","searchable":1,"quickSearch":1,"filterable":0}, {
       "key": "csp_LiteApple",
