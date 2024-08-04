@@ -22,17 +22,7 @@
     "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },   {
-            "key": "JS_4K影院",
-            "name": "4KAV┃DR",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./lib/4KAV.js"
-        },
+    }, 
 {
       "key": "子子影视",
       "name": "子子|影视",
