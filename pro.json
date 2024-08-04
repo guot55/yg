@@ -1089,7 +1089,55 @@
                 "分类url": "https://javday.tv/category/{cateId}/page/{catePg}/",
                 "分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"
             }
-        },
+        },{
+    "key": "airav",
+    "name": "💕AirAv",
+    "type": 3,
+    "api": "csp_XBPQ",
+   "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+    "style": {
+        "type": "rect",
+        "ratio": 1.5
+    },
+    "ext": {
+        "直接播放": 1,
+        "主页url": "https://airav.io/",
+        "数组": "div class=\"row row-cols-2 row-cols-lg-4 g-2 mt-0\"&&</div>",
+        "图片": "img src=\"&&\"",
+        "标题": "alt=\"&&\"",
+        "链接": "a href=\"&&\"",
+        "简介": "div class=\"oneVideo-body\"&&</div>",
+        "线路数组": "div class=\"owl-carousel owl-carousel-banner owl-theme\"&&</div>",
+        "线路标题": "div class=\"oneVideo-body\"&&</div>",
+        "分类url": "https://airav.io/{cateId}/{catePg}.html",
+        "分类": "最新發行$recent/1#最熱門$popular/2#最多觀看$mostviewed/3#最新影片$newest/4#女優專區$actress/5#類型一覽$type/6#AV影評$review/7#遊戲專區$game/8"
+    }
+},
+{
+    "key": "lijav",
+    "name": "💕LiJav",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+    "style": {
+        "type": "rect",
+        "ratio": 1.5
+    },
+    "ext": {
+        "直接播放": 1,
+        "主页url": "https://lijav.com/",
+        "数组": "div[class=\"swiper-slide common_video_swiper_item\"]&&</div>",
+        "图片": "div[class=\"withRatio _cover\"]&&",
+        "标题": "div[class=\"homecoverheader_1_title\"]&&</div>",
+        "链接": "a[class=\"homecoverheader_1_item\"] href=\"&&\"",
+        "简介": "div[class=\"homecoverheader_1_overlay\"]&&",
+        "发布日期": "div[class=\"homecoverheader_1_date\"]&&</div>",
+        "线路数组": "div[class=\"swiper-slide common_video_swiper_item\"]&&</div>",
+        "线路标题": "div[class=\"homecoverheader_1_title\"]&&</div>",
+        "分类url": "https://lijav.com/{cateId}/{catePg}.html",
+        "分类": "主頁$home/1#最受歡迎$popular/2#搜尋$search/3#全部$all/4#有碼影片$coded/5#無碼影片$uncoded/6#中文字幕$subtitles/7#類別$categories/8#女優$actresses/9#我的片單$mylist/10"
+    }
+},
 {
             "key": "AVTOP10",
             "name": "🔞AVTOP10",
