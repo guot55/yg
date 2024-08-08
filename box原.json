@@ -33,6 +33,25 @@
 				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
 			}
 		},  {
+            "key": "✨YY影视✨",
+            "name": "UU|影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": { "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://uuys.cc",
+                "二次截取": "module-page&&<div id=\"page\">",
+                "数组": "<a&&</div></div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "副标题": "✨宝盒专享✨+module-item-note&&</div>",
+                "线路数组": "item tab-item&&</div>[排序:海湾资源>非凡播放>无尽资源]",
+                "线路标题": "宝盒专享✨+<span>&&</span>+【共+<small>&&</small>+集】","播放数组": "module-play-list\"&&</div>","播放标题": "宝盒专享✨+>&&</","简介": "✨宝盒提醒：请勿相信视频里的广告！✨+<p>&&</p >","搜索url":"https://uuys.cc/vodsearch/{wd}----------{pg}---.html",
+                "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
+            }
+        },  {
       "key": "csp_LiteApple",
       "name": "苹果┃影视",
       "type": 3,
