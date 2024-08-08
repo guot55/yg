@@ -50,7 +50,7 @@
                 "分类": "电影$17#电视剧$18#综艺$20#动漫$48#短剧$53#国产剧$9#香港剧$10#台湾剧$21#日本剧$22#TVB专区$52#韩国剧$12#欧美剧$11#泰国剧$23#海外剧$24",
                 "分类url": "https://m.82mao.com/List/{cateId}-{area}----{letter}---{catePg}---{year}.html"
             }
-        }, { "key": "911影院", "name": "911|影院", "type":3,"api":"csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍:+style=\"text-indent:2em;\">&&</span>","数组":"u-movie\">&&</article>","标题":"title=\"&&\"","副标题":"zhuangtai\">&&</span>","线路数组":"<h4 class=\"ctitle\">&&</h4>","分类url":"https://911meiju.com/show/{cateId}/page/{catePg}.html","分类":"电视剧$dsj#电影$dy#美剧$mj#喜剧片$xjp#剧情片$jqp#动作片$dzp#悬疑片$xyp#科幻片$khp"}},
+        }, { "key": "911影院", "name": "911|影院", "type":3,"api":"csp_XBPQ", "ext": {"简介":"关注公众号【宝盒视界】防失联:+style=\"text-indent:2em;\">&&</span>","数组":"u-movie\">&&</article>","标题":"title=\"&&\"","副标题":"zhuangtai\">&&</span>","线路数组":"<h4 class=\"ctitle\">&&</h4>","分类url":"https://911meiju.com/show/{cateId}/page/{catePg}.html","分类":"电视剧$dsj#电影$dy#美剧$mj#喜剧片$xjp#剧情片$jqp#动作片$dzp#悬疑片$xyp#科幻片$khp"}},
 {"key":"星芽短剧","name":"上头┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0}, {"key":"XBPQ_文才","name":"文才|秒播","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
    "ext":{
     "滤词": "",
