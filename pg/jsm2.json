@@ -23,28 +23,7 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-{"key":"星芽短剧","name":"上头┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},  {
-      "key": "奇优🏮秒播",
-      "name": "奇优|秒播",
-     "jar": "./lib/XBPQ.jar",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "简介": "宝盒提醒您,请勿相信影片中的广告，以免上当受骗！+&&</div>",
-        "导演": "宝盒TV",
-        "主演": "主演：&&</p>",
-        "线路数组": "宝盒专享",
-        "线路标题": "宝盒专享",
-        "播放数组": "stui-content__playlist clearfix&&</ul>",
-        "播放列表": "<li>&&</li>",
-        "播放标题": ">&&</a>",
-        "分类url": "http://www.qiyoudy1.com/list/{cateId}_{catePg}.html[http://www.qiyoudy1.com/list/{cateId}.html];;ak",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-      }
-    },{"key":"XBPQ_文才","name":"文才|秒播","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
+{"key":"星芽短剧","name":"上头┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0}, {"key":"XBPQ_文才","name":"文才|秒播","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
    "ext":{
     "滤词": "",
     "直接播放": "0",
@@ -177,13 +156,7 @@
 }
 }
         },  
-	{
-            "key": "drpy_js_北川",
-            "name": "北川|影视",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/北川影视.js"
-        }, {"key":"荐片","name":"荐片┃推荐","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"}, 
+	 {"key":"荐片","name":"荐片┃推荐","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"}, 
 	{"key":"农民影视","name":"农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
 		{"key":"酷看影视","name":"酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1},
 		{"key":"腐剧视频","name":"腐剧┃影视","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1}, 
