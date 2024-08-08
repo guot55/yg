@@ -148,18 +148,8 @@
 ]
 }
 }
-        },{
-            "key": "cs_bh",
-            "name": "宝盒|影视",
-            "type": 1,
-            "api": "https://guot55.serv00.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-	{
-            "key": "drpy_js_北川",
-            "name": "北川|影视",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/北川影视.js"
-        }, {"key":"荐片","name":"荐片┃推荐","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"}, 
+        },
+	 {"key":"荐片","name":"荐片┃推荐","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"}, 
 	{"key":"农民影视","name":"农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
 		{"key":"酷看影视","name":"酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1},
 		{"key":"腐剧视频","name":"腐剧┃影视","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1}, 
