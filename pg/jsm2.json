@@ -41,7 +41,16 @@
                 "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
             }
-        }, 
+        }, {
+      "key": "黑木耳",
+      "name": "木耳|影视",
+      "type": 1,
+      "api": "https://www.heimuer.tv/api.php/provide/vod",
+      "playUrl": "https://player.heimuer.tv/index.html?url=",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": ["剧情", "动作", "冒险", "喜剧", "奇幻", "恐怖", "悬疑", "惊悚", "灾难", "爱情", "犯罪", "科幻", "动画电影", "歌舞", "战争", "经典", "网络电影", "国产剧", "港剧", "韩剧", "日剧", "泰剧", "台剧", "欧美剧", "新马剧", "其他剧", "国产综艺", "港台综艺", "韩国综艺", "日本综艺", "欧美综艺", "新马泰综艺", "其他综艺", "欧美", "日本", "韩国", "国产", "港台", "古装", "虐恋", "逆袭", "悬疑", "神豪", "重生", "复仇", "穿越", "甜宠", "强者"]    
+       },
 {"key":"星芽短剧","name":"上头┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0}, {"key":"XBPQ_文才","name":"文才|秒播","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
    "ext":{
     "滤词": "",
