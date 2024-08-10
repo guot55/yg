@@ -2,28 +2,28 @@
     "urls": [
        
           {
-            "url":"https://pan.shangui.cc/f/v2Lsk/yyfx.json",
-            "name": "🏄️业余线路"
+            "url":"http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🏄️巧记线路"
         },
           {
-            "url":"http://rihou.cc:88/荷城茶秀",
-            "name": "🏄️荷城茶秀"
+            "url":"https://szyyds.cn/tv/x.json",
+            "name": "🏄️小马"
         }, 
           {
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🏄️高天流云"
+            "url":"https://gitee.com/xmbjmjk/omg/raw/master/omg.json",
+            "name": "🏄️拾光"
         }, 
           {
-            "url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
-            "name": "🏄️胖鸭线路"
+            "url":"http://dp.sxtv.top:88/img",
+            "name": "🏄️神仙"
         },
           {
-            "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "🏄️元兴线路"
+            "url":"https://gitee.com/tvkj/tw/raw/main/svip.json",
+            "name": "🏄️天威线路"
         },
           {
-            "url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
-            "name": "🏄️猫爪线路"
+            "url":"https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json",
+            "name": "🏄️春莹线路"
         }		
       ]  
 }
