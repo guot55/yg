@@ -41,9 +41,8 @@
                 "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
             }
-        },{
-            "key": "海纳TV",
-            "name": "海纳|TV",
+        },{ "key": "海纳TV",
+ "name": "海纳|TV",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
