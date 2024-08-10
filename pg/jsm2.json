@@ -41,8 +41,7 @@
                 "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
             }
-        },{ "key": "海纳TV", "name": "海纳|TV", "type": 3, "api": "csp_XBPQ", "ext": { "主页url": "https://hainatv.net/", "分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html", "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"}
-        },{ "key": "php2_hmezy", "name": "黑木耳(T4_PHP)", "type": 4, "api": "https://t4.doube.eu.org/heimuer.php", "searchable": 1, "quickSearch":0, "filterable":0, "changeable":0 },{
+        },{ "key": "海纳TV", "name": "海纳|TV", "type": 3, "api": "csp_XBPQ", "ext": { "主页url": "https://hainatv.net/", "分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html", "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"}},{ "key": "php2_hmezy", "name": "黑木耳(T4_PHP)", "type": 4, "api": "https://t4.doube.eu.org/heimuer.php", "searchable": 1, "quickSearch":0, "filterable":0, "changeable":0 },{
             "key": "工厂",
             "name": "工厂|速播",
             "type": 3,
