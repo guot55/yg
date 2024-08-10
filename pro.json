@@ -867,7 +867,29 @@
                 "分类url": "https://sexbjcam.com/category/{cateId}/page/{catePg}/?filter=latest;;D",
                 "分类": "chinese-gril$chinese-gril#korean-bj$korean-bj#chaturbate$chaturbate"
             }
-        }, {
+        },  {"key":"天堂岛",
+        "name":"🔞天堂岛",
+        "type":3,
+        "api":"csp_XBPQ",
+         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":{
+        "主页url":"https://www.ttdao666.buzz",
+        "数组":"<div class=\"item&&</a",
+        "图片":"data-original=\"&&\"",
+        "标题":"title=\"&&\"",
+        "副标题":"<em>&&</em",
+        "简介":"description\" content=\"&&剧情",
+        "链接":"https://www.ttdao666.buzz/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
+        "跳转播放链接":"var player_*\"url\":\"&&\"",
+        "搜索模式":"1",
+        "搜索url":"https://www.ttdao666.buzz/vod/search/page/{pg}/wd/{wd}/",
+        "分类数组":"<a&&/a",
+        "分类标题":">&&<",
+        "分类ID":"/vod/type/id/&&/",
+        "分类url":"https://www.ttdao666.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"}}, {
             "key": "avge",
             "name": "💗┃💋AVge┃💠",
             "type": 3,
