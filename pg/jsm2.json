@@ -10,6 +10,14 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
+        },{
+            "key": "实验直播4",
+            "name": "宝盒┃直播",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/zh/224.php",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "1"
         },
 	 {"key":"配置中心","name":"配置|中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar": "https://gitee.com/juanxiao/bh/raw/master/dm.jar"}, 
 	 {
