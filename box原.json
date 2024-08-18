@@ -32,7 +32,14 @@
 				"播放标题": "<span>&&</span>",
 				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
 			}
-		},      {
+		},  {
+            "key": "drpy_js_黑木耳资源",
+            "name": "木耳|影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/mr.js"
+        },
+    {
             "key": "yt",
             "name": "宝盒┃4K",
             "type": 3,
