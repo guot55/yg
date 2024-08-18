@@ -200,6 +200,31 @@
 ]
 }
 }
+        },   {
+            "key": "奈落",
+            "name": "奈落┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "主页url": "",
+                "搜索url": "https://www.newfii.com/vodsearch/{wd}----------{pg}---.html",
+                "播放组数": "module-blocklist&&</div>",
+                "跳转播放链接": "var player_*url\":\"&&\"",
+                "跳转解析": "默认$var Player*url=",
+                "数组": "module-item&&</div>",
+                "线路标题": "<span>&&</span>",
+                "标题": "title=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "副标题": ">&&</div>",
+                "线路数组": "module-tab-item tab-item&&</div>",
+                "简介": "<span>&&</span>",
+                "链接": "href=\"&&\"",
+                "分类url": "https://www.newfii.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#综艺$4#动漫$3#记录片$5#B站$39#短剧$53#体育$45",
+                "筛选": ""
+            }
         },  
 	 {"key":"荐片","name":"荐片┃推荐","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"}, 
 	{"key":"农民影视","name":"农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
