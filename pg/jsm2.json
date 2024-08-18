@@ -76,6 +76,12 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": " http://cms-yt.lyyytv.cn/api.php/app/"
+        },{
+            "key": "drpy_js_黑木耳资源",
+            "name": "木耳|影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/mr.js"
         },
 {"key":"星芽短剧","name":"上头┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0}, {"key":"XBPQ_文才","name":"文才|秒播","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
    "ext":{
