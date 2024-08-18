@@ -32,23 +32,7 @@
 				"播放标题": "<span>&&</span>",
 				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
 			}
-		},  {
-            "key": "drpy_js_黑木耳资源",
-            "name": "木耳|影视",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/mr.js"
-        },
-    {
-            "key": "yt",
-            "name": "宝盒┃4K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": " http://cms-yt.lyyytv.cn/api.php/app/"
-        }, {
+		}, {
             "key": "✨YY影视✨",
             "name": "UU|影视",
             "type": 3,
