@@ -1,13 +1,14 @@
 {
     "urls": [
-{
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/pg/qqys.json",
+        {
+            "url": "https://gitcode.net/ygbh66/666/-/raw/master/qqys.json",
             "name": "全球影视"
         },{
             "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fqqys.json?ref=main",
             "name": "全球影视备1"
-        }, {
-            "url": "https://gitcode.net/ygbh66/666/-/raw/master/qqys.json",
+        }, 
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/pg/qqys.json",
             "name": "全球影视备2"
         }
     ]
