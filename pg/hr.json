@@ -2,14 +2,15 @@
 
 {
     "urls": [
-{
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/pg/hrys.json",
+        {
+            "url": "https://gitcode.net/ygbh66/666/-/raw/master/hrys.json",
             "name": "华人影视"
         },{
             "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fhrys.json?ref=main",
             "name": "华人影视备1"
-        }, {
-            "url": "https://gitcode.net/ygbh66/666/-/raw/master/hrys.json",
+        }, 
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/pg/hrys.json",
             "name": "华人影视备2"
         }
     ]
