@@ -67,16 +67,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/qyu.json"
-    },        {
-            "key": "yt",
-            "name": "宝盒┃4K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": " http://cms-yt.lyyytv.cn/api.php/app/"
-        },{
+    },  {
             "key": "drpy_js_黑木耳资源",
             "name": "木耳|影视",
             "type": 3,
@@ -310,6 +301,15 @@
                 "字母值": "*",
                 "排序": "按最新$time#按最热$hits_week#按评分$score"
             }
+        },      {
+            "key": "yt",
+            "name": "影探┃TV",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://cms-yt.lyyytv.cn/api.php/app/"
         },
 		{ "key": "911影院", "name": "九妖|影院", "type":3,"api":"csp_XBPQ", "ext": {"简介":"关注公众号【宝盒视界】防失联:+style=\"text-indent:2em;\">&&</span>","数组":"u-movie\">&&</article>","标题":"title=\"&&\"","副标题":"zhuangtai\">&&</span>","线路数组":"<h4 class=\"ctitle\">&&</h4>","分类url":"https://911meiju.com/show/{cateId}/page/{catePg}.html","分类":"电视剧$dsj#电影$dy#美剧$mj#喜剧片$xjp#剧情片$jqp#动作片$dzp#悬疑片$xyp#科幻片$khp"}},
 	 {"key":"弹幕1","name":"玩偶┃哥哥","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
