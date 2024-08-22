@@ -674,6 +674,29 @@
             "searchable": 1,
             "changeable": 0
         },{
+      "key": "py_liushoushaofu",
+      "name": "🤪 留守少妇(T4_Py)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/api?site=liushoushaofu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    }, {
+            "key": "XHP",
+            "name": "高清小黄片",
+            "type": 3,
+            "api": "csp_XBPQ",
+     "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "ext": {
+                "主页url": "http://gqxhp.top/",
+                "分类": "高清一区$1#高清二区$2#高清三区$3#高清福利$33",
+                "分类url": "http://gqxhp.top/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+            }
+        },{
       "key": "XMVideo",
       "name": "🔞熊猫视频",
       "type": 3,
