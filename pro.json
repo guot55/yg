@@ -501,18 +501,6 @@
                 "ratio": 1.33
               }
         },{
-            "key": "php_madou2",
-            "name": "🔞麻豆x2",
-            "type": 4,
-            "api": "https://t4.doube.eu.org/t4.php",
-            "searchable": 1,
-            "quickSearch":0,
-            "filterable":0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-              }
-        },{
             "key": "JAVSB",
             "name": "🔞JAVSB",
             "type": 3,
