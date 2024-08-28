@@ -5,12 +5,12 @@
             "key": "js豆瓣1",
             "name": "公众号:[宝盒视界],全接口AI过滤广告",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/douban.js",
+            "api": "csp_Douban",
+            "jar": "https://gitee.com/juanxiao/bh/raw/master/bh.jar",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
-        },{
+        }, {
             "key": "实验直播4",
             "name": "宝盒┃直播",
             "type": 4,
