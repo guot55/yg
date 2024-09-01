@@ -37,7 +37,15 @@
                 "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
             }
-        },  {
+        },  { "key": "金牌影视", "name": "金牌|影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头": "User-Agent$MOBILE_UA",
+"编码": "UTF-8","简介":"宝盒为您剧情介绍:+简介:</div>&&</div></div>",
+   "数组":"content-card\">&&</div></div></a></div></div>",
+ // "图片": "https://obs.gduamoe.com+&&\"",
+   "标题":"<div class=\"title\">&&</div>",
+   "副标题":"tag\">&&</div>",
+   "线路标题":"在线播放",
+   "播放数组":"main-list-sections&&</div></div>",
+   "分类url":"https://www.chrqj.com/vod/show/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},  {
       "key": "csp_LiteApple",
       "name": "苹果┃影视",
       "type": 3,
