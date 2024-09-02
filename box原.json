@@ -100,16 +100,7 @@
       "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/4kys.json"
-    },{
-            "key": "yt",
-            "name": "宝盒┃4K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": " http://cms-yt.lyyytv.cn/api.php/app/"
-        }, {
+    }, {
             "key": "皮皮影视吧",
             "name": "皮皮|影视",
             "type": 3,
