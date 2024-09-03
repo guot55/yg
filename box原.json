@@ -60,7 +60,7 @@
       "api": "https://gh.aptv.app/https://github.com/gaotianliuyun/gao/blob/master/lib/drpy2.min.js",
       "ext": "https://gitee.com/juanxiao/bh/raw/master/bh4k.js",
       "searchable": 0
-    }, 
+    },  {"key":"文采","name":"文采┃秒播","type":3,"api":"csp_Jpys",  "jar": "https://gitee.com/tvkj/tw/raw/main/lib/ttkx.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 	 {"key":"荐片","name":"荐片┃推荐","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"}, 
 	{"key":"农民影视","name":"农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
 		{"key":"酷看影视","name":"酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1},
