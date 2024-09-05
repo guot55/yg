@@ -17,7 +17,8 @@
             "ext": "1"
         },
 	 {"key":"配置中心","name":"配置|中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar": "https://gitee.com/juanxiao/bh/raw/master/dm.jar"}, 
-	 {
+	 { "key": "一曲肝肠断", "name": "戏曲┃点播", "type": 3, "api": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/quickjs/lib/drpy2.min.js?ref=JavaScript", "ext": "./lib/xq.js", "style": { "type": "rect", "ratio": 1.597 } }, 
+		{
       "key": "csp_LiteApple",
       "name": "苹果┃影视",
       "type": 3,
