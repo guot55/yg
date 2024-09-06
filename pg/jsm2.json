@@ -77,7 +77,7 @@
 {"key":"csp_xBPQ可可","name":"可可|影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Flib%2Fkkys.json?ref=main"},
 {
             "key": "csp_瓜子",
-            "name": "拾光☪瓜子",
+            "name": "瓜子|影视",
             "api": "csp_Gz360",
             "jar": "https://gitee.com/juanxiao/bh/raw/master/gz.jar",
             "type": 3,
