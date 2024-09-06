@@ -7,15 +7,17 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
-    },{
-            "key": "实验直播4",
-            "name": "宝盒┃直播",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/zh/224.php",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "1"
-        },
+    },  {
+      "key": "hipy_js_好趣网",
+      "name": "电视|直播",
+      "type": 3,
+      "api": "https://gitee.com/xmbjmjk/omg/raw/master/lib/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 87,
+      "ext": "https://gitee.com/juanxiao/bh/raw/master/hqw.js"
+    },
 	 {"key":"配置中心","name":"配置|中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar": "https://gitee.com/juanxiao/bh/raw/master/dm.jar"}, 
 	 { "key": "一曲肝肠断", "name": "戏曲┃点播", "type": 3, "api": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/quickjs/lib/drpy2.min.js?ref=JavaScript", "ext": "./lib/xq.js", "style": { "type": "rect", "ratio": 1.597 } }, 
 		{
