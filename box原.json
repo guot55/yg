@@ -7,6 +7,16 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
+    },  {
+      "key": "hipy_js_好趣网",
+      "name": "电视|直播",
+      "type": 3,
+      "api": "https://gitee.com/xmbjmjk/omg/raw/master/lib/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 87,
+      "ext": "https://gitee.com/juanxiao/bh/raw/master/hqw.js"
     },
 	 {"key":"配置中心","name":"配置|中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar": "https://gitee.com/juanxiao/bh/raw/master/dm.jar"}, 
  {
