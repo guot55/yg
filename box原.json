@@ -24,6 +24,7 @@
             "name": "UU|影视",
             "type": 3,
             "api": "csp_XBPQ",
+	  "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
             "ext": { "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
                 "主页url": "https://uuys.cc",
@@ -38,7 +39,7 @@
                 "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
             }
-        },  { "key": "金牌影视", "name": "金牌|影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头": "User-Agent$MOBILE_UA",
+        },  { "key": "金牌影视", "name": "金牌|影视", "type":3,"api":"csp_XBPQ",  "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar", "ext": {"请求头": "User-Agent$MOBILE_UA",
 "编码": "UTF-8","简介":"宝盒为您剧情介绍:+简介:</div>&&</div></div>",
    "数组":"content-card\">&&</div></div></a></div></div>",
  // "图片": "https://obs.gduamoe.com+&&\"",
@@ -51,8 +52,8 @@
       "name": "苹果┃弹幕",
       "type": 3,
       "playerType": "2",
-      "api": "csp_LiteApple",
-	  "jar": "https://gitee.com/juanxiao/bh/raw/master/dm.jar",	
+      "api": "csp_Xpg",
+  "jar": "https://gitee.com/juanxiao/bh/raw/master/dm.jar",	
     "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -64,6 +65,7 @@
             "name": "文采┃秒播", 
             "type": 3, 
             "api": "csp_XBPQ", 
+	  "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
             "changeable": 0,
             "ext": {
                 "主页url": "https://www.hkybqufgh.com/", 
@@ -93,6 +95,7 @@
       "name": "七夕|影视",
       "type": 3,
       "api": "csp_XBPQ",
+ "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -112,6 +115,7 @@
       "name": "米爱|蓝光",
       "type": 3,
       "api": "csp_XBPQ",
+ "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -145,7 +149,7 @@
       "name": "云播|蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-     "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
+     "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -176,6 +180,7 @@
             "name": "三米｜秒播",
             "type": 3,
             "api": "csp_XBPQ",
+	  "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
             "ext": {
                 "分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
                 "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
@@ -186,12 +191,13 @@
             "name": "星辰｜影视",
             "type": 3,
             "api": "csp_XBPQ",
+	 "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
             "ext": {
                 "分类url": "http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"
             }
         },
-	 {"key":"csp_xBPQ可可","name":"可可|影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Flib%2Fkkys.json?ref=main"},
+	 {"key":"csp_xBPQ可可","name":"可可|影视","type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Flib%2Fkkys.json?ref=main"},
 {
             "key": "csp_瓜子",
             "name": "瓜子|影视",
