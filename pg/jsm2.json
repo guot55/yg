@@ -11,7 +11,7 @@
       "key": "hipy_js_好趣网",
       "name": "电视|直播",
       "type": 3,
-      "api": "https://gitee.com/xmbjmjk/omg/raw/master/lib/drpy_libs/drpy2.min.js",
+      "api": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/quickjs/lib/drpy2.min.js?ref=JavaScript",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
