@@ -197,7 +197,7 @@
                 "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"
             }
         },
-	 {"key":"csp_xBPQ可可","name":"可可|影视","type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Flib%2Fkkys.json?ref=main"},
+	 {"key":"csp_xBPQ可可","name":"可可|影视","type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Flib%2F%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json?ref=main"},
 {
             "key": "csp_瓜子",
             "name": "瓜子|影视",
