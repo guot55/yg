@@ -123,7 +123,75 @@
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4", 
                 "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
             }
-        }, 
+        },  {
+            "key": "85K",
+            "name": "巴乌┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+	   "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "影片地区": "宝盒专享",
+                "影片年代": "<div class=\"module-info-tag\">&&</div>",
+                "影片状态": "备注：&&</div>",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+                "嗅探词": ".m3u8?#c1.rrcdnbf3.com#.m3u8#.mp4",
+                "跳转解析": "默认$https://cdn.zyc888.top/?url=",
+                "分类url": "https://85k.icu/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$47#纪录片$29"
+            }
+        },{
+            "key": "飞飞",
+            "name": "飞飞┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+	   "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "影片年代": "<div class=\"module-info-tag\">&&</div>",
+                "影片地区": "宝盒专享",
+                "影片状态": "备注：&&</div>",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+                "分类url": "https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"
+            }
+        },{
+            "key": "雨见视频",
+            "name": "雨见┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+	  "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "影片类型": "类型：&&</li>",
+                "简介": "🌈宝盒提醒您:请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
+                "分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"
+            }
+        }, {
+            "key": "没事影院",
+            "name": "没事┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+	  "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.yu992.com/lys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "剧集$juji#电影$dianying#综艺$zongyi#动漫$dongman#短剧$duanju"
+            }
+        },
   {
             "key": "奈落",
             "name": "奈落┃蓝光",
