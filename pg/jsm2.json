@@ -17,6 +17,12 @@
       "filterable": 1,
       "order_num": 87,
       "ext": "https://gitee.com/juanxiao/bh/raw/master/hqw.js"
+    }, {
+      "key": "央视片库",
+      "name": "央视|片库",
+      "type": 3,
+      "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+      "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/央视片库.js"
     },
 	 {"key":"配置中心","name":"配置|中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar": "https://gitee.com/juanxiao/bh/raw/master/dm.jar"}, 
 	 { "key": "一曲肝肠断", "name": "戏曲┃点播", "type": 3, "api": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/quickjs/lib/drpy2.min.js?ref=JavaScript", "ext": "./lib/xq.js", "style": { "type": "rect", "ratio": 1.597 } }, 
