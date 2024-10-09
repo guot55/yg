@@ -387,7 +387,7 @@
 		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
 		{
 			"key": "應用商店",
-			"name": "防失联；http://ygbh.live",
+			"name": "公众号:宝盒没宝",
 			"type": 3,
 			"api": "csp_Market",
 			"searchable": 0,
