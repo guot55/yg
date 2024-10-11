@@ -50,7 +50,7 @@
                 "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
             }
-        }, { "key": "金牌影视", "name": "金牌|影视", "type":3,"api":"csp_XBPQ","jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar", "ext": {"请求头": "User-Agent$MOBILE_UA",
+        }, {"key":"木耳","name":"木耳｜影视","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":20,"categories":["剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"} },{ "key": "金牌影视", "name": "金牌|影视", "type":3,"api":"csp_XBPQ","jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar", "ext": {"请求头": "User-Agent$MOBILE_UA",
 "编码": "UTF-8","简介":"宝盒为您剧情介绍:+简介:</div>&&</div></div>",
    "数组":"content-card\">&&</div></div></a></div></div>",
  // "图片": "https://obs.gduamoe.com+&&\"",
