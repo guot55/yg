@@ -1,5 +1,5 @@
 {
-	"spider":"https://gitea.moe/ygbh/bhmb/raw/branch/main/bhtv.jar",
+	"spider":"./bhtv.jar",
 	"sites":[
 		{
       "key": "drpy_js_豆瓣",
