@@ -1,12 +1,11 @@
 {
-	"spider":"https://gitee.com/juanxiao/bh/raw/master/bhtv.jar",
+	"spider":"https://gitea.moe/ygbh/bhmb/raw/branch/main/bhtv.jar",
 	"sites":[
 		{
       "key": "drpy_js_豆瓣",
       "name": "🌈公众号【宝盒视界】",
       "type": 3,
       "api": "csp_Douban",
-"jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar",
       "searchable": 0
     },  {
       "key": "hipy_js_好趣网",
@@ -35,7 +34,6 @@
             "name": "UU|影视",
             "type": 3,
             "api": "csp_XBPQ",
-	"jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
             "ext": { "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
                 "主页url": "https://uuys.cc",
@@ -85,17 +83,15 @@
       "name": "三思┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-"jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/348.json"
-    }, {"key":"csp_xBPQ可可","name":"可可|影视","type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Flib%2F%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json?ref=main"}, {
+    }, {"key":"csp_xBPQ可可","name":"可可|影视","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Flib%2F%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json?ref=main"}, {
       "key": "qyys",
       "name": "奇优┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-"jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -106,7 +102,6 @@
 			"name": "Kimi┃影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-          "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar", 
 			"style": {
 				"ratio": 1.33
 			},
@@ -212,7 +207,6 @@
             "name": "奈落┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
-	  "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
             "filterable": 1,
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
@@ -233,7 +227,7 @@
                 "分类": "电影$1#剧集$2#综艺$4#动漫$3#记录片$5#B站$39#短剧$53#体育$45",
                 "筛选": ""
             }
-        }, {"key": "凯奇追剧","name": "凯奇|影视","type": 3,"api": "csp_XBPQ","jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","ext": {"简介":"+hl-content-text\">&&</span>","分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"}}, 
+        }, {"key": "凯奇追剧","name": "凯奇|影视","type": 3,"api": "csp_XBPQ","ext": {"简介":"+hl-content-text\">&&</span>","分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"}}, 
 	{"key":"荐片","name":"荐片｜影视","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"nangua","name":"南瓜｜影视","type":3,"playerType":"2","api":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/ng_open.js"},
 {"key":"天天","name":"天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
