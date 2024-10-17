@@ -17,7 +17,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 87,
-      "ext": "https://codeberg.org/ygbh/bh/raw/branch/master/drpy_js/%E5%A5%BD%E8%B6%A3%E7%BD%91%5B%E6%92%AD%5D.js"
+      "ext": "http://www.uuneed.cn/ygbh/bh/raw/master/drpy_js/%e5%a5%bd%e8%b6%a3%e7%bd%91[%e6%92%ad].js"
     }, {
       "key": "央视片库",
       "name": "央视|片库",
@@ -53,32 +53,32 @@
 			"key": "hipy_js_金牌影院",
 			"name": "金牌┃影院",
 			"type": 3,
-			"api": "https://codeberg.org/ygbh/bh/raw/branch/master/drpy_libs/drpy2.min.js",
+			"api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://codeberg.org/ygbh/bh/raw/branch/master/drpy_js/金牌影院.js"
+			"ext": "http://www.uuneed.cn/ygbh/bh/raw/4102b5e8cea738c78c37d1be0b2974b8c215a642/drpy_js/%e9%87%91%e7%89%8c%e5%bd%b1%e9%99%a2.js"
 		},{
 			"key": "hipy_js_瓜子视频",
 			"name": "瓜子┃视频",
 			"type": 3,
-			"api": "https://codeberg.org/ygbh/bh/raw/branch/master/drpy_libs/drpy2.min.js",
+			"api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://codeberg.org/ygbh/bh/raw/branch/master/drpy_js/瓜子视频.js"
+			"ext": "http://www.uuneed.cn/ygbh/bh/raw/4102b5e8cea738c78c37d1be0b2974b8c215a642/drpy_js/%e7%93%9c%e5%ad%90%e8%a7%86%e9%a2%91.js"
 		},{
 			"key": "hipy_js_4K-AV",
 			"name": "4K┃视频",
 			"type": 3,
-			"api": "https://codeberg.org/ygbh/bh/raw/branch/master/drpy_libs/drpy2.min.js",
+			"api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://codeberg.org/ygbh/bh/raw/branch/master/drpy_js/4K-AV.js"
+			"ext": "http://www.uuneed.cn/ygbh/bh/raw/4102b5e8cea738c78c37d1be0b2974b8c215a642/drpy_js/4K-AV.js"
 		}, {"key":"木耳","name":"木耳┃影视","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":20,"categories":["剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"} },  {
       "key": "ssys",
       "name": "三思┃影视",
