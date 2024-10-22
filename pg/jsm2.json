@@ -97,7 +97,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/qyu.json"
-    },{"key": "奈飞影视","name":"鸭奈飞|影视","type":3,"api":"csp_XYQHiker", "jar": "https://notabug.org/HFDS/bhmb/raw/main/jar/XYQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/ynf.json"},
+    },{"key": "奈飞影视","name":"鸭奈飞|影视","type":3,"api":"csp_XYQHiker", "jar": "https://gitea.com/guot2024/bh/raw/branch/main/XYQ.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/ynf.json"},
 	{
 			"key": "kimi",
 			"name": "Kimi┃影视",
@@ -107,7 +107,7 @@
 				"ratio": 1.33
 			},
 			"ext":"https://www.gitlink.org.cn/api/guot55/yg/raw/lib%2FKimivod.json?ref=main"},
-{"key": "奈飞中文","name":"奈飞|中文","type":3,"api":"csp_XYQHiker","jar": "https://notabug.org/HFDS/bhmb/raw/main/jar/XYQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nfzw.json"},
+{"key": "奈飞中文","name":"奈飞|中文","type":3,"api":"csp_XYQHiker","jar": "https://gitea.com/guot2024/bh/raw/branch/main/XYQ.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nfzw.json"},
 {"key":"星芽短剧","name":"上头┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0}, 
   {
             "key": "文采影视", 
