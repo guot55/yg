@@ -24,7 +24,7 @@
       "type": 3,
       "api": "http://www.uuneed.cn/ygbh/bh/raw/master/drpy_libs/drpy2.min.js",
       "ext": "https://www.gitlink.org.cn/api/guot55/TVBOX/raw/JS%2F%E5%A4%AE%E8%A7%86%E7%89%87%E5%BA%93.js?ref=master"
-    },{"key": "应用商店","name": "宝盒┃商店","type": 3,"jar":"https://notabug.org/HFDS/bhmb/raw/main/jar/sd.jar","api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://3043.kstore.space/bhvip/jpg/bh.json"},
+    },{"key": "应用商店","name": "宝盒┃商店","type": 3,"jar":"https://gitea.com/guot2024/bh/raw/branch/main/sd.txt","api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://3043.kstore.space/bhvip/jpg/bh.json"},
 	{"key":"配置中心","name":"配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}}, 
 	 { "key": "一曲肝肠断", "name": "戏曲┃点播", "type": 3, "api": "http://www.uuneed.cn/ygbh/bh/raw/master/drpy_libs/drpy2.min.js", "ext": "./lib/xq.js", "style": { "type": "rect", "ratio": 1.597 } }, 
 	{"key":"荐片弹幕","name":"荐片┃弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
@@ -88,7 +88,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/348.json"
-    }, {"key":"csp_xBPQ可可","name":"可可|影视","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Flib%2F%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json?ref=main"}, {
+    }, {"key":"csp_xBPQ可可","name":"可可|影视","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/ygbh/yg/raw/branch/main/pg/lib/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"}, {
       "key": "qyys",
       "name": "奇优┃影视",
       "type": 3,
