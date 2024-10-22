@@ -1,12 +1,12 @@
 {
-	"spider":"https://www.gitlink.org.cn/api/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",
+	"spider":"https://notabug.org/HFDS/bhmb/raw/main/jar/bhtv.txt",
 	"sites":[
 		{
       "key": "drpy_js_豆瓣",
       "name": "🌈公众号【宝盒视界】",
       "type": 3,
       "api": "csp_Douban",
-"jar": "https://www.gitlink.org.cn/api/guot55/yg/raw/jar%2Fo2.jar?ref=main",
+"jar": "https://notabug.org/HFDS/bhmb/raw/main/jar/o2.jar",
       "searchable": 0
     },  {
       "key": "hipy_js_好趣网",
