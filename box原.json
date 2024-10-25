@@ -1,12 +1,12 @@
 {
-	"spider":"https://www.gitlink.org.cn/api/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",
+	"spider":"https://cdn09022024.gitlink.org.cn/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",
 	"sites":[
 		{
       "key": "drpy_js_豆瓣",
       "name": "🌈公众号【宝盒视界】",
       "type": 3,
       "api": "csp_Douban",
-"jar": "https://www.gitlink.org.cn/api/guot55/yg/raw/jar%2Fo2.jar?ref=main",
+"jar": "https://cdn09022024.gitlink.org.cn/guot55/yg/raw/jar%2Fo2.jar?ref=main",
       "searchable": 0
     },
 	{"key":"配置中心","name":"配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}}, 
@@ -43,7 +43,7 @@
 			"style": {
 				"ratio": 1.33
 			},
-			"ext":"https://www.gitlink.org.cn/api/guot55/yg/raw/lib%2FKimivod.json?ref=main"},
+			"ext":"https://cdn09022024.gitlink.org.cn/guot55/yg/raw/lib%2FKimivod.json?ref=main"},
 {"key":"星芽短剧","name":"上头┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0}, 
   {
             "key": "文采影视", 
