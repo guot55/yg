@@ -33,7 +33,18 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/bh666/bhapi/raw/branch/master/drpy_js/drpy_js/%e9%87%91%e7%89%8c%e5%bd%b1%e9%99%a2.js"
-		},{
+		}, {
+      "key": "hipy_js_腾云驾雾[在线]",
+      "name": "腾云┃4K",
+      "type": 3,
+      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
+    },{
 			"key": "hipy_js_瓜子视频",
 			"name": "瓜子┃视频",
 			"type": 3,
