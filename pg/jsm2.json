@@ -44,7 +44,18 @@
       "order_num": 0,
       "changeable": 0,
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
-    },{
+    },  {
+      "key": "guoguo",
+      "name": "果果┃4K",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/bh666/bhapi/raw/branch/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/bh666/bhapi/raw/drpy_js%2Fguoguo.js?ref=master"
+    }, {
 			"key": "hipy_js_瓜子视频",
 			"name": "瓜子┃视频",
 			"type": 3,
