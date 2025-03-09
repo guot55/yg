@@ -73,6 +73,16 @@
           "ext": {
               "danmu": true
           }
+      },{
+          "key": "狐狸君",
+          "name": "狐狸君｜4K",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "changeable": 1,
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/XBPQ/狐狸君.json"
       },
       {
           "key": "天天弹幕",
@@ -124,41 +134,6 @@
           "ext": {
               "danmu": true
           }
-      },
-      {
-          "key": "哔哩弹幕",
-          "name": "哔哩｜弹幕",
-          "type": 3,
-          "api": "csp_Bilimd",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1,
-          "style": {
-              "type": "rect",
-              "ratio": 1.597
-          },
-          "ext": {
-              "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
-          },
-          "timeout": 10
-      },
-      {
-          "key": "哔哩合集",
-          "name": "哔哩合集｜弹幕",
-          "type": 3,
-          "api": "csp_Bili",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1,
-          "style": {
-              "type": "rect",
-              "ratio": 1.597
-          },
-          "ext": {
-              "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-              "json": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JSON/哔哩合集.json"
-          },
-          "timeout": 10
       },
       {
           "key": "立播弹幕",
@@ -1665,17 +1640,6 @@
           "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/XYQHiker/电影港.json"
       },
       {
-          "key": "狐狸君",
-          "name": "狐狸君｜磁力",
-          "type": 3,
-          "api": "csp_XBPQ",
-          "changeable": 1,
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1,
-          "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/XBPQ/狐狸君.json"
-      },
-      {
           "key": "布谷TV",
           "name": "布谷TV｜磁力",
           "type": 3,
@@ -1753,6 +1717,40 @@
           "style": {
               "type": "list"
           }
+      },    {
+          "key": "哔哩弹幕",
+          "name": "哔哩｜弹幕",
+          "type": 3,
+          "api": "csp_Bilimd",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "style": {
+              "type": "rect",
+              "ratio": 1.597
+          },
+          "ext": {
+              "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
+          },
+          "timeout": 10
+      },
+      {
+          "key": "哔哩合集",
+          "name": "哔哩合集｜弹幕",
+          "type": 3,
+          "api": "csp_Bili",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "style": {
+              "type": "rect",
+              "ratio": 1.597
+          },
+          "ext": {
+              "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+              "json": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JSON/哔哩合集.json"
+          },
+          "timeout": 10
       },
       {
           "key": "我的UC",
