@@ -52,10 +52,10 @@
     "name": "其他娱乐类",
     "list": [
      {
-        "name": "秒看直播",
-        "url": "https://3043.kstore.space/wj/全聚合.apk",
+        "name": "TV直播",
+        "url": "https://3043.kstore.space/wj/OurTV_3.7.0_android_tv.apk",
         "icon": "http://64.112.42.49:6688/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/dsj.jpg",
-        "version": "1.0.8"
+        "version": "3.7.0"
       },{
         "name": "纯粹直播",
         "url": "https://ygbh.site/wj/sl.apk",
@@ -71,11 +71,6 @@
         "url": "https://ygbh.site/wj/gj.apk",
         "icon": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/gj.jpg",
         "version": "V1.3.4"
-      },{
-        "name": "看看影视",
-        "url": "https://ygbh.site/wj/kk.apk",
-        "icon": "http://64.112.42.49:6688/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/dbzm.jpg",
-        "version": "破解版"
       },{
         "name": "今日(邀请码15908)",
         "url": "https://ygbh.site/wj/jr.apk",
