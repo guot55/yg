@@ -104,12 +104,15 @@
       "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/XBPQ/狐狸君.json"
     },
     {
-      "key": "巧技",
-      "name": "🍠巧技｜APP",
+      "key": "接影视影视",
+      "name": "💓宝盒｜没宝",
       "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
+      "api": "https://try.gogs.io/guot54/bh/raw/main/py/jieyingshi.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "木头",
