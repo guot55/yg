@@ -35,10 +35,10 @@
         "version": "0912"
       },
       {
-        "name": "宝盒影视仓",
-        "url": "hhttps://3043.kstore.space/bhvip/wj/%E6%B2%B9%E6%A1%83TV%28web%29_20250317.apk",
+        "name": "宝盒PRO",
+        "url": "https://3043.kstore.space/bhvip/wj/PRO.apk",
         "icon": "https://3043.kstore.space/bhvip/jpg/ty.jpg",
-        "version": "5.032"
+        "version": "pro"
       },{
         "name": "宝盒LIVE0609",
         "url": "https://3043.kstore.space/bhvip/wj/%E5%AE%9D%E7%9B%92LIVEvip.apk",
@@ -86,3 +86,4 @@
     ]
   }
 ]
+
