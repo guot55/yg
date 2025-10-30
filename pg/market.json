@@ -51,6 +51,12 @@
   {
     "name": "其他娱乐类",
     "list": [
+         {
+        "name": "小飞直播",
+        "url": "https://3043.kstore.space/bhvip/wj/%E5%B0%8F%E9%A3%9E%E7%94%B5%E8%A7%86.apk",
+        "icon": "https://3043.kstore.space/bhvip/jpg/ty.jpg",
+        "version": "1.9.0"
+      },
      {
         "name": "TV直播",
         "url": "https://3043.kstore.space/bhvip/wj/%E9%AB%98%E6%B8%85%E7%94%B5%E8%A7%86+%5B2.96%5D.apk",
@@ -86,4 +92,5 @@
     ]
   }
 ]
+
 
