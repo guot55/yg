@@ -10,18 +10,17 @@
         }
     ],
     "sites": [
-            {
-            "key": "csp_TgDouban",
-            "name": "🥳公众号┃宝盒没宝",
-            "type": 3,
-            "api": "csp_TgDouban",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "filters": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json",
-                "limit": 3
-            }
-        },
+             {
+      "key": "csp_Douban",
+      "name": "🌈公众号【宝盒资源】",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "http://vip.bhh.indevs.in/pmdvox.jar",
+      "searchable": 0,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://3043.kstore.space/douban.json"
+    },
         {
             "key": "csp_Config",
             "name": "😊配置┃中心",
@@ -976,3 +975,4 @@
         "s3t3d2y8.afcdn.net"
     ]
 }
+
